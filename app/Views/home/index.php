@@ -106,13 +106,23 @@
 </section>
 
 
-<!-- 3. THE 26-YEAR LEGACY SECTION -->
 <section class="legacy-section">
+    <!-- Decorative Background Leaves -->
+    <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="legacy-decor-leaf-left">
+    <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="legacy-decor-leaf-right">
     <div class="section-container">
 
         <!-- Header -->
         <div class="legacy-header text-center">
-            <span class="legacy-eyebrow">OUR LEGACY</span>
+            <span class="legacy-eyebrow">
+                <svg class="eyebrow-leaf leaf-left" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M17 8C8 8 4 15 3 21C6.5 19.5 11 19 14 17C17 15 18 11.5 18 10C18 9 17.5 8.5 17 8M14 2C8.5 5.5 6 11.5 5.5 14C8 12.5 13 11 16.5 7C18 5 18.5 3 18.5 2.5C18.5 2.2 18.2 2 18 2M21 13C17.5 14.5 15.5 17.5 15 19C17.5 18 20 16 21 14C21.5 13.2 21.2 13 21 13Z" />
+                </svg>
+                OUR LEGACY
+                <svg class="eyebrow-leaf leaf-right" viewBox="0 0 24 24">
+                    <path fill="currentColor" d="M17 8C8 8 4 15 3 21C6.5 19.5 11 19 14 17C17 15 18 11.5 18 10C18 9 17.5 8.5 17 8M14 2C8.5 5.5 6 11.5 5.5 14C8 12.5 13 11 16.5 7C18 5 18.5 3 18.5 2.5C18.5 2.2 18.2 2 18 2M21 13C17.5 14.5 15.5 17.5 15 19C17.5 18 20 16 21 14C21.5 13.2 21.2 13 21 13Z" />
+                </svg>
+            </span>
             <h2 class="legacy-title">Serving Ranchi One Homemade<br>Meal At A Time Since 1999</h2>
             <p class="legacy-subtitle">More than food. A tradition passed through generations.</p>
         </div>
@@ -1624,8 +1634,8 @@
     <div class="section-container">
         <div class="final-cta-card">
             <!-- Decorative Background SVGs -->
-            <img src="<?php echo $baseUrl; ?>assets/images/cta_leaf_left.svg" alt="" class="cta-decor-leaf-left">
-            <img src="<?php echo $baseUrl; ?>assets/images/cta_leaf_left.svg" alt="" class="cta-decor-leaf-right">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-left">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-right">
             <svg class="cta-decor-dots-left" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
                 <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
                 <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
