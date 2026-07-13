@@ -1,0 +1,40 @@
+<svg width="300" height="400" viewBox="0 0 300 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main stem -->
+  <path d="M50 380 C80 300 130 200 250 50" stroke="#d49e2f" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+  
+  <!-- Leaf 1 Left (Bottom) -->
+  <path d="M90 280 C60 270 40 290 35 315 C45 330 80 320 100 295 C100 295 95 285 90 280 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M35 315 C60 305 80 300 100 295" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+  
+  <!-- Leaf 1 Right (Bottom) -->
+  <path d="M110 305 C135 320 160 310 175 295 C165 275 130 270 115 285 C115 285 110 295 110 305 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M110 305 C130 295 150 290 175 295" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+  
+  <!-- Leaf 2 Left (Middle-Lower) -->
+  <path d="M130 210 C100 190 75 210 65 235 C75 255 110 245 135 225 C135 225 130 215 130 210 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M65 235 C95 225 115 220 135 225" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+  
+  <!-- Leaf 2 Right (Middle-Lower) -->
+  <path d="M150 230 C175 250 205 240 215 225 C205 205 175 200 160 215 C160 215 155 220 150 230 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M150 230 C170 220 190 215 215 225" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Leaf 3 Left (Middle-Upper) -->
+  <path d="M170 140 C140 120 115 135 105 160 C115 180 150 170 175 150 C175 150 170 140 170 140 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M105 160 C135 150 155 145 175 150" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+  
+  <!-- Leaf 3 Right (Middle-Upper) -->
+  <path d="M190 160 C215 180 245 170 255 155 C245 135 215 130 200 145 C200 145 195 150 190 160 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M190 160 C210 150 230 145 255 155" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Leaf 4 Left (Top) -->
+  <path d="M210 80 C190 60 165 70 155 95 C165 110 195 105 215 90 C215 90 210 85 210 80 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M155 95 C180 85 200 80 215 90" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+  
+  <!-- Leaf 4 Right (Top) -->
+  <path d="M225 100 C245 115 275 105 285 90 C275 75 245 70 235 85 C235 85 230 90 225 100 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M225 100 C245 90 265 85 285 90" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Leaf 5 (Terminal Tip) -->
+  <path d="M250 50 C240 25 245 10 260 5 C270 15 265 35 250 50 Z" stroke="#d49e2f" stroke-width="1.2" fill="rgba(212, 158, 47, 0.05)" opacity="0.35"/>
+  <path d="M260 5 C255 20 252 35 250 50" stroke="#d49e2f" stroke-width="0.8" opacity="0.3"/>
+</svg>

@@ -1,0 +1,230 @@
+{
+  "office-lunch-ranchi": {
+    "slug": "office-lunch-ranchi",
+    "title": "Office Lunch Delivery in Ranchi",
+    "angle": "Daily lunch programs for teams — consistent, affordable, on-time",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-briefcase",
+    "description": "Daily lunch programs for office employees and working professionals. Fresh, hot, and hygienic home-style meals delivered straight to your workspace.",
+    "includes": [
+      "Individually packed, leak-proof premium thalis.",
+      "Daily rotating menu featuring seasonal vegetables, dal, rice, and fresh chapatis.",
+      "Strict delivery schedules to ensure meals arrive before your lunch break.",
+      "Hygienically prepared using premium ingredients and low oil."
+    ],
+    "faqs": [
+      {"q": "What is the minimum order quantity for office delivery?", "a": "For daily corporate plans, the minimum is 5 meals. For one-time office meetings, we support events of any scale."},
+      {"q": "Can we choose between veg and non-veg meals?", "a": "Yes, we allow custom ratios of veg and non-veg options for your team. You can adjust the counts with 24 hours' notice."}
+    ]
+  },
+  "corporate-lunch-ranchi": {
+    "slug": "corporate-lunch-ranchi",
+    "title": "Corporate Lunch Catering in Ranchi",
+    "angle": "Recurring meal contracts for companies, HR-friendly billing",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-building",
+    "description": "Premium recurring corporate cafeteria and lunch contracts for organizations, businesses, and coaching centers.",
+    "includes": [
+      "Customizable menus tailored to staff taste preferences and budgets.",
+      "Flexible monthly billing, itemized invoicing, and contract management.",
+      "Buffet setup support or individually packaged meals.",
+      "Compliance with highest industry standard safety and health regulations."
+    ],
+    "faqs": [
+      {"q": "Do you provide buffet servers for corporate dining?", "a": "Yes, for corporate accounts of 50+ staff, we can provide dedicated service staff, buffet heaters, and setups."},
+      {"q": "Are trials available before signing a long-term contract?", "a": "Absolutely. We offer paid 3-day meal trials so your team can sample our food quality and delivery promptness."}
+    ]
+  },
+  "pg-food-supply-ranchi": {
+    "slug": "pg-food-supply-ranchi",
+    "title": "PG Food Supply in Ranchi",
+    "angle": "Daily meal supply for PG accommodations, flexible quantities",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-home",
+    "description": "Reliable meal catering for PG (Paying Guest) owners. Keep your residents happy and well-fed with home-style Indian cuisine.",
+    "includes": [
+      "Timely breakfast, lunch, and dinner batches supplied daily.",
+      "Flexible billing scaling up or down depending on resident occupancy.",
+      "Traditional home-style recipes that make residents feel close to home.",
+      "High hygiene standards with monthly feedback reviews."
+    ],
+    "faqs": [
+      {"q": "How do you manage fluctuating student counts in PGs?", "a": "We operate with a simple check-in sheet where owners notify us by 7:00 AM of any major daily changes in numbers."},
+      {"q": "Do you serve special meals on festivals?", "a": "Yes, we celebrate festivals with special menus like kheer, poori, paneer, or chicken curry at no extra cost for regular PG partners."}
+    ]
+  },
+  "hostel-food-supply-ranchi": {
+    "slug": "hostel-food-supply-ranchi",
+    "title": "Hostel Food Supply in Ranchi",
+    "angle": "Large-scale daily meals for hostels, consistent quality at volume",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-hotel",
+    "description": "Bulk boarding meals for educational institutes, private hostels, and training centers across Ranchi since 1999.",
+    "includes": [
+      "Healthy, low-oil, low-spice recipes designed for daily consumption.",
+      "Bulk container hot deliveries or on-premise service options.",
+      "Nutritious high-protein diets containing milk, eggs, paneer, and lean meat.",
+      "Cost-optimized packages for large student counts."
+    ],
+    "faqs": [
+      {"q": "How large of a hostel can you cater to?", "a": "We have capacity to cook up to 1,000 meals daily in our centralized commercial kitchen and deliver safely using transport trucks."},
+      {"q": "Are you licensed under food safety authorities?", "a": "Yes, Student's Mess is fully FSSAI registered and strictly follows food preparation safety rules."}
+    ]
+  },
+  "student-tiffin-ranchi": {
+    "slug": "student-tiffin-ranchi",
+    "title": "Student Tiffin Service in Ranchi",
+    "angle": "Affordable home style tiffin for students living away from home",
+    "cta": "Explore Monthly Plans",
+    "icon": "fa-graduation-cap",
+    "description": "Affordable, healthy, and hygienic home-style daily tiffin boxes for students living away from home for coaching and college.",
+    "includes": [
+      "Pocket-friendly plans starting from basic veg thalis.",
+      "Convenient monthly billing cards with easy pausing of meals during exams/holidays.",
+      "Hot takeaway collection or delivery near major coaching hubs.",
+      "Healthy ingredients that mimic mother's cooking."
+    ],
+    "faqs": [
+      {"q": "Can I pause my tiffin during vacations or holidays?", "a": "Yes, students can pause meals via WhatsApp with 12 hours' notice, and the billing dates adjust automatically."},
+      {"q": "Is the food spicy or oily?", "a": "No, we use minimal spices and heart-healthy oils so students can eat our food twice a day without stomach issues."}
+    ]
+  },
+  "veg-meals-ranchi": {
+    "slug": "veg-meals-ranchi",
+    "title": "Veg Meals in Ranchi",
+    "angle": "Pure vegetarian home style meals, daily or on-demand",
+    "cta": "View Menu / Order",
+    "icon": "fa-leaf",
+    "description": "Hygienically prepared pure vegetarian thalis and meals, using fresh local vegetables and homemade spice blends.",
+    "includes": [
+      "100% vegetarian separate preparation kitchen space.",
+      "Includes basmati rice, soft wheat chapatis, dal, and two seasonal vegetables.",
+      "Freshly prepared salads and house pickles served with every meal.",
+      "Hassle-free takeaway packaging."
+    ],
+    "faqs": [
+      {"q": "Do you use MSG or baking soda in your food?", "a": "No. We prepare clean home food. We do not use MSG, chemical food colors, or soda in our kitchen."},
+      {"q": "Do you have paneer or special dishes in veg meals?", "a": "Yes, our daily rotating menu includes special dishes like Paneer Masala, Kofta, or Kadhi on designated days of the week."}
+    ]
+  },
+  "non-veg-meals-ranchi": {
+    "slug": "non-veg-meals-ranchi",
+    "title": "Non-Veg Meals in Ranchi",
+    "angle": "Fresh non-veg home style meals, hygienically prepared",
+    "cta": "View Menu / Order",
+    "icon": "fa-drumstick-bite",
+    "description": "Succulent chicken, egg, and fish curries prepared with home-style recipes. Clean, delicious, and deeply satisfying.",
+    "includes": [
+      "Fresh meat sourced daily from certified clean vendors.",
+      "Traditional slow-cooked curry styles (Dehati Chicken, Egg Curry).",
+      "Prepared separately from general vegetarian meals to maintain sanctity.",
+      "Perfect portions of protein with rice and warm chapatis."
+    ],
+    "faqs": [
+      {"q": "What days do you prepare non-veg meals?", "a": "Non-veg meals are prepared on Wednesdays, Fridays, and Sundays. Egg curry options are also available on request on other days."},
+      {"q": "Is the meat halal?", "a": "Yes, all chicken and meat sourced is 100% Halal cut."}
+    ]
+  },
+  "daily-lunch-ranchi": {
+    "slug": "daily-lunch-ranchi",
+    "title": "Daily Lunch Service in Ranchi",
+    "angle": "Everyday lunch — individual or bulk",
+    "cta": "Explore Monthly Plans",
+    "icon": "fa-sun",
+    "description": "Satisfying midday meal plans. Energy-rich home food to fuel your afternoon classes or desk job.",
+    "includes": [
+      "Light and balanced lunch items to prevent post-lunch sluggishness.",
+      "Packed fresh at 11:30 AM and shipped immediately.",
+      "Comfort food: yellow dal, rice, light dry subzi, and fresh chapatis.",
+      "Takeaway pickup slots available."
+    ],
+    "faqs": [
+      {"q": "What time is lunch available for takeaway?", "a": "Takeaway lunch is ready from 12:00 PM to 3:00 PM daily at our main location."}
+    ]
+  },
+  "daily-dinner-ranchi": {
+    "slug": "daily-dinner-ranchi",
+    "title": "Daily Dinner Service in Ranchi",
+    "angle": "Everyday dinner — individual or bulk",
+    "cta": "Explore Monthly Plans",
+    "icon": "fa-moon",
+    "description": "Wrap up your day with a comforting, warm dinner. No cooking stress, just sit back and enjoy a home-style plate.",
+    "includes": [
+      "Warm chapatis, seasonal curries, and comforting soups/dals.",
+      "Available for collection or delivery between 7:30 PM and 9:30 PM.",
+      "Easy digestion meals to promote healthy sleep.",
+      "Fresh salad and curd accompaniments."
+    ],
+    "faqs": [
+      {"q": "Can I swap rice for extra rotis for dinner?", "a": "Yes. You can customize your roti/rice ratio for all daily subscription dinner plans."}
+    ]
+  },
+  "construction-site-meals-ranchi": {
+    "slug": "construction-site-meals-ranchi",
+    "title": "Construction Site Meal Supply in Ranchi",
+    "angle": "Bulk meals for labor sites, flexible timing and volume",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-hard-hat",
+    "description": "High-volume, highly nutritious, and budget-friendly daily catering for construction workers, laborers, and site supervisors.",
+    "includes": [
+      "Heavy, carbohydrate-rich filling meals designed for physical workers.",
+      "Highly competitive per-meal rates for large ongoing contracts.",
+      "Insulated transit containers to keep food hot on-site.",
+      "Flexible schedules matching site shift shifts."
+    ],
+    "faqs": [
+      {"q": "What is the minimum volume for construction site supply?", "a": "We provide site catering starting from 25 workers daily, with pricing discounts scaling up to 300+ workers."}
+    ]
+  },
+  "hospital-meal-supply-ranchi": {
+    "slug": "hospital-meal-supply-ranchi",
+    "title": "Hospital Meal Supply in Ranchi",
+    "angle": "Hygienic, timely meal supply for hospital staff/patients (non-medical diet)",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-briefcase-medical",
+    "description": "Extremely clean, timely, and balanced catering solutions for hospital staff, doctors, and patient attendants.",
+    "includes": [
+      "Zero oil/spice medical-grade options available on special request.",
+      "Hygienically sealed single-use containers.",
+      "Timely shifts covering early breakfasts and night duty staffs.",
+      "Wholesome vegetable soups, boiled eggs, and light dal khichdi."
+    ],
+    "faqs": [
+      {"q": "Do you provide custom low-salt meals for patients?", "a": "Yes, we can prepare a separate batch of low-sodium, non-spicy meals for patient recovery support (non-critical diets only)."}
+    ]
+  },
+  "worker-meal-supply-ranchi": {
+    "slug": "worker-meal-supply-ranchi",
+    "title": "Worker Meal Supply in Ranchi",
+    "angle": "Bulk daily meals for factories, warehouses, and worker canteens",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-industry",
+    "description": "Regular hot food supply for industrial staff, factory workers, and warehouse teams. Fueling Ranchi's workforce.",
+    "includes": [
+      "Satisfying meals containing adequate protein and carbohydrates.",
+      "Strict delivery mapping matching shift change timings.",
+      "Low-overhead bulk serving models.",
+      "Consistent taste and high-grade food safety."
+    ],
+    "faqs": [
+      {"q": "Do you cover industrial areas like Tupudana or Kokar?", "a": "Yes, we arrange bulk delivery trucks to industrial pockets of Kokar, Tupudana, and Tatisilwai."}
+    ]
+  },
+  "event-catering-ranchi": {
+    "slug": "event-catering-ranchi",
+    "title": "Event Catering in Ranchi",
+    "angle": "Home style catering for gatherings, meetings, and small events",
+    "cta": "Get Bulk Quote",
+    "icon": "fa-glass-cheers",
+    "description": "Delicious home-style food catering for small get-togethers, birthdays, corporate seminars, and religious functions.",
+    "includes": [
+      "Premium thali configurations and dessert menus.",
+      "Custom buffet styling and server hospitality staff.",
+      "Prepared with top-tier spices, pure ghee, and premium basmati.",
+      "Freshly prepared sweets (Gulab Jamun, Kheer, Halwa)."
+    ],
+    "faqs": [
+      {"q": "What is the advance booking duration needed for events?", "a": "We require at least 48 to 72 hours of advance booking confirmation for custom menus and setups."}
+    ]
+  }
+}

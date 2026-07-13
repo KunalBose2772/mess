@@ -1,0 +1,94 @@
+/* Design System Variables - Premium Food Service Styling */
+:root {
+    /* Color Palette */
+    --primary-raw: 15, 43, 24;
+    --primary: rgb(var(--primary-raw)); /* Deep Forest Green */
+    --primary-light: #1c4e2d;
+    --primary-dark: #07170c;
+    
+    --secondary-raw: 80, 124, 92;
+    --secondary: rgb(var(--secondary-raw)); /* Sage Green */
+    --secondary-light: #eef5ef;
+    
+    --accent-raw: 197, 155, 39;
+    --accent: rgb(var(--accent-raw)); /* Warm Gold */
+    --accent-light: #fbf6e8;
+    --accent-hover: #d4af37;
+    
+    --dark: #111827; /* Near Black */
+    --gray-dark: #374151;
+    --gray-medium: #6b7280;
+    --gray-light: #f3f4f6;
+    --gray-border: #e5e7eb;
+    
+    --light-bg: #fcfbf7; /* Warm Soft Cream */
+    --white: #ffffff;
+    
+    /* Semantic Colors */
+    --success: #10b981;
+    --error: #ef4444;
+    --warning: #f59e0b;
+    
+    /* Typography */
+    --font-heading: 'Cormorant Garamond', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    
+    /* Container Widths */
+    --container-xl: 1280px;
+    --container-lg: 1024px;
+    --container-md: 768px;
+    
+    /* Header Heights */
+    --top-header-height: 42px;
+    --header-height: 94px;
+    --header-height-shrink: 75px;
+    
+    /* Spacing System */
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 1.5rem;
+    --space-xl: 2rem;
+    --space-2xl: 3rem;
+    --space-3xl: 4.5rem;
+    --space-4xl: 6rem;
+    
+    /* Section Padding (40px desktop, 20px mobile) */
+    --section-padding-y: 40px;
+    
+    /* Borders & Shadows */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+    --radius-xl: 24px;
+    --radius-full: 9999px;
+    
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+    --shadow-lg: 0 10px 30px -5px rgba(var(--primary-raw), 0.06), 0 5px 15px -5px rgba(0, 0, 0, 0.03);
+    --shadow-xl: 0 20px 40px -10px rgba(var(--primary-raw), 0.12), 0 10px 20px -10px rgba(0, 0, 0, 0.04);
+    --shadow-gold: 0 10px 20px -5px rgba(var(--accent-raw), 0.3);
+    --shadow-glass: 0 8px 32px 0 rgba(15, 43, 24, 0.03);
+    
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    --transition-slow: 0.5s cubic-bezier(0.25, 0.8, 0.25, 1);
+    
+    /* Header Dimensions */
+    --top-header-height: 38px;
+    --header-height: 85px;
+    --header-height-shrink: 85px;
+    
+    /* Z-Index Hierarchy */
+    --z-dropdown: 100;
+    --z-sticky: 1000;
+    --z-modal: 2000;
+}
+
+/* Media Queries for Variables */
+@media (max-width: 768px) {
+    :root {
+        --section-padding-y: 20px;
+    }
+}

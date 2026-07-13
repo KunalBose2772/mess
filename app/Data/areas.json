@@ -1,0 +1,152 @@
+{
+  "hindpiri": {
+    "slug": "hindpiri",
+    "name": "Hindpiri",
+    "landmarks": "Plaza Cinema, Hindpiri Mosque, Guru Nanak School",
+    "focus": "Student rooms, local bachelors, family takeaway orders",
+    "intro": "Located near our central kitchen, Hindpiri is one of our primary serving zones. We provide swift delivery of fresh daily lunch and dinner boxes to students, PG residents, and local families who seek authentic, home-cooked food without the hassle of cooking.",
+    "adjacent": ["main-road", "lalpur", "upper-bazar", "doranda"],
+    "faq_q": "What is the delivery charge for tiffin delivery in Hindpiri?",
+    "faq_a": "Since Hindpiri is extremely close to our kitchen, we offer free delivery for all our monthly meal subscription members here."
+  },
+  "upper-bazar": {
+    "slug": "upper-bazar",
+    "name": "Upper Bazar",
+    "landmarks": "Mahavir Chowk, Daily Market, Kartar Tower",
+    "focus": "Merchant staff, business owners, retail shop employees",
+    "intro": "As the commercial retail hub of Ranchi, Upper Bazar has hundreds of businesses. We serve hot, fresh vegetarian and non-vegetarian lunches to shopkeepers, staff, and wholesale market offices who miss home food during their long working hours.",
+    "adjacent": ["hindpiri", "main-road", "ratu-road", "lalpur"],
+    "faq_q": "Can you deliver lunch to shops in Upper Bazar by 1:30 PM?",
+    "faq_a": "Yes, our delivery executives start their routes early and ensure all business lunch boxes in Upper Bazar are delivered between 1:00 PM and 1:45 PM."
+  },
+  "lalpur": {
+    "slug": "lalpur",
+    "name": "Lalpur",
+    "landmarks": "Lalpur Chowk, Hari Om Tower, Circular Road",
+    "focus": "Coaching institute students, PGs, corporate employees",
+    "intro": "Lalpur is the educational epicenter of Ranchi, bustling with thousands of students attending coaching classes. We supply daily tiffin subscriptions to bachelors, hostel students, and working professionals residing in Lalpur's numerous PG accommodations.",
+    "adjacent": ["kokar", "hindpiri", "morabadi", "kanke"],
+    "faq_q": "Do you deliver tiffin near coaching centers in Lalpur?",
+    "faq_a": "Yes, we regularly deliver monthly meals directly to student PGs and hostels near Hari Om Tower, Circular Road, and Lalpur Chowk."
+  },
+  "doranda": {
+    "slug": "doranda",
+    "name": "Doranda",
+    "landmarks": "High Court, Jharkhand Secretariat, Nepal House",
+    "focus": "Government employees, lawyers, corporate offices, PGs",
+    "intro": "Doranda houses key government institutions and legal centers of Jharkhand. We provide bulk catering, office lunches, and daily meal deliveries to government employees, secretariat staffs, law professionals, and residents in the locality.",
+    "adjacent": ["main-road", "hindpiri", "argora", "lowadih"],
+    "faq_q": "Can you supply daily corporate meals to offices in Doranda?",
+    "faq_a": "Yes, we have custom corporate lunch plans for government departments, legal chambers, and corporate offices in Doranda with weekly invoices."
+  },
+  "main-road": {
+    "slug": "main-road",
+    "name": "Main Road",
+    "landmarks": "Albert Ekka Chowk, GEL Church Complex, Nucleus Mall",
+    "focus": "Showroom staff, bank employees, offices, shoppers",
+    "intro": "Running through the heart of Ranchi, Main Road is lined with retail showrooms, banks, and shopping complexes. We deliver freshly prepared, warm lunches daily to retail staffs, corporate branches, and bank workers along Main Road.",
+    "adjacent": ["hindpiri", "upper-bazar", "doranda", "lalpur"],
+    "faq_q": "Can showroom staff order takeaway for pickup?",
+    "faq_a": "Yes, our central kitchen is highly accessible from Main Road. Showroom employees can call ahead to place their order and pick it up hot."
+  },
+  "kokar": {
+    "slug": "kokar",
+    "name": "Kokar",
+    "landmarks": "Kokar Industrial Area, Kokar Chowk, Sadar Hospital Road",
+    "focus": "Industrial worker canteens, small workshops, local residents",
+    "intro": "Kokar contains a mix of residential zones and active industrial units. We offer bulk meal supply for factory workers, staff canteens, and daily home-style lunch boxes for residents and PGs in the Kokar region.",
+    "adjacent": ["lalpur", "kantatoli", "booty-more", "morabadi"],
+    "faq_q": "Do you cater to factory shift workers in Kokar Industrial Area?",
+    "faq_a": "Yes, we provide bulk worker meals cooked and delivered in insulated hot containers for different shift timings in Kokar."
+  },
+  "kanke": {
+    "slug": "kanke",
+    "name": "Kanke",
+    "landmarks": "Kanke Dam, BAU Campus, CIP Ranchi",
+    "focus": "University students, medical staffs, research scholars",
+    "intro": "Home to prestigious universities and medical institutes, Kanke has a large student and research population. We cater monthly tiffin plans and healthy meals to university hostels, doctors, and students living in Kanke.",
+    "adjacent": ["morabadi", "lalpur", "ratu-road", "kanke"],
+    "faq_q": "Are monthly meal plans available for students in BAU Kanke?",
+    "faq_a": "Yes, we have active student delivery routes covering hostels and PGs surrounding Birsa Agricultural University and Kanke Road."
+  },
+  "morabadi": {
+    "slug": "morabadi",
+    "name": "Morabadi",
+    "landmarks": "Morabadi Ground, Ranchi University, Tagore Hill",
+    "focus": "University students, bachelors, morning walkers, hostels",
+    "intro": "Morabadi is famous for open grounds and Ranchi University. We serve students, sports enthusiasts, and bachelors with healthy, protein-rich, low-oil diets and daily lunch/dinner subscriptions.",
+    "adjacent": ["lalpur", "kanke", "bariatu", "kokar"],
+    "faq_q": "Do you serve protein-dense meals for athletes in Morabadi?",
+    "faq_a": "Yes, we can customize your monthly meal plan to include extra boiled eggs, paneer, and double protein portions on request."
+  },
+  "ratu-road": {
+    "slug": "ratu-road",
+    "name": "Ratu Road",
+    "landmarks": "Galaxia Mall, Ratu Road Chowk, Pandra Market",
+    "focus": "Grain market workers, transport staffs, PGs, families",
+    "intro": "Ratu Road is a bustling transport and wholesale trade axis. We supply bulk daily meals to Pandra market workers, logistics offices, and home-style family packages to residential blocks along Ratu Road.",
+    "adjacent": ["upper-bazar", "harmu", "kanke", "argora"],
+    "faq_q": "Do you deliver to the wholesale Pandra Market on Ratu Road?",
+    "faq_a": "Yes, we cater daily lunch packages in bulk to business offices, workers, and transport staff working in the Pandra market zone."
+  },
+  "harmu": {
+    "slug": "harmu",
+    "name": "Harmu",
+    "landmarks": "Harmu Housing Colony, MS Dhoni Residence, Sahjanand Chowk",
+    "focus": "Residential families, corporate offices, local PGs",
+    "intro": "Harmu is a sprawling, peaceful residential neighborhood. We provide elderly-friendly low-sodium meals, family dinner packages, and corporate tiffins to families and small office branches in Harmu.",
+    "adjacent": ["argora", "ratu-road", "upper-bazar", "hindpiri"],
+    "faq_q": "Do you offer light and healthy meal options for senior citizens in Harmu?",
+    "faq_a": "Absolutely. We specialize in home-style cooking which is light, low in oil, and digestible—perfect for elderly residents."
+  },
+  "bariatu": {
+    "slug": "bariatu",
+    "name": "Bariatu",
+    "landmarks": "RIMS Ranchi, Bariatu Road, Science City",
+    "focus": "Medical students, doctors, hospital staff, patient families",
+    "intro": "Centering around RIMS (Rajendra Institute of Medical Sciences), Bariatu has constant demand for hygienic meals. We supply healthy, light meals to doctors, nursing students, and patient attendants in the RIMS area.",
+    "adjacent": ["morabadi", "kokar", "booty-more", "kantatoli"],
+    "faq_q": "Can you deliver hygienic meals daily to doctors at RIMS Bariatu?",
+    "faq_a": "Yes, we regularly deliver clean, freshly cooked lunch and dinner boxes to staff quarters and doctors' hostels inside RIMS."
+  },
+  "kantatoli": {
+    "slug": "kantatoli",
+    "name": "Kantatoli",
+    "landmarks": "Kantatoli Chowk, Khadgarha Bus Stand, Netaji Nagar",
+    "focus": "Travelers, transport workers, bus stand offices, local PGs",
+    "intro": "Kantatoli houses Ranchi's largest bus terminus, Khadgarha. We supply daily catering to transport agency offices, business staffs, and quick takeaway meals to travelers passing through Kantatoli.",
+    "adjacent": ["kokar", "bariatu", "lowadih", "booty-more"],
+    "faq_q": "Can travelers pre-order food for pickup at Kantatoli bus stand?",
+    "faq_a": "Yes, you can call us 1 hour in advance, and we will keep your takeaway food box ready for pickup as you pass through Kantatoli."
+  },
+  "booty-more": {
+    "slug": "booty-more",
+    "name": "Booty More",
+    "landmarks": "Booty More Chowk, BIT Mesra Road, RTC Institute",
+    "focus": "Engineering students, PG hostels, college bachelors",
+    "intro": "Located on the way to BIT Mesra, Booty More is full of engineering and professional students. We supply affordable, bulk hostel meals and daily student tiffins to major PG accommodations in Booty More.",
+    "adjacent": ["kokar", "bariatu", "kantatoli", "morabadi"],
+    "faq_q": "Do you deliver monthly tiffins to PG students near Booty More Chowk?",
+    "faq_a": "Yes, we have an active delivery route in Booty More catering to students residing in private hostels and rooms."
+  },
+  "argora": {
+    "slug": "argora",
+    "name": "Argora",
+    "landmarks": "Argora Chowk, Kathal More Road, Argora Housing Colony",
+    "focus": "Families, corporate offices, banks, PG residents",
+    "intro": "Argora is a rapidly developing residential and commercial area. We offer home-style veg and non-veg meals, monthly tiffin subscriptions, and catering for small family functions to residents in Argora.",
+    "adjacent": ["harmu", "doranda", "ratu-road", "hindpiri"],
+    "faq_q": "What is the delivery schedule for dinner in Argora?",
+    "faq_a": "Our dinner delivery route in Argora runs from 8:00 PM to 9:15 PM daily. You can track or modify slots via WhatsApp."
+  },
+  "lowadih": {
+    "slug": "lowadih",
+    "name": "Lowadih",
+    "landmarks": "Lowadih Chowk, Namkum Road, Samlong",
+    "focus": "Industrial workers, warehouse teams, local residents",
+    "intro": "Connecting Namkum and Kantatoli, Lowadih is a key light industrial and storage hub. We cater bulk lunch packages to warehouses, logistics offices, and daily meals to local residents.",
+    "adjacent": ["kantatoli", "doranda", "main-road", "kokar"],
+    "faq_q": "Can you provide bulk lunch boxes to warehouses in Lowadih?",
+    "faq_a": "Yes, we support daily bulk contract meals for logistics hubs and cold storage units in Lowadih with scheduled deliveries."
+  }
+}

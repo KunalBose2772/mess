@@ -1,0 +1,49 @@
+{
+  "last_updated": "2026-07-09",
+  "veg": [
+    {
+      "name": "Standard Veg Thali",
+      "price": "80",
+      "description": "Perfect everyday meal featuring Basmati Rice, 4 fresh whole-wheat Chapatis, comforting Yellow Dal Fry, a dry seasonal Vegetable fry, fresh green salad, and sweet home pickle.",
+      "items": ["Basmati Rice", "4 Wheat Chapatis", "Dal Fry", "Seasonal Sabzi", "Salad", "Pickle"],
+      "badge": "Daily Special"
+    },
+    {
+      "name": "Premium Paneer Thali",
+      "price": "120",
+      "description": "A richer vegetarian option including Kadai Paneer or Paneer Butter Masala, aromatic Jeera Rice, 4 butter-brushed Chapatis, Dal Makhani, Raita, Salad, Papad, and a sweet Gulab Jamun.",
+      "items": ["Paneer Curry", "Jeera Rice", "4 Butter Chapatis", "Dal Makhani", "Veg Raita", "Salad", "Papad", "Gulab Jamun"],
+      "badge": "Chef Choice"
+    },
+    {
+      "name": "Dehati Dal Bhaat Chokha",
+      "price": "70",
+      "description": "The ultimate comfort food of Jharkhand. Traditional Arhar Dal, steamed Arwa Rice, roasted Potato Chokha with mustard oil and green chilies, papad, and fresh mint chutney.",
+      "items": ["Steamed Rice", "Arhar Dal", "Aloo Chokha", "Chutney", "Papad", "Salad"],
+      "badge": "Local Comfort"
+    }
+  ],
+  "non_veg": [
+    {
+      "name": "Dehati Chicken Curry Thali",
+      "price": "140",
+      "description": "Ranchi style slow-cooked spicy chicken curry (3 pieces) made with authentic local spices, served with fresh Basmati Rice or 4 Chapatis, light Dal, salad, and pickle.",
+      "items": ["Dehati Chicken Curry (3pcs)", "Basmati Rice or 4 Chapatis", "Yellow Dal", "Salad", "Pickle"],
+      "badge": "Best Seller"
+    },
+    {
+      "name": "Egg Curry Thali",
+      "price": "100",
+      "description": "Delicious pan-fried boiled eggs (2 pieces) simmered in a rich tomato-onion gravy, served alongside steamed Basmati Rice, 4 wheat rotis, dal, and green salad.",
+      "items": ["Egg Curry (2 Eggs)", "Steamed Rice or 4 Chapatis", "Dal Fry", "Salad", "Pickle"],
+      "badge": "Popular Sub"
+    },
+    {
+      "name": "Ranchi Fish Curry Thali",
+      "price": "150",
+      "description": "Fresh mustard-paste style Rohu fish curry (2 pieces) prepared in traditional style, served with hot steamed rice, lemon slice, sliced onions, and papad.",
+      "items": ["Rohu Fish Curry (2pcs)", "Steamed Rice", "Fish Gravy", "Salad", "Papad"],
+      "badge": "Sunday Special"
+    }
+  ]
+}
