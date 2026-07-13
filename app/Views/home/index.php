@@ -386,7 +386,9 @@
 </section>
 
 <!-- 5. MONTHLY MEAL PLANS TEASER -->
-<section class="plans-section">
+<section class="plans-teaser-section">
+    <!-- Decorative Background Leaf -->
+    <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="plans-decor-leaf-left">
     <div class="section-container">
         <!-- Top Teaser Row -->
         <div class="plans-teaser-row">
@@ -418,26 +420,20 @@
                 </a>
             </div>
             
-            <div class="plans-teaser-visual">
-                <div class="plans-oval-wrap">
-                    <img src="<?php echo $baseUrl; ?>assets/images/thali_top.png" alt="Premium Indian Thali" class="plans-oval-img">
-                </div>
-                <!-- Overlay Badge (Shield Shape) -->
-                <div class="plans-cooked-badge">
-                    <div class="cooked-badge-content">
-                        <div class="cooked-badge-steam-icon">
-                            <i class="fa-solid fa-bell-concierge"></i>
-                        </div>
-                        <span class="cb-text-1">FRESHLY COOKED</span>
-                        <span class="cb-text-2">EVERY DAY</span>
-                        <span class="cb-text-3">With love &amp;</span>
-                        <span class="cb-text-4">homemade care</span>
-                        <i class="fa-solid fa-heart cb-heart"></i>
-                    </div>
-                </div>
+            <!-- Mobile-only image element to showcase food plate professionally -->
+            <div class="plans-mobile-visual">
+                <img src="<?php echo $baseUrl; ?>assets/images/subscriptions_bg.png" alt="Premium Indian Thali" class="plans-mobile-img">
             </div>
-        </div>
 
+            <!-- Empty column for desktop background visibility -->
+            <div class="plans-teaser-empty"></div>
+        </div>
+    </div>
+</section>
+
+<!-- 6. SUBSCRIPTION PLANS GRID SECTION -->
+<section class="plans-cards-section">
+    <div class="section-container">
         <!-- Divider Row -->
         <div class="plans-divider-row">
             <span class="plans-divider-text">
@@ -467,7 +463,10 @@
                             <div class="pc-icon-circle"><i class="fa-solid fa-leaf"></i></div>
                             <div class="pc-title-price">
                                 <h3>Standard Veg Plan</h3>
-                                <div class="pc-price">₹2,400<span>/month</span></div>
+                                <div class="pc-price-block">
+                                    <span class="pc-price-original">₹2,999</span>
+                                    <span class="pc-price-badge">₹2,400<span class="pc-price-period">/month</span></span>
+                                </div>
                             </div>
                         </div>
                         <p class="pc-desc">Healthy, low-oil everyday veg meals. Perfect for daily lunch or dinner.</p>
@@ -503,7 +502,10 @@
                             <div class="pc-icon-circle"><i class="fa-solid fa-drumstick-bite"></i></div>
                             <div class="pc-title-price">
                                 <h3>Standard Non-Veg</h3>
-                                <div class="pc-price">₹3,200<span>/month</span></div>
+                                <div class="pc-price-block">
+                                    <span class="pc-price-original">₹3,999</span>
+                                    <span class="pc-price-badge">₹3,200<span class="pc-price-period">/month</span></span>
+                                </div>
                             </div>
                         </div>
                         <p class="pc-desc">Protein-rich meals with authentic home-style taste.</p>
