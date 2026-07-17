@@ -50,6 +50,7 @@ $router->add('contact', [App\Controllers\PageController::class, 'contact']);
 $router->add('thank-you', [App\Controllers\PageController::class, 'thankYou']);
 $router->add('privacy-policy', [App\Controllers\PageController::class, 'privacy']);
 $router->add('terms-of-service', [App\Controllers\PageController::class, 'terms']);
+$router->add('page/{slug}', [App\Controllers\PageController::class, 'contentPage']);
 
 // Dynamic Service & Area Spokes
 $router->add('services/{slug}', [App\Controllers\PageController::class, 'service']);

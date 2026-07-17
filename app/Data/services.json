@@ -81,10 +81,11 @@
     "includes": [
       "Pocket-friendly plans starting from basic veg thalis.",
       "Convenient monthly billing cards with easy pausing of meals during exams/holidays.",
-      "Hot takeaway collection or delivery near major coaching hubs.",
+      "Self-pickup from our kitchen for individual plans (doorstep delivery requires min. 5 subscriptions).",
       "Healthy ingredients that mimic mother's cooking."
     ],
     "faqs": [
+      {"q": "Do you deliver individual tiffin subscriptions?", "a": "No. Subscriptions for a single student or person are strictly active on a self-pickup basis from our kitchen counter in Hindpiri. Doorstep delivery requires a minimum of five (5) subscriptions/people at the same building or address, or a bulk catering contract."},
       {"q": "Can I pause my tiffin during vacations or holidays?", "a": "Yes, students can pause meals via WhatsApp with 12 hours' notice, and the billing dates adjust automatically."},
       {"q": "Is the food spicy or oily?", "a": "No, we use minimal spices and heart-healthy oils so students can eat our food twice a day without stomach issues."}
     ]

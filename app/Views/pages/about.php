@@ -128,12 +128,55 @@
 
 <!-- Final CTA -->
 <section class="final-cta-section">
-    <div class="section-container text-center">
-        <h2>Experience Home Cooking in Ranchi</h2>
-        <p>Subscribe to our meal plan or request a trial today.</p>
-        <div class="final-cta-buttons">
-            <a href="<?php echo $baseUrl; ?>monthly-meal-plans" class="btn btn-primary btn-lg">Explore Meal Plans</a>
-            <a href="<?php echo $baseUrl; ?>contact" class="btn btn-outline-primary btn-lg">Contact Our Kitchen</a>
+    <div class="section-container">
+        <div class="final-cta-card">
+            <!-- Decorative Background SVGs -->
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-left">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-right">
+            <svg class="cta-decor-dots-left" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+            <svg class="cta-decor-dots-right" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+
+            <!-- Card Content -->
+            <div class="cta-leaf-top">
+                <svg width="30" height="12" viewBox="0 0 30 12" fill="none">
+                    <path d="M15,6 C10,6 5,8 1,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C20,6 25,8 29,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C15,3 13,1 11,2 C10,3 11,5 15,6 Z" fill="#d49e2f"/>
+                    <path d="M15,6 C15,3 17,1 19,2 C20,3 19,5 15,6 Z" fill="#d49e2f"/>
+                </svg>
+            </div>
+            
+            <h2 class="cta-title">Experience Home Cooking <span class="text-accent">in Ranchi</span></h2>
+            <p class="cta-subtitle">Subscribe to our meal plan or request a trial today.</p>
+            
+            <div class="cta-buttons">
+                <a href="<?php echo $baseUrl; ?>monthly-meal-plans" class="cta-btn btn-gold-filled">
+                    Explore Meal Plans
+                </a>
+                <a href="<?php echo $baseUrl; ?>contact" class="cta-btn btn-white-outlined">
+                    Contact Our Kitchen
+                </a>
+            </div>
         </div>
     </div>
 </section>

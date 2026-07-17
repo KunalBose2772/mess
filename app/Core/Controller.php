@@ -2,42 +2,41 @@
 namespace App\Core;
 
 class Controller {
+    protected function baseUrl(): string
+    {
+        $scriptName = $_SERVER['SCRIPT_NAME'] ?? '/index.php';
+        $baseUrl = implode('/', array_slice(explode('/', $scriptName), 0, -1));
+
+        if ($baseUrl === '' || $baseUrl === '/') {
+            return '/';
+        }
+
+        return rtrim($baseUrl, '/') . '/';
+    }
+
     /**
      * Render a view and wrap it in the global layout template.
      */
     protected function render($viewPath, $data = []) {
-        // Resolve dynamic base URL for static assets and link paths
-        $scriptName = $_SERVER['SCRIPT_NAME'];
-        $baseUrl = implode('/', array_slice(explode('/', $scriptName), 0, -1));
-        if ($baseUrl === '' || $baseUrl === '/') {
-            $baseUrl = '/';
-        } else {
-            $baseUrl = rtrim($baseUrl, '/') . '/';
-        }
+        $data['baseUrl'] = $this->baseUrl();
 
-        // Add base URL to data so it's always accessible in views
-        $data['baseUrl'] = $baseUrl;
-
-        // Extract data variables so they are accessible inside the view file scope
         extract($data);
 
         $viewFile = __DIR__ . '/../../app/Views/' . $viewPath . '.php';
 
-        if (file_exists($viewFile)) {
-            // Buffer the view's specific output
-            ob_start();
-            require $viewFile;
-            $content = ob_get_clean();
+        if (!file_exists($viewFile)) {
+            throw new \RuntimeException('View file not found: ' . $viewPath);
+        }
 
-            // Load the main wrapper layout
-            $layoutFile = __DIR__ . '/../../app/Views/layout/main.php';
-            if (file_exists($layoutFile)) {
-                require $layoutFile;
-            } else {
-                echo $content; // Fallback if no layout exists
-            }
+        ob_start();
+        require $viewFile;
+        $content = ob_get_clean();
+
+        $layoutFile = __DIR__ . '/../../app/Views/layout/main.php';
+        if (file_exists($layoutFile)) {
+            require $layoutFile;
         } else {
-            die("View file not found: " . $viewPath);
+            echo $content;
         }
     }
 
@@ -45,14 +44,7 @@ class Controller {
      * Helper to redirect to a path relative to the app base url.
      */
     protected function redirect($path) {
-        $scriptName = $_SERVER['SCRIPT_NAME'];
-        $baseUrl = implode('/', array_slice(explode('/', $scriptName), 0, -1));
-        if ($baseUrl === '' || $baseUrl === '/') {
-            $baseUrl = '/';
-        } else {
-            $baseUrl = rtrim($baseUrl, '/') . '/';
-        }
-        header("Location: " . $baseUrl . ltrim($path, '/'));
+        header('Location: ' . $this->baseUrl() . ltrim($path, '/'));
         exit;
     }
 }

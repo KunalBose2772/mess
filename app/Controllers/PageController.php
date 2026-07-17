@@ -2,6 +2,7 @@
 namespace App\Controllers;
 
 use App\Core\Controller;
+use App\Support\ContentLoader;
 
 class PageController extends Controller {
 
@@ -43,8 +44,7 @@ class PageController extends Controller {
 
     // Today's Menu Page
     public function menu() {
-        $menuFile = __DIR__ . '/../../app/Data/menu.json';
-        $menu = file_exists($menuFile) ? json_decode(file_get_contents($menuFile), true) : [];
+        $menu = ContentLoader::loadJson(__DIR__ . '/../../app/Data/menu.json');
 
         $this->render('pages/menu', [
             'title' => "Today's Menu | Student's Mess Ranchi",
@@ -111,8 +111,7 @@ class PageController extends Controller {
     // Dynamic Service Landing Page Handler
     public function service($params) {
         $slug = $params['slug'];
-        $servicesFile = __DIR__ . '/../../app/Data/services.json';
-        $services = file_exists($servicesFile) ? json_decode(file_get_contents($servicesFile), true) : [];
+        $services = ContentLoader::loadJson(__DIR__ . '/../../app/Data/services.json');
 
         if (!isset($services[$slug])) {
             $this->notFound();
@@ -158,8 +157,7 @@ class PageController extends Controller {
     // Dynamic Hyperlocal Location Landing Page Handler
     public function area($params) {
         $slug = $params['slug'];
-        $areasFile = __DIR__ . '/../../app/Data/areas.json';
-        $areas = file_exists($areasFile) ? json_decode(file_get_contents($areasFile), true) : [];
+        $areas = ContentLoader::loadJson(__DIR__ . '/../../app/Data/areas.json');
 
         if (!isset($areas[$slug])) {
             $this->notFound();
@@ -252,6 +250,24 @@ class PageController extends Controller {
             'metaDesc' => strip_tags(substr($post['content'], 0, 160)),
             'post' => $post,
             'pageClass' => 'blog-post-page'
+        ]);
+    }
+
+    public function contentPage($params) {
+        $slug = $params['slug'] ?? '';
+        $pages = ContentLoader::loadJson(__DIR__ . '/../../app/Data/pages.json');
+
+        if (!isset($pages[$slug])) {
+            $this->notFound();
+            return;
+        }
+
+        $page = $pages[$slug];
+        $this->render('pages/content-page', [
+            'title' => ($page['title'] ?? 'Page') . ' | Student\'s Mess',
+            'metaDesc' => $page['metaDesc'] ?? '',
+            'page' => $page,
+            'pageClass' => 'content-page'
         ]);
     }
 

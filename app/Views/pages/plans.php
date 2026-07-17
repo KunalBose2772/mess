@@ -68,11 +68,14 @@
                 <div class="plan-price-block">
                     <div class="price-row">
                         <span class="price-label">1 Meal Daily:</span>
-                        <span class="price-val">₹2,400<span class="freq">/mo</span></span>
+                        <span class="price-val">₹1,500<span class="freq">/mo</span></span>
                     </div>
-                    <div class="price-row">
-                        <span class="price-label">2 Meals Daily:</span>
-                        <span class="price-val">₹4,500<span class="freq">/mo</span></span>
+                    <div class="price-row highlight-row" style="background: rgba(197, 155, 39, 0.08); padding: var(--space-xs) var(--space-sm); border-radius: var(--radius-sm); border-left: 3px solid var(--accent);">
+                        <span class="price-label" style="font-weight: 800;">2 Meals Daily:</span>
+                        <span class="price-val" style="color: var(--accent); font-weight: 800;">₹2,400<span class="freq">/mo</span></span>
+                    </div>
+                    <div style="font-size: 0.8rem; text-align: right; color: var(--accent); font-weight: bold; margin-top: 4px;">
+                        Only ₹40/meal (Best Value!)
                     </div>
                 </div>
                 <ul class="plan-bullet-features">
@@ -82,8 +85,11 @@
                     <li><i class="fa fa-check"></i> Daily Seasonal Vegetable Subzi</li>
                     <li><i class="fa fa-check"></i> Fresh Salad & House Pickles</li>
                     <li><i class="fa fa-check"></i> <strong>Pause subscription up to 5 days</strong></li>
+                    <li><i class="fa fa-check"></i> <strong>100% Advance Payment Required</strong></li>
+                    <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
+                    <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                 </ul>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Vegetarian%20plan." class="btn btn-primary btn-block">Subscribe via WhatsApp</a>
+                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B92,400/month)" class="btn btn-primary btn-block">Subscribe via WhatsApp</a>
             </div>
             
             <!-- Non-Veg Plan -->
@@ -97,11 +103,14 @@
                 <div class="plan-price-block">
                     <div class="price-row">
                         <span class="price-label">1 Meal Daily:</span>
-                        <span class="price-val">₹3,200<span class="freq">/mo</span></span>
+                        <span class="price-val">₹2,000<span class="freq">/mo</span></span>
                     </div>
-                    <div class="price-row">
-                        <span class="price-label">2 Meals Daily:</span>
-                        <span class="price-val">₹6,000<span class="freq">/mo</span></span>
+                    <div class="price-row highlight-row" style="background: rgba(197, 155, 39, 0.08); padding: var(--space-xs) var(--space-sm); border-radius: var(--radius-sm); border-left: 3px solid var(--accent);">
+                        <span class="price-label" style="font-weight: 800;">2 Meals Daily:</span>
+                        <span class="price-val" style="color: var(--accent); font-weight: 800;">₹3,200<span class="freq">/mo</span></span>
+                    </div>
+                    <div style="font-size: 0.8rem; text-align: right; color: var(--accent); font-weight: bold; margin-top: 4px;">
+                        Only ₹53/meal (Highly Competitive!)
                     </div>
                 </div>
                 <ul class="plan-bullet-features">
@@ -111,8 +120,11 @@
                     <li><i class="fa fa-check"></i> Prepared in separated cookware</li>
                     <li><i class="fa fa-check"></i> Balanced nutrition values</li>
                     <li><i class="fa fa-check"></i> <strong>Pause subscription up to 5 days</strong></li>
+                    <li><i class="fa fa-check"></i> <strong>100% Advance Payment Required</strong></li>
+                    <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
+                    <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                 </ul>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Vegetarian%20plan." class="btn btn-accent btn-block text-white shadow-gold">Subscribe via WhatsApp</a>
+                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B93,200/month)" class="btn btn-accent btn-block text-white shadow-gold">Subscribe via WhatsApp</a>
             </div>
             
             <!-- Combo Plan -->
@@ -134,6 +146,9 @@
                     <li><i class="fa fa-check"></i> Add extra eggs or chicken on any day</li>
                     <li><i class="fa fa-check"></i> Flexible portions for shared rooms</li>
                     <li><i class="fa fa-check"></i> Weekly billing statement available</li>
+                    <li><i class="fa fa-check"></i> <strong>100% Advance Payment Required</strong></li>
+                    <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
+                    <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                 </ul>
                 <a href="<?php echo $baseUrl; ?>contact" class="btn btn-outline-primary btn-block">Inquire Custom Plan</a>
             </div>
@@ -250,6 +265,16 @@
         <div class="faq-accordion">
             <div class="faq-item">
                 <button class="faq-question">
+                    <span>Do you deliver individual/single tiffin subscriptions?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>No. Monthly tiffin subscriptions for a <strong>single person (1 subscriber) are strictly active on a self-pickup basis</strong> from our kitchen counter in Hindpiri. <strong>Doorstep delivery is only available for a minimum of five (5) subscriptions/people</strong> in the same building/area, or for bulk/corporate catering contracts.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <button class="faq-question">
                     <span>What is the pause policy? How do I skip meals?</span>
                     <i class="fa fa-plus faq-toggle-icon"></i>
                 </button>
@@ -270,11 +295,11 @@
             
             <div class="faq-item">
                 <button class="faq-question">
-                    <span>How do I pay for the subscription?</span>
+                    <span>What is your payment policy? Do you allow post-payments?</span>
                     <i class="fa fa-plus faq-toggle-icon"></i>
                 </button>
                 <div class="faq-answer">
-                    <p>We accept digital payments including UPI (GPay, PhonePe, Paytm), Net Banking, or cash collections at our counter during registration setup.</p>
+                    <p>No, we operate on a strict <strong>100% advance payment policy</strong> for all monthly subscription plans. Sourcing fresh ingredients and executing logistics daily requires upfront funding. We accept UPI (GPay, PhonePe, Paytm), Net Banking, or cash at our counter.</p>
                 </div>
             </div>
         </div>
@@ -282,13 +307,56 @@
 </section>
 
 <!-- CTA -->
-<section class="final-cta-section bg-primary text-white">
-    <div class="section-container text-center">
-        <h2 class="text-white">Ditch Cooking Stress Today.</h2>
-        <p class="text-white-muted">Subscribe now and get clean, hot home-style meals delivered daily.</p>
-        <div class="final-cta-buttons">
-            <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20a%20monthly%20tiffin%20plan." class="btn btn-accent btn-lg shadow-gold"><i class="fab fa-whatsapp"></i> Chat on WhatsApp</a>
-            <a href="<?php echo $baseUrl; ?>contact" class="btn btn-outline-white btn-lg">Inquire via Form</a>
+<section class="final-cta-section">
+    <div class="section-container">
+        <div class="final-cta-card">
+            <!-- Decorative Background SVGs -->
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-left">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-right">
+            <svg class="cta-decor-dots-left" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+            <svg class="cta-decor-dots-right" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+
+            <!-- Card Content -->
+            <div class="cta-leaf-top">
+                <svg width="30" height="12" viewBox="0 0 30 12" fill="none">
+                    <path d="M15,6 C10,6 5,8 1,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C20,6 25,8 29,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C15,3 13,1 11,2 C10,3 11,5 15,6 Z" fill="#d49e2f"/>
+                    <path d="M15,6 C15,3 17,1 19,2 C20,3 19,5 15,6 Z" fill="#d49e2f"/>
+                </svg>
+            </div>
+            
+            <h2 class="cta-title">Ditch <span class="text-accent">Cooking Stress</span> Today</h2>
+            <p class="cta-subtitle">Subscribe now and get clean, hot home-style meals delivered daily.</p>
+            
+            <div class="cta-buttons">
+                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20a%20monthly%20tiffin%20plan." class="cta-btn btn-gold-filled" target="_blank">
+                    <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+                </a>
+                <a href="<?php echo $baseUrl; ?>contact" class="cta-btn btn-white-outlined">
+                    Inquire via Form
+                </a>
+            </div>
         </div>
     </div>
 </section>

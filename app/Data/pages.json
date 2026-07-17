@@ -1,0 +1,9 @@
+{
+  "sample-page": {
+    "title": "Sample Scalable Page",
+    "metaDesc": "This is a sample entry showing how future pages can be served from content data instead of new controller methods.",
+    "heroTitle": "Scalable Content Page",
+    "heroSubtitle": "Add more entries to this file and the site can render them without touching the controller layer.",
+    "body": "<p>Use this pattern to grow from a small brochure site into a larger content-driven website without duplicating controller logic.</p><p>For a large rollout, this JSON can later be replaced by a database or CMS source.</p>"
+  }
+}

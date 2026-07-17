@@ -120,13 +120,56 @@ document.addEventListener('DOMContentLoaded', () => {
 </script>
 
 <!-- CTA -->
-<section class="final-cta-section bg-light">
-    <div class="section-container text-center">
-        <h2>Taste the Quality Yourself</h2>
-        <p>Fresh ingredients, clean kitchen, and delicious home taste.</p>
-        <div class="final-cta-buttons">
-            <a href="<?php echo $baseUrl; ?>todays-menu" class="btn btn-primary btn-md">Check Today's Menu</a>
-            <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="btn btn-outline-primary btn-md">Get Bulk Quote</a>
+<section class="final-cta-section">
+    <div class="section-container">
+        <div class="final-cta-card">
+            <!-- Decorative Background SVGs -->
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-left">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-right">
+            <svg class="cta-decor-dots-left" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+            <svg class="cta-decor-dots-right" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+
+            <!-- Card Content -->
+            <div class="cta-leaf-top">
+                <svg width="30" height="12" viewBox="0 0 30 12" fill="none">
+                    <path d="M15,6 C10,6 5,8 1,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C20,6 25,8 29,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C15,3 13,1 11,2 C10,3 11,5 15,6 Z" fill="#d49e2f"/>
+                    <path d="M15,6 C15,3 17,1 19,2 C20,3 19,5 15,6 Z" fill="#d49e2f"/>
+                </svg>
+            </div>
+            
+            <h2 class="cta-title">Taste <span class="text-accent">the Quality Yourself</span></h2>
+            <p class="cta-subtitle">Fresh ingredients, clean kitchen, and delicious home taste.</p>
+            
+            <div class="cta-buttons">
+                <a href="<?php echo $baseUrl; ?>todays-menu" class="cta-btn btn-gold-filled">
+                    Check Today's Menu
+                </a>
+                <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="cta-btn btn-white-outlined">
+                    Get Bulk Quote
+                </a>
+            </div>
         </div>
     </div>
 </section>

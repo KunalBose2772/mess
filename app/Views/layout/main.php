@@ -27,7 +27,7 @@
     
     <!-- Base Stylesheets -->
     <link rel="stylesheet" href="<?php echo $baseUrl; ?>assets/css/variables.css?v=1.0.1">
-    <link rel="stylesheet" href="<?php echo $baseUrl; ?>assets/css/main.css?v=1.3.3">
+    <link rel="stylesheet" href="<?php echo $baseUrl; ?>assets/css/main.css?v=1.3.8">
     
     <!-- Site-wide local business schema -->
     <script type="application/ld+json">

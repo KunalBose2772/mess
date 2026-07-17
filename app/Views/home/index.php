@@ -466,25 +466,31 @@
                                 <div class="pc-price-block">
                                     <span class="pc-price-original">₹2,999</span>
                                     <span class="pc-price-badge">₹2,400<span class="pc-price-period">/month</span></span>
+                                    <div class="pc-meal-frequency" style="font-size: 0.8rem; font-weight: 700; color: #d49e2f; margin-top: 4px;">
+                                        <i class="fa-solid fa-circle-check"></i> 2 Meals Daily (Lunch + Dinner)
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <p class="pc-desc">Healthy, low-oil everyday veg meals. Perfect for daily lunch or dinner.</p>
+                        <p class="pc-desc">Healthy, low-oil everyday veg meals. Includes both Lunch &amp; Dinner. <strong>Just ₹40 per meal!</strong></p>
                         
                         <ul class="pc-features">
-                            <li><i class="fa-solid fa-circle-check"></i> Rice + 4 Chapatis</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Dal + Seasonal Sabzi</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Fresh Salad &amp; Pickles</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>2 Meals a Day</strong> (Lunch &amp; Dinner)</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>Only ₹40 per meal</strong> (Unbeatable price)</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Rice + 4 Chapatis + Dal + Sabzi</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>100% Advance Payment Required</strong></li>
+                            <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
+                            <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                         </ul>
 
-                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Veg%20Plan%20(%E2%82%B92,400/month)" target="_blank" class="pc-select-btn">
+                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Veg%20Plan%20(%E2%82%B92,400/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
                             SELECT PLAN <i class="fa-solid fa-chevron-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="pc-footer-banner">
-                    <i class="fa-solid fa-circle-check text-success pc-footer-check"></i>
-                    <span>Balanced Nutrition. Everyday Comfort.</span>
+                <div class="pc-footer-banner" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                    <span><i class="fa-solid fa-circle-check text-success pc-footer-check"></i> Balanced Nutrition. Everyday Comfort.</span>
+                    <span style="font-size: 0.72rem; font-weight: 800; color: #d49e2f;"><i class="fa-solid fa-credit-card"></i> 100% ADVANCE POLICY</span>
                 </div>
             </div>
 
@@ -505,26 +511,31 @@
                                 <div class="pc-price-block">
                                     <span class="pc-price-original">₹3,999</span>
                                     <span class="pc-price-badge">₹3,200<span class="pc-price-period">/month</span></span>
+                                    <div class="pc-meal-frequency" style="font-size: 0.8rem; font-weight: 700; color: #d49e2f; margin-top: 4px;">
+                                        <i class="fa-solid fa-circle-check"></i> 2 Meals Daily (Lunch + Dinner)
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <p class="pc-desc">Protein-rich meals with authentic home-style taste.</p>
+                        <p class="pc-desc">Protein-rich meals with authentic home-style taste. Includes both Lunch &amp; Dinner. <strong>Just ₹53 per meal!</strong></p>
                         
                         <ul class="pc-features">
-                            <li><i class="fa-solid fa-circle-check"></i> Rice + 4 Chapatis</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Dal + Seasonal Sabzi</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Chicken/Paneer/Egg Curry</li>
-                            <li><i class="fa-solid fa-circle-check"></i> Fresh Salad &amp; Pickles</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>2 Meals a Day</strong> (Lunch &amp; Dinner)</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>Only ₹53 per meal</strong> (Highly competitive)</li>
+                            <li><i class="fa-solid fa-circle-check"></i> Chicken/Paneer/Egg Curry + Rice/Roti</li>
+                            <li><i class="fa-solid fa-circle-check"></i> <strong>100% Advance Payment Required</strong></li>
+                            <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
+                            <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                         </ul>
 
-                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Veg%20Plan%20(%E2%82%B93,200/month)" target="_blank" class="pc-select-btn">
+                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Veg%20Plan%20(%E2%82%B93,200/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
                             SELECT PLAN <i class="fa-solid fa-chevron-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="pc-footer-banner">
-                    <i class="fa-solid fa-circle-check text-success pc-footer-check"></i>
-                    <span>Wholesome Ingredients. Delicious Home-Style.</span>
+                <div class="pc-footer-banner" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                    <span><i class="fa-solid fa-circle-check text-success pc-footer-check"></i> Wholesome Ingredients. Delicious Home-Style.</span>
+                    <span style="font-size: 0.72rem; font-weight: 800; color: #d49e2f;"><i class="fa-solid fa-credit-card"></i> 100% ADVANCE POLICY</span>
                 </div>
             </div>
         </div>
@@ -573,7 +584,7 @@
                     <div class="bc-icon-wrap">
                         <i class="fa-solid fa-hotel"></i>
                     </div>
-                    <h3>Bulk Meals<br>Made Simple</h3>
+                    <h3>Bulk Meals <br>Made Simple</h3>
                     <div class="bc-divider"></div>
                     <p>Large volumes handled with ease and efficiency.</p>
                 </div>
@@ -582,7 +593,7 @@
                     <div class="bc-icon-wrap">
                         <i class="fa-solid fa-shield-heart"></i>
                     </div>
-                    <h3>Hygienic &amp;<br>Safe</h3>
+                    <h3>Hygienic &amp; <br>Safe</h3>
                     <div class="bc-divider"></div>
                     <p>Strict hygiene and quality standards every day.</p>
                 </div>
@@ -591,7 +602,7 @@
                     <div class="bc-icon-wrap">
                         <i class="fa-solid fa-truck-fast"></i>
                     </div>
-                    <h3>On-Time<br>Delivery</h3>
+                    <h3>On-Time <br>Delivery</h3>
                     <div class="bc-divider"></div>
                     <p>Punctual delivery you can count on, every time.</p>
                 </div>
@@ -600,7 +611,7 @@
                     <div class="bc-icon-wrap">
                         <i class="fa-solid fa-plate-wheat"></i>
                     </div>
-                    <h3>Fresh &amp;<br>Homestyle</h3>
+                    <h3>Fresh &amp; <br>Homestyle</h3>
                     <div class="bc-divider"></div>
                     <p>Nutritious, homestyle meals that people love.</p>
                 </div>
@@ -609,7 +620,7 @@
                     <div class="bc-icon-wrap">
                         <i class="fa-solid fa-handshake"></i>
                     </div>
-                    <h3>Custom Plans<br>For You</h3>
+                    <h3>Custom Plans <br>For You</h3>
                     <div class="bc-divider"></div>
                     <p>Flexible plans tailored to your needs and preferences.</p>
                 </div>
@@ -806,141 +817,85 @@
     </div>
 </section>
 
-<!-- 9. GALLERY TEASER (PREMIUM RE-DESIGN) -->
+<!-- 9. GALLERY VISUAL STORY -->
 <section class="gallery-section-new">
     <div class="section-container">
-        <div class="gallery-wrapper-grid">
-            <!-- Left Side content -->
-            <div class="gallery-content-side">
-                <div class="gallery-eyebrow-wrap">
-                    <svg class="eyebrow-wing-left" width="24" height="8" viewBox="0 0 24 8" fill="none"><path d="M0,4 L18,4 M18,4 L14,1 M18,4 L14,7" stroke="#d49e2f" stroke-width="1.5"/><circle cx="21" cy="4" r="2" fill="#d49e2f"/></svg>
-                    <span class="gallery-eyebrow">OUR VISUAL STORY</span>
-                    <svg class="eyebrow-wing-right" width="24" height="8" viewBox="0 0 24 8" fill="none"><path d="M24,4 L6,4 M6,4 L10,1 M6,4 L10,7" stroke="#d49e2f" stroke-width="1.5"/><circle cx="3" cy="4" r="2" fill="#d49e2f"/></svg>
-                </div>
-                
-                <h2 class="gallery-title">Inside Our Kitchen <br>&amp; <span class="text-gold">Plates</span></h2>
-                
-                <div class="gallery-divider">
-                    <svg width="60" height="12" viewBox="0 0 60 12" fill="none">
-                        <path d="M0,6 L22,6 M38,6 L60,6" stroke="#d49e2f" stroke-width="1.5"/>
-                        <path d="M30,1 L26,6 L30,11 L34,6 Z" fill="#0f2b18" stroke="#d49e2f" stroke-width="1"/>
-                    </svg>
-                </div>
-                
-                <p class="gallery-desc">A sneak peek of the premium hygiene standards and authentic taste we deliver daily.</p>
-                
-                <ul class="gallery-features-list">
-                    <li>
-                        <div class="gf-icon-circle">
-                            <i class="fa-solid fa-leaf"></i>
-                        </div>
-                        <div class="gf-text">
-                            <h3>Quality Ingredients</h3>
-                            <p>Always fresh, always local</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="gf-icon-circle">
-                            <i class="fa-solid fa-shield-halved"></i>
-                        </div>
-                        <div class="gf-text">
-                            <h3>Hygienic Preparation</h3>
-                            <p>Clean kitchen, safe food</p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="gf-icon-circle">
-                            <i class="fa-solid fa-bowl-food"></i>
-                        </div>
-                        <div class="gf-text">
-                            <h3>Authentic Taste</h3>
-                            <p>Home-style recipes, true flavors</p>
-                        </div>
-                    </li>
 
-                    <li>
-                        <div class="gf-icon-circle">
-                            <i class="fa-solid fa-truck"></i>
-                        </div>
-                        <div class="gf-text">
-                            <h3>Packed With Care</h3>
-                            <p>Secure packaging, on-time delivery</p>
-                        </div>
-                    </li>
-                </ul>
-                
-                <a href="<?php echo $baseUrl; ?>gallery" class="gallery-action-btn">
-                    <span>View Full Gallery</span>
-                    <span class="gab-arrow"><i class="fa-solid fa-arrow-right"></i></span>
-                </a>
+        <!-- Centred editorial header -->
+        <div class="gallery-header-wrap">
+            <div class="gallery-eyebrow-wrap">
+                <svg width="24" height="8" viewBox="0 0 24 8" fill="none"><path d="M0,4 L18,4 M18,4 L14,1 M18,4 L14,7" stroke="#d49e2f" stroke-width="1.5"/><circle cx="21" cy="4" r="2" fill="#d49e2f"/></svg>
+                <span class="gallery-eyebrow">OUR VISUAL STORY</span>
+                <svg width="24" height="8" viewBox="0 0 24 8" fill="none"><path d="M24,4 L6,4 M6,4 L10,1 M6,4 L10,7" stroke="#d49e2f" stroke-width="1.5"/><circle cx="3" cy="4" r="2" fill="#d49e2f"/></svg>
             </div>
-            
-            <!-- Right Side collage grid -->
-            <div class="gallery-collage-side">
-                <!-- Watermark leaf illustration background -->
-                <div class="gallery-watermark-leaf"></div>
-                
-                <div class="collage-container">
-                    <!-- Image 1 (Top-Right, Large Kitchen Photo) -->
-                    <div class="collage-item c-item-kitchen">
-                        <img src="<?php echo $baseUrl; ?>assets/images/gallery_kitchen.png" alt="Clean Commercial Kitchen">
-                        
-                        <!-- Circle Quality Seal Badge -->
-                        <div class="hygiene-seal">
-                            <svg viewBox="0 0 100 100" class="seal-text-svg">
-                                <path id="seal-path" d="M 50,50 m -37,0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0" fill="none"/>
-                                <text class="seal-text">
-                                    <textPath href="#seal-path" startOffset="0%">• HYGIENE FIRST • QUALITY ALWAYS </textPath>
-                                </text>
-                            </svg>
-                            <div class="seal-icon">
-                                <i class="fa-solid fa-leaf"></i>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- Image 2 (Top-Left, Packed Boxes) -->
-                    <div class="collage-item c-item-boxes">
-                        <img src="<?php echo $baseUrl; ?>assets/images/gallery_boxes.png" alt="Packed Tiffin Meal Boxes">
-                    </div>
-                    
-                    <!-- Image 3 (Bottom-Left, Pouring Dal) -->
-                    <div class="collage-item c-item-prep">
-                        <img src="<?php echo $baseUrl; ?>assets/images/gallery_prep.png" alt="Hygienic Food Preparation">
-                    </div>
-                    
-                    <!-- Image 4 (Bottom-Right, Bags and Packs) -->
-                    <div class="collage-item c-item-pack">
-                        <img src="<?php echo $baseUrl; ?>assets/images/gallery_pack.png" alt="Food Delivery Bags">
-                    </div>
-                    
-                    <!-- Dot matrix decoration overlays -->
-                    <div class="collage-dots dots-top-right"></div>
-                    <div class="collage-dots dots-bottom-left"></div>
+            <h2 class="gallery-title">Inside Our Kitchen &amp; <span class="text-gold">Plates</span></h2>
+            <div class="gallery-divider">
+                <svg width="60" height="12" viewBox="0 0 60 12" fill="none">
+                    <path d="M0,6 L22,6 M38,6 L60,6" stroke="#d49e2f" stroke-width="1.5"/>
+                    <path d="M30,1 L26,6 L30,11 L34,6 Z" fill="#0f2b18" stroke="#d49e2f" stroke-width="1"/>
+                </svg>
+            </div>
+            <p class="gallery-desc">A sneak peek of the premium hygiene standards and authentic taste we deliver daily.</p>
+        </div>
+
+        <!-- TRUE BENTO GRID -->
+        <div class="gallery-bento-grid">
+
+            <!-- A: WIDE kitchen hero (col 1-2, row 1) -->
+            <div class="gb-cell gb-cell-a">
+                <img src="<?php echo $baseUrl; ?>assets/images/gallery_kitchen.png" alt="Our clean commercial kitchen">
+                <div class="hygiene-seal">
+                    <svg viewBox="0 0 100 100" class="seal-text-svg">
+                        <path id="seal-path-b" d="M 50,50 m -37,0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0" fill="none"/>
+                        <text class="seal-text"><textPath href="#seal-path-b" startOffset="0%">• HYGIENE FIRST • QUALITY ALWAYS </textPath></text>
+                    </svg>
+                    <div class="seal-icon"><i class="fa-solid fa-leaf"></i></div>
+                </div>
+                <div class="gb-img-label">Live Kitchen</div>
+            </div>
+
+            <!-- B: packed boxes (col 3, row 1) -->
+            <div class="gb-cell gb-cell-b">
+                <img src="<?php echo $baseUrl; ?>assets/images/gallery_boxes.png" alt="Packed tiffin meal boxes">
+                <div class="gb-img-label">Meal Boxes</div>
+            </div>
+
+            <!-- C: STAT card (col 4, row 1-2) -->
+            <div class="gb-cell gb-cell-c gb-stat-card">
+                <div class="gb-stat-inner">
+                    <span class="gb-stat-num">25<sup>+</sup></span>
+                    <span class="gb-stat-label">Years of<br>Cooking Love</span>
+                    <div class="gb-stat-divider"></div>
+                    <ul class="gb-pill-list">
+                        <li><i class="fa-solid fa-leaf"></i> Fresh Ingredients</li>
+                        <li><i class="fa-solid fa-shield-halved"></i> Hygienic Prep</li>
+                        <li><i class="fa-solid fa-bowl-food"></i> Home-Style Taste</li>
+                        <li><i class="fa-solid fa-truck"></i> On-Time Delivery</li>
+                    </ul>
+                    <a href="<?php echo $baseUrl; ?>gallery" class="gallery-action-btn">
+                        <span>View Gallery</span>
+                        <span class="gab-arrow"><i class="fa-solid fa-arrow-right"></i></span>
+                    </a>
                 </div>
             </div>
-        </div>
-    </div>
-    
-    <!-- Bottom Wavy Shape transition to the next section -->
-    <div class="gallery-bottom-wave">
-        <svg class="gbw-svg" viewBox="0 0 1440 120" preserveAspectRatio="none" width="100%" height="120px">
-            <path d="M0,80 Q720,30 1440,80 L1440,120 L0,120 Z" fill="#0f2b18"/>
-        </svg>
-        <div class="gbw-leaves">
-            <svg width="60" height="24" viewBox="0 0 60 24" fill="none">
-                <path d="M30,22 C30,22 28,14 20,12 C12,10 5,6 5,6" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
-                <path d="M30,22 C30,22 32,14 40,12 C48,10 55,6 55,6" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
-                <!-- Leaves left -->
-                <path d="M16,13 C16,13 14,8 9,8 C4,8 7,13 7,13" fill="#80a790" stroke="#0f2b18" stroke-width="1"/>
-                <path d="M23,13 C23,13 24,7 29,7 C34,7 31,13 31,13" fill="#80a790" stroke="#0f2b18" stroke-width="1"/>
-                <!-- Leaves right -->
-                <path d="M44,13 C44,13 46,8 51,8 C56,8 53,13 53,13" fill="#80a790" stroke="#0f2b18" stroke-width="1"/>
-                <path d="M37,13 C37,13 36,7 31,7 C26,7 29,13 29,13" fill="#80a790" stroke="#0f2b18" stroke-width="1"/>
-            </svg>
-        </div>
+
+            <!-- D: food prep (col 1, row 2) -->
+            <div class="gb-cell gb-cell-d">
+                <img src="<?php echo $baseUrl; ?>assets/images/gallery_prep.png" alt="Hygienic food preparation">
+                <div class="gb-img-label">Hygienic Prep</div>
+            </div>
+
+            <!-- E: delivery bags (col 2-3, row 2) -->
+            <div class="gb-cell gb-cell-e">
+                <img src="<?php echo $baseUrl; ?>assets/images/gallery_pack.png" alt="Delivery bags">
+                <div class="gb-img-label">Delivery Ready</div>
+            </div>
+
+        </div><!-- /.gallery-bento-grid -->
+
     </div>
 </section>
+
 
 <!-- 10. TESTIMONIALS (PREMIUM MARQUEE RE-DESIGN) -->
 <section class="testimonials-section-new">
@@ -1492,6 +1447,96 @@
     </div>
 </section>
 
+<!-- 11. LEAD CAPTURE & CALLBACK SECTION -->
+<section id="lead-form-section" class="home-lead-section bg-light" style="padding: var(--space-3xl) 0; border-top: 1px solid rgba(197, 155, 39, 0.15); border-bottom: 1px solid rgba(197, 155, 39, 0.15);">
+    <div class="section-container">
+        <div class="contact-page-grid">
+            
+            <!-- Left Panel: Trust & Value Proposition -->
+            <div class="contact-details-panel">
+                <span class="section-eyebrow">FAST & EASY SIGN UP</span>
+                <h2>Get Ranchi's Most Reliable Meals</h2>
+                <p>Join hundreds of students and working professionals who trust us daily. Fill out the quick form to request a callback or book your trial meal.</p>
+                
+                <div class="contact-info-cards" style="margin-top: var(--space-xl);">
+                    <div class="info-card-item" style="background: var(--white); padding: var(--space-md); border-radius: var(--radius-md); border: 1.5px solid rgba(197, 155, 39, 0.15); box-shadow: var(--shadow-sm); transition: transform 0.3s;">
+                        <div class="card-icon" style="color: var(--accent); font-size: 1.5rem; margin-bottom: var(--space-xs);"><i class="fa-solid fa-bolt"></i></div>
+                        <div class="card-text">
+                            <h4 style="margin: 0; font-size: 1rem; color: var(--primary);">Instant Activation</h4>
+                            <p style="margin: 4px 0 0; font-size: 0.85rem; color: var(--gray-medium);">Activate your monthly subscription in under 2 hours.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card-item" style="background: var(--white); padding: var(--space-md); border-radius: var(--radius-md); border: 1.5px solid rgba(197, 155, 39, 0.15); box-shadow: var(--shadow-sm); transition: transform 0.3s;">
+                        <div class="card-icon" style="color: var(--accent); font-size: 1.5rem; margin-bottom: var(--space-xs);"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+                        <div class="card-text">
+                            <h4 style="margin: 0; font-size: 1rem; color: var(--primary);">Unbeatable Price</h4>
+                            <p style="margin: 4px 0 0; font-size: 0.85rem; color: var(--gray-medium);">Get two meals delivered daily starting at just ₹40/meal.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card-item" style="background: var(--white); padding: var(--space-md); border-radius: var(--radius-md); border: 1.5px solid rgba(197, 155, 39, 0.15); box-shadow: var(--shadow-sm); transition: transform 0.3s;">
+                        <div class="card-icon" style="color: var(--accent); font-size: 1.5rem; margin-bottom: var(--space-xs);"><i class="fa-solid fa-credit-card"></i></div>
+                        <div class="card-text">
+                            <h4 style="margin: 0; font-size: 1rem; color: var(--primary);">100% Advance Policy</h4>
+                            <p style="margin: 4px 0 0; font-size: 0.85rem; color: var(--gray-medium);">Strict advance payment policy for seamless service.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card-item" style="background: var(--white); padding: var(--space-md); border-radius: var(--radius-md); border: 1.5px solid rgba(197, 155, 39, 0.15); box-shadow: var(--shadow-sm); transition: transform 0.3s;">
+                        <div class="card-icon" style="color: var(--accent); font-size: 1.5rem; margin-bottom: var(--space-xs);"><i class="fa-solid fa-pause"></i></div>
+                        <div class="card-text">
+                            <h4 style="margin: 0; font-size: 1rem; color: var(--primary);">Flexible Pausing</h4>
+                            <p style="margin: 4px 0 0; font-size: 0.85rem; color: var(--gray-medium);">Pause or skip anytime with 12 hours' notice.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right Panel: Callback Lead Form -->
+            <div class="contact-form-wrapper">
+                <span class="section-eyebrow">QUICK SUBMISSION</span>
+                <h2>Request a Callback</h2>
+                <p>Fill out the form below and we will contact you shortly.</p>
+                
+                <form action="<?php echo $baseUrl; ?>submit-contact" method="POST" class="contact-form">
+                    <!-- Honeypot anti-spam check -->
+                    <input type="text" name="website_spamtrap" style="display:none !important;" tabindex="-1" autocomplete="off">
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="home_lead_name">Your Name *</label>
+                            <input type="text" id="home_lead_name" name="name" required placeholder="E.g. Rohan Sharma">
+                        </div>
+                        <div class="form-group">
+                            <label for="home_lead_phone">Phone Number *</label>
+                            <input type="tel" id="home_lead_phone" name="phone" required placeholder="E.g. 99341 23456">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="home_lead_subject">Interested In *</label>
+                        <select id="home_lead_subject" name="subject" required>
+                            <option value="Monthly Plan Subscription">Subscribe to Monthly Plan (2 Meals/day)</option>
+                            <option value="Bulk Order Query">Bulk Catering Services</option>
+                            <option value="Takeaway Order">Takeaway Order</option>
+                            <option value="General Query">General Inquiry / Callback Request</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="home_lead_message">Message or Delivery Address *</label>
+                        <textarea id="home_lead_message" name="message" rows="3" required placeholder="Tell us your area/address or any queries..."></textarea>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-lg btn-block">Send Request</button>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
 <!-- 12. FAQ ACCORDION -->
 <section class="faq-section">
     <div class="section-container">
@@ -1517,7 +1562,7 @@
             <p class="faq-subtitle">Got questions? We have answers. Clear information on meal cycles and logistics.</p>
         </div>
         
-        <div class="faq-accordion">
+        <div class="faq-accordion-premium">
             <!-- Item 1 -->
             <div class="faq-item">
                 <div class="faq-icon-col">
@@ -1530,7 +1575,7 @@
                         <span class="faq-q-text">Do you deliver food or is it takeaway/dine-in only?</span>
                     </button>
                     <div class="faq-answer">
-                        <p>Currently we offer takeaway services and bulk/institutional contract delivery across Ranchi. Individual home delivery slots for monthly plans are launching soon in select sectors.</p>
+                        <p>Monthly subscriptions for a <strong>single person (1 subscriber) are strictly active on a self-pickup basis</strong> from our kitchen counter in Hindpiri. <strong>Doorstep delivery is only available for a minimum of five (5) subscriptions/people</strong> in the same area or building, or for bulk/institutional contract deliveries.</p>
                     </div>
                 </div>
                 <div class="faq-toggle-col">
@@ -1619,6 +1664,28 @@
                     </button>
                     <div class="faq-answer">
                         <p>Yes, our commercial kitchen maintains rigorous cleanliness checks. We cook in small, manageable batches, use fresh filtered water, and follow temperature regulation cycles to ensure safety and freshness.</p>
+                    </div>
+                </div>
+                <div class="faq-toggle-col">
+                    <div class="faq-toggle-btn">
+                        <i class="fa-solid fa-chevron-down"></i>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Item 6 -->
+            <div class="faq-item">
+                <div class="faq-icon-col">
+                    <div class="faq-icon-badge">
+                        <i class="fa-solid fa-credit-card"></i>
+                    </div>
+                </div>
+                <div class="faq-content-col">
+                    <button class="faq-question">
+                        <span class="faq-q-text">What is your payment policy? Do you allow post-payments?</span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>We operate strictly on a <strong>100% advance payment policy</strong> for all monthly subscription plans to ensure seamless ingredient procurement and kitchen operations. We accept UPI, Net Banking, and cash.</p>
                     </div>
                 </div>
                 <div class="faq-toggle-col">

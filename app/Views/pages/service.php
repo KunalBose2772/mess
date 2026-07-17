@@ -101,13 +101,56 @@
 <?php endif; ?>
 
 <!-- Final CTA -->
-<section class="final-cta-section bg-primary text-white">
-    <div class="section-container text-center">
-        <h2 class="text-white">Ready to Partner With Ranchi's Best?</h2>
-        <p class="text-white-muted">Get in touch to organize your meal subscriptions or trial runs.</p>
-        <div class="final-cta-buttons">
-            <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="btn btn-accent btn-lg text-white shadow-gold"><?php echo htmlspecialchars($service['cta']); ?></a>
-            <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20inquire%20about%20<?php echo urlencode($service['title']); ?>." class="btn btn-outline-white btn-lg" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp Us</a>
+<section class="final-cta-section">
+    <div class="section-container">
+        <div class="final-cta-card">
+            <!-- Decorative Background SVGs -->
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-left">
+            <img src="<?php echo $baseUrl; ?>assets/images/gold_leaf.svg" alt="" class="cta-decor-leaf-right">
+            <svg class="cta-decor-dots-left" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+            <svg class="cta-decor-dots-right" width="60" height="40" viewBox="0 0 60 40" fill="none" opacity="0.15">
+                <circle cx="10" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="10" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="22" r="1.5" fill="#d49e2f"/>
+                <circle cx="10" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="26" cy="34" r="1.5" fill="#d49e2f"/>
+                <circle cx="42" cy="34" r="1.5" fill="#d49e2f"/>
+            </svg>
+
+            <!-- Card Content -->
+            <div class="cta-leaf-top">
+                <svg width="30" height="12" viewBox="0 0 30 12" fill="none">
+                    <path d="M15,6 C10,6 5,8 1,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C20,6 25,8 29,10" stroke="#d49e2f" stroke-width="1.5" stroke-linecap="round"/>
+                    <path d="M15,6 C15,3 13,1 11,2 C10,3 11,5 15,6 Z" fill="#d49e2f"/>
+                    <path d="M15,6 C15,3 17,1 19,2 C20,3 19,5 15,6 Z" fill="#d49e2f"/>
+                </svg>
+            </div>
+            
+            <h2 class="cta-title">Ready to Partner With <span class="text-accent">Ranchi's Best</span>?</h2>
+            <p class="cta-subtitle">Get in touch to organize your meal subscriptions or trial runs.</p>
+            
+            <div class="cta-buttons">
+                <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="cta-btn btn-gold-filled">
+                    <?php echo htmlspecialchars($service['cta']); ?>
+                </a>
+                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20inquire%20about%20<?php echo urlencode($service['title']); ?>." class="cta-btn btn-white-outlined" target="_blank">
+                    <i class="fab fa-whatsapp"></i> WhatsApp Us
+                </a>
+            </div>
         </div>
     </div>
 </section>
