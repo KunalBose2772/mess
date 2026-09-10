@@ -1,6 +1,9 @@
 <?php
-// Terms of Service View
-// Available variables: $baseUrl
+/**
+ * Terms of Service View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

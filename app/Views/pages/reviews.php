@@ -1,6 +1,9 @@
 <?php
-// Reviews View
-// Available variables: $baseUrl
+/**
+ * Reviews View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

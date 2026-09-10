@@ -1,6 +1,9 @@
 <?php
-// Contact Page View
-// Available variables: $baseUrl
+/**
+ * Contact Page View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -27,7 +30,7 @@
                         <div class="card-icon"><i class="fa fa-phone"></i></div>
                         <div class="card-text">
                             <h4>Call Us</h4>
-                            <p><a href="tel:+919934123456">+91 99341 23456</a></p>
+                            <p><a href="tel:+916201016720">+91 62010 16720</a></p>
                         </div>
                     </div>
                     
@@ -35,7 +38,7 @@
                         <div class="card-icon"><i class="fab fa-whatsapp"></i></div>
                         <div class="card-text">
                             <h4>WhatsApp Chat</h4>
-                            <p><a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank">+91 99341 23456</a></p>
+                            <p><a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank">+91 62010 16720</a></p>
                         </div>
                     </div>
                     
@@ -51,7 +54,7 @@
                         <div class="card-icon"><i class="fa fa-map-marker-alt"></i></div>
                         <div class="card-text">
                             <h4>Central Kitchen Address</h4>
-                            <p>124, Near Plaza Cinema, Main Road, Hindpiri, Ranchi, Jharkhand - 834001</p>
+                            <p>Nizam Nagar, Hindpiri, Ranchi, Jharkhand 834001</p>
                         </div>
                     </div>
                 </div>
@@ -148,7 +151,7 @@
         <div class="google-maps-box">
             <!-- Simulated Google Map Embed for Premium Feel or simple iframe -->
             <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.610531548172!2d85.32353347587787!3d23.366050578931168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350cf3e5a32b270b%3A0xe5566cf20a2ff11!2sPlaza%20Cinema!5e0!3m2!1sen!2sin!4v1689255000000!5m2!1sen!2sin" 
+                src="https://maps.google.com/maps?q=Nizam+Nagar,+Hindpiri,+Ranchi,+Jharkhand+834001&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed" 
                 width="100%" 
                 height="450" 
                 style="border:0; border-radius:16px;" 

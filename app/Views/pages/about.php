@@ -1,6 +1,9 @@
 <?php
-// About Us Page View
-// Available variables: $baseUrl
+/**
+ * About Us Page View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

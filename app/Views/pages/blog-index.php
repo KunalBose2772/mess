@@ -1,6 +1,9 @@
 <?php
-// Blog Index View
-// Available variables: $baseUrl
+/**
+ * Blog Index View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

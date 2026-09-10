@@ -1,6 +1,9 @@
 <?php
-// Monthly Plans View
-// Available variables: $baseUrl
+/**
+ * Monthly Plans View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -89,7 +92,7 @@
                     <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
                     <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                 </ul>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B92,400/month)" class="btn btn-primary btn-block">Subscribe via WhatsApp</a>
+                <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B92,400/month)" class="btn btn-primary btn-block">Subscribe via WhatsApp</a>
             </div>
             
             <!-- Non-Veg Plan -->
@@ -124,7 +127,7 @@
                     <li><i class="fa-solid fa-circle-info text-accent"></i> <strong>Self-Pickup Only</strong> (1 Person Plan)</li>
                     <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                 </ul>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B93,200/month)" class="btn btn-accent btn-block text-white shadow-gold">Subscribe via WhatsApp</a>
+                <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Vegetarian%20plan%20(2%20Meals%20Daily%20%E2%82%B93,200/month)" class="btn btn-accent btn-block text-white shadow-gold">Subscribe via WhatsApp</a>
             </div>
             
             <!-- Combo Plan -->
@@ -350,7 +353,7 @@
             <p class="cta-subtitle">Subscribe now and get clean, hot home-style meals delivered daily.</p>
             
             <div class="cta-buttons">
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20a%20monthly%20tiffin%20plan." class="cta-btn btn-gold-filled" target="_blank">
+                <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20a%20monthly%20tiffin%20plan." class="cta-btn btn-gold-filled" target="_blank">
                     <i class="fab fa-whatsapp"></i> Chat on WhatsApp
                 </a>
                 <a href="<?php echo $baseUrl; ?>contact" class="cta-btn btn-white-outlined">

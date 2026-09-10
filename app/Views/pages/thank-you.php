@@ -1,6 +1,9 @@
 <?php
-// Thank You View
-// Available variables: $baseUrl
+/**
+ * Thank You View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="thankyou-section text-center">
@@ -15,7 +18,7 @@
             <div class="whatsapp-fallback-box bg-white">
                 <h4>Prefer an Instant Reply?</h4>
                 <p>Skip the wait! Click below to send your query directly to our WhatsApp support line for instant answers.</p>
-                <a href="https://wa.me/919934123456?text=Hi,%20I%20just%20submitted%20a%20form%20on%20your%20website%20and%20wanted%20to%20follow%20up." class="btn btn-whatsapp btn-lg" target="_blank">
+                <a href="https://wa.me/916201016720?text=Hi,%20I%20just%20submitted%20a%20form%20on%20your%20website%20and%20wanted%20to%20follow%20up." class="btn btn-whatsapp btn-lg" target="_blank">
                     <i class="fab fa-whatsapp"></i> Chat on WhatsApp
                 </a>
             </div>

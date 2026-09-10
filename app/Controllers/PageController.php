@@ -109,7 +109,7 @@ class PageController extends Controller {
     }
 
     // Dynamic Service Landing Page Handler
-    public function service($params) {
+    public function service(array $params) {
         $slug = $params['slug'];
         $services = ContentLoader::loadJson(__DIR__ . '/../../app/Data/services.json');
 
@@ -155,7 +155,7 @@ class PageController extends Controller {
     }
 
     // Dynamic Hyperlocal Location Landing Page Handler
-    public function area($params) {
+    public function area(array $params) {
         $slug = $params['slug'];
         $areas = ContentLoader::loadJson(__DIR__ . '/../../app/Data/areas.json');
 
@@ -182,7 +182,7 @@ class PageController extends Controller {
           "@type": "Restaurant",
           "name": "Student\'s Mess - ' . htmlspecialchars($area['name']) . '",
           "image": "' . ($_SERVER['REQUEST_SCHEME'] ?? 'http') . '://' . $_SERVER['HTTP_HOST'] . '/logo.png",
-          "telephone": "+919934123456",
+          "telephone": "+916201016720",
           "priceRange": "$$",
           "servesCuisine": "Indian, Home Style",
           "address": {
@@ -218,7 +218,7 @@ class PageController extends Controller {
     }
 
     // Blog Post Detail
-    public function blogPost($params) {
+    public function blogPost(array $params) {
         $slug = $params['slug'];
         
         // Define hardcoded mock blog post data for seeding
@@ -253,7 +253,7 @@ class PageController extends Controller {
         ]);
     }
 
-    public function contentPage($params) {
+    public function contentPage(array $params) {
         $slug = $params['slug'] ?? '';
         $pages = ContentLoader::loadJson(__DIR__ . '/../../app/Data/pages.json');
 

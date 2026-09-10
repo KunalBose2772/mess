@@ -1,6 +1,11 @@
 <?php
-// Universal Service Detail Template View
-// Dynamic variables passed: $service, $baseUrl
+/**
+ * Universal Service Detail Template View
+ * @var array $service
+ * @var string $baseUrl
+ */
+$service = $service ?? [];
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -35,7 +40,7 @@
                     <h3>Need a custom proposal?</h3>
                     <p>We supply personalized menu options and structured contract billing terms matching your organization size.</p>
                     <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="btn btn-primary btn-block">Request Custom Quote</a>
-                    <a href="tel:+919934123456" class="btn btn-outline-primary btn-block"><i class="fa fa-phone"></i> Call Operations</a>
+                    <a href="tel:+916201016720" class="btn btn-outline-primary btn-block"><i class="fa fa-phone"></i> Call Operations</a>
                 </div>
             </div>
         </div>
@@ -147,7 +152,7 @@
                 <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="cta-btn btn-gold-filled">
                     <?php echo htmlspecialchars($service['cta']); ?>
                 </a>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20inquire%20about%20<?php echo urlencode($service['title']); ?>." class="cta-btn btn-white-outlined" target="_blank">
+                <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20inquire%20about%20<?php echo urlencode($service['title']); ?>." class="cta-btn btn-white-outlined" target="_blank">
                     <i class="fab fa-whatsapp"></i> WhatsApp Us
                 </a>
             </div>

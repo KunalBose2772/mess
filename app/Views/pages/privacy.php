@@ -1,6 +1,9 @@
 <?php
-// Privacy Policy View
-// Available variables: $baseUrl
+/**
+ * Privacy Policy View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

@@ -1,6 +1,9 @@
 <?php
-// Gallery View
-// Available variables: $baseUrl
+/**
+ * Gallery View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">

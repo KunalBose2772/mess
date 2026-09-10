@@ -1,6 +1,9 @@
 <?php
-// Takeaway Options View
-// Available variables: $baseUrl
+/**
+ * Takeaway Options View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -24,7 +27,7 @@
             <div class="step-card">
                 <span class="step-number"><i class="fa fa-phone-alt"></i></span>
                 <h3>01. Call or WhatsApp</h3>
-                <p>Call <a href="tel:+919934123456"><strong>+91 99341 23456</strong></a> or drop a WhatsApp message indicating your thali choice and quantity.</p>
+                <p>Call <a href="tel:+916201016720"><strong>+91 62010 16720</strong></a> or drop a WhatsApp message indicating your thali choice and quantity.</p>
             </div>
             <div class="step-card">
                 <span class="step-number"><i class="fa fa-fire-alt"></i></span>
@@ -34,7 +37,7 @@
             <div class="step-card">
                 <span class="step-number"><i class="fa fa-running"></i></span>
                 <h3>03. Quick Pickup</h3>
-                <p>Drive by our central kitchen near Plaza Cinema, pay via cash or UPI, and receive your hot food instantly.</p>
+                <p>Drive by our central kitchen at Nizam Nagar, Hindpiri, pay via cash or UPI, and receive your hot food instantly.</p>
             </div>
         </div>
     </div>
@@ -90,7 +93,7 @@
                 <ul class="takeaway-location-list">
                     <li>
                         <i class="fa fa-map-marker-alt text-accent"></i>
-                        <span>124, Near Plaza Cinema, Main Road, Hindpiri, Ranchi, Jharkhand - 834001</span>
+                        <span>Nizam Nagar, Hindpiri, Ranchi, Jharkhand 834001</span>
                     </li>
                     <li>
                         <i class="fa fa-clock text-accent"></i>
@@ -107,8 +110,8 @@
                 <h3 class="text-white">Call Ahead to Order</h3>
                 <p class="text-white-muted">Save 15 minutes of kitchen waiting time by ordering ahead.</p>
                 <div class="info-ctas">
-                    <a href="tel:+919934123456" class="btn btn-accent btn-lg text-white shadow-gold"><i class="fa fa-phone"></i> Call: +91 99341 23456</a>
-                    <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20order%20takeaway." class="btn btn-outline-white btn-lg" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp Order</a>
+                    <a href="tel:+916201016720" class="btn btn-accent btn-lg text-white shadow-gold"><i class="fa fa-phone"></i> Call: +91 62010 16720</a>
+                    <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20order%20takeaway." class="btn btn-outline-white btn-lg" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp Order</a>
                 </div>
             </div>
         </div>

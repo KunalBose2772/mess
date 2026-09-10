@@ -1,3 +1,16 @@
+<?php
+/**
+ * Global Layout
+ * @var string $baseUrl
+ * @var string $content
+ * @var string|null $title
+ * @var string|null $metaDesc
+ * @var string|null $schemaMarkup
+ * @var string|null $pageClass
+ */
+$baseUrl = $baseUrl ?? '';
+$content = $content ?? '';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,12 +50,12 @@
       "name": "Student's Mess",
       "image": "<?php echo $_SERVER['REQUEST_SCHEME'] ?? 'http'; ?>://<?php echo $_SERVER['HTTP_HOST']; ?><?php echo $baseUrl; ?>assets/images/logo.png",
       "url": "<?php echo $_SERVER['REQUEST_SCHEME'] ?? 'http'; ?>://<?php echo $_SERVER['HTTP_HOST']; ?><?php echo $baseUrl; ?>",
-      "telephone": "+919934123456",
+      "telephone": "+916201016720",
       "priceRange": "$$",
       "servesCuisine": "Indian, Home Style",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "124, Near Plaza Cinema, Main Road, Hindpiri",
+        "streetAddress": "Nizam Nagar, Hindpiri",
         "addressLocality": "Ranchi",
         "addressRegion": "Jharkhand",
         "postalCode": "834001",

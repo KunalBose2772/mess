@@ -1,6 +1,9 @@
 <?php
-// Header layout - Student's Mess Ranchi
-// Available variable: $baseUrl
+/**
+ * Header layout - Student's Mess Ranchi
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 <!-- 1. TOP HEADER STRIP -->
 <div class="top-header-strip">
@@ -61,10 +64,10 @@
 
         <!-- Compact & Premium CTA Buttons -->
         <div class="header-ctas">
-            <a href="tel:+919934123456" class="btn-compact btn-call" title="Call Us">
+            <a href="tel:+916201016720" class="btn-compact btn-call" title="Call Us">
                 <i class="fa fa-phone"></i>
             </a>
-            <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank" class="btn-compact btn-whatsapp" title="WhatsApp Us">
+            <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank" class="btn-compact btn-whatsapp" title="WhatsApp Us">
                 <i class="fab fa-whatsapp"></i>
             </a>
         </div>

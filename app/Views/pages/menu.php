@@ -1,6 +1,11 @@
 <?php
-// Today's Menu View
-// Dynamic variables: $menu, $baseUrl
+/**
+ * Today's Menu View
+ * @var array $menu
+ * @var string $baseUrl
+ */
+$menu = $menu ?? [];
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -137,7 +142,7 @@
             <p class="cta-subtitle">Place a takeaway order now or get details on setting up recurring daily subscriptions.</p>
             
             <div class="cta-buttons">
-                <a href="tel:+919934123456" class="cta-btn btn-gold-filled">
+                <a href="tel:+916201016720" class="cta-btn btn-gold-filled">
                     <i class="fa fa-phone"></i> Call to Order Takeaway
                 </a>
                 <a href="<?php echo $baseUrl; ?>monthly-meal-plans" class="cta-btn btn-white-outlined">

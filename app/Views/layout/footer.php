@@ -1,6 +1,9 @@
 <?php
-// Footer layout
-// Available variable: $baseUrl
+/**
+ * Footer layout
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 <footer class="site-footer">
     <!-- Top Gold Ornament Border -->
@@ -28,7 +31,7 @@
                 <div class="footer-socials">
                     <a href="#" aria-label="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
                     <a href="#" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="https://wa.me/919934123456" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+                    <a href="https://wa.me/916201016720" aria-label="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
                 </div>
             </div>
 
@@ -70,7 +73,7 @@
                         </div>
                         <div class="contact-text-wrap">
                             <span class="contact-label">CALL US:</span>
-                            <a href="tel:+919934123456" class="contact-link">+91 99341 23456</a>
+                            <a href="tel:+916201016720" class="contact-link">+91 62010 16720</a>
                         </div>
                     </li>
                     <li>
@@ -79,7 +82,7 @@
                         </div>
                         <div class="contact-text-wrap">
                             <span class="contact-label">WHATSAPP:</span>
-                            <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank" class="contact-link">+91 99341 23456</a>
+                            <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" target="_blank" class="contact-link">+91 62010 16720</a>
                         </div>
                     </li>
                     <li>
@@ -97,7 +100,7 @@
                         </div>
                         <div class="contact-text-wrap">
                             <span class="contact-label">ADDRESS:</span>
-                            <address class="contact-address">124, Near Plaza Cinema, Main Road, Hindpiri, Ranchi, Jharkhand - 834001</address>
+                            <address class="contact-address">Nizam Nagar, Hindpiri, Ranchi, Jharkhand 834001</address>
                         </div>
                     </li>
                 </ul>
@@ -136,14 +139,14 @@
 
 <!-- Floating Elements -->
 <!-- Floating WhatsApp (Desktop + Mobile) -->
-<a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" class="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
+<a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20know%20more%20about%20your%20meal%20plans" class="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
     <i class="fab fa-whatsapp"></i>
     <span class="tooltip-text">Chat with us</span>
 </a>
 
 <!-- Mobile Bottom Sticky CTA Strip -->
 <div class="mobile-sticky-bar">
-    <a href="tel:+919934123456" class="mobile-cta-btn cta-call">
+    <a href="tel:+916201016720" class="mobile-cta-btn cta-call">
         <i class="fa fa-phone"></i> Call Now
     </a>
     <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="mobile-cta-btn cta-quote">

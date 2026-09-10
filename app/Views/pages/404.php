@@ -1,6 +1,9 @@
 <?php
-// 404 View
-// Available variables: $baseUrl
+/**
+ * 404 View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="notfound-section text-center">

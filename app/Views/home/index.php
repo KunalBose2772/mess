@@ -1,6 +1,15 @@
 <?php
-// Homepage View
-// Dynamic variables passed: $services, $areas, $menu, $baseUrl
+/**
+ * Homepage View
+ * @var string $baseUrl
+ * @var array $services
+ * @var array $areas
+ * @var array $menu
+ */
+$baseUrl = $baseUrl ?? '';
+$areas = $areas ?? [];
+$services = $services ?? [];
+$menu = $menu ?? [];
 ?>
 
 <!-- 1. HERO SECTION -->
@@ -483,7 +492,7 @@
                             <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                         </ul>
 
-                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Veg%20Plan%20(%E2%82%B92,400/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
+                        <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Veg%20Plan%20(%E2%82%B92,400/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
                             SELECT PLAN <i class="fa-solid fa-chevron-right"></i>
                         </a>
                     </div>
@@ -528,7 +537,7 @@
                             <li><i class="fa-solid fa-truck text-success"></i> <strong>Doorstep Delivery</strong>: Min. 5 people/subs</li>
                         </ul>
 
-                        <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Veg%20Plan%20(%E2%82%B93,200/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
+                        <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20the%20Standard%20Non-Veg%20Plan%20(%E2%82%B93,200/month%20for%202%20Meals%20Daily)" target="_blank" class="pc-select-btn">
                             SELECT PLAN <i class="fa-solid fa-chevron-right"></i>
                         </a>
                     </div>
@@ -631,7 +640,7 @@
                 <a href="<?php echo $baseUrl; ?>bulk-orders" class="btn bulk-btn-gold">
                     <i class="fa-solid fa-clipboard-list"></i> Get a Bulk Quote <i class="fa-solid fa-arrow-right"></i>
                 </a>
-                <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20discuss%20bulk%20orders/institutional%20partnerships" target="_blank" class="btn bulk-btn-outline">
+                <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20discuss%20bulk%20orders/institutional%20partnerships" target="_blank" class="btn bulk-btn-outline">
                     <i class="fa-solid fa-phone"></i> Discuss Your Needs <i class="fa-solid fa-arrow-right"></i>
                 </a>
             </div>
@@ -1745,7 +1754,7 @@
                 <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="cta-btn btn-gold-filled">
                     <i class="fa-solid fa-file-invoice"></i> Request Bulk Quote
                 </a>
-                <a href="tel:+919934123456" class="cta-btn btn-white-outlined">
+                <a href="tel:+916201016720" class="cta-btn btn-white-outlined">
                     <i class="fa-solid fa-phone"></i> Call Us Now
                 </a>
             </div>

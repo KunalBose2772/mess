@@ -1,7 +1,11 @@
 <?php
 /**
  * Generic content-page view for scalable data-driven pages.
+ * @var array $page
+ * @var string $baseUrl
  */
+$page = $page ?? [];
+$baseUrl = $baseUrl ?? '';
 ?>
 <section class="inner-hero-section">
     <div class="section-container text-center">

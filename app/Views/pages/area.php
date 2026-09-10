@@ -1,6 +1,13 @@
 <?php
-// Universal Location Detail Template View
-// Dynamic variables passed: $area, $adjacentAreas, $baseUrl
+/**
+ * Universal Location Detail Template View
+ * @var array $area
+ * @var array $adjacentAreas
+ * @var string $baseUrl
+ */
+$area = $area ?? [];
+$adjacentAreas = $adjacentAreas ?? [];
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -37,7 +44,7 @@
                         <li><i class="fa fa-check-circle text-accent"></i> PG & Hostel Contract Supply</li>
                         <li><i class="fa fa-check-circle text-accent"></i> Takeaway (Hindpiri Counter)</li>
                     </ul>
-                    <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20order%20meals%20in%20<?php echo urlencode($area['name']); ?>." class="btn btn-accent btn-block text-white shadow-gold"><i class="fab fa-whatsapp"></i> Order in <?php echo htmlspecialchars($area['name']); ?></a>
+                    <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20order%20meals%20in%20<?php echo urlencode($area['name']); ?>." class="btn btn-accent btn-block text-white shadow-gold"><i class="fab fa-whatsapp"></i> Order in <?php echo htmlspecialchars($area['name']); ?></a>
                 </div>
             </div>
         </div>
@@ -142,7 +149,7 @@
             <p class="cta-subtitle">Subscribe now or request bulk quote proposals for your local PG, office, or event.</p>
             
             <div class="cta-buttons">
-                <a href="tel:+919934123456" class="cta-btn btn-gold-filled">
+                <a href="tel:+916201016720" class="cta-btn btn-gold-filled">
                     <i class="fa fa-phone"></i> Call Now
                 </a>
                 <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="cta-btn btn-white-outlined">

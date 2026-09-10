@@ -1,6 +1,9 @@
 <?php
-// Bulk Orders View
-// Available variables: $baseUrl
+/**
+ * Bulk Orders View
+ * @var string $baseUrl
+ */
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -174,8 +177,8 @@
                 <h2 class="text-white">Request a Custom Bulk Quote</h2>
                 <p class="text-white-muted">Submit your requirements and our operations director will coordinate with you to supply custom rate proposals.</p>
                 <div class="quick-contact-white">
-                    <p><i class="fa fa-phone text-accent"></i> Call for Urgent Needs: <a href="tel:+919934123456" class="text-white"><strong>+91 99341 23456</strong></a></p>
-                    <p><i class="fab fa-whatsapp text-accent"></i> WhatsApp: <a href="https://wa.me/919934123456" class="text-white" target="_blank"><strong>+91 99341 23456</strong></a></p>
+                    <p><i class="fa fa-phone text-accent"></i> Call for Urgent Needs: <a href="tel:+916201016720" class="text-white"><strong>+91 62010 16720</strong></a></p>
+                    <p><i class="fab fa-whatsapp text-accent"></i> WhatsApp: <a href="https://wa.me/916201016720" class="text-white" target="_blank"><strong>+91 62010 16720</strong></a></p>
                 </div>
             </div>
             

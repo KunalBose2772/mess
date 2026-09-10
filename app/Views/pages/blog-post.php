@@ -1,6 +1,11 @@
 <?php
-// Blog Post Detail View
-// Dynamic variables passed: $post, $baseUrl
+/**
+ * Blog Post Detail View
+ * @var array $post
+ * @var string $baseUrl
+ */
+$post = $post ?? [];
+$baseUrl = $baseUrl ?? '';
 ?>
 
 <section class="inner-hero-section">
@@ -32,7 +37,7 @@
                 <p>Subscribe to our Standard Veg or Non-Veg monthly tiffin plans and start receiving warm home-style meals at your doorstep daily.</p>
                 <div class="cta-actions">
                     <a href="<?php echo $baseUrl; ?>monthly-meal-plans" class="btn btn-primary btn-md">Explore Plans</a>
-                    <a href="https://wa.me/919934123456?text=Hi,%20I'd%20like%20to%20subscribe%20after%20reading%20your%20blog." class="btn btn-whatsapp btn-md" target="_blank"><i class="fab fa-whatsapp"></i> Order on WhatsApp</a>
+                    <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20after%20reading%20your%20blog." class="btn btn-whatsapp btn-md" target="_blank"><i class="fab fa-whatsapp"></i> Order on WhatsApp</a>
                 </div>
             </div>
 
