@@ -154,25 +154,19 @@ class PageController extends Controller {
         ]);
     }
 
-    // Dynamic Hyperlocal Location Landing Page Handler
-    public function area(array $params) {
+    // Dedicated Hyperlocal Location Page Handler
+    public function locationPage(array $params) {
         $slug = $params['slug'];
-        $areas = ContentLoader::loadJson(__DIR__ . '/../../app/Data/areas.json');
+        $viewFile = 'pages/locations/mess-and-tiffin-service-in-' . $slug . '-ranchi';
+        $fullPath = __DIR__ . '/../../app/Views/' . $viewFile . '.php';
 
-        if (!isset($areas[$slug])) {
+        if (!file_exists($fullPath)) {
             $this->notFound();
             return;
         }
 
-        $area = $areas[$slug];
-
-        // Fetch surrounding area data for cross-linking spokes
-        $adjacentAreas = [];
-        foreach ($area['adjacent'] as $adjSlug) {
-            if (isset($areas[$adjSlug])) {
-                $adjacentAreas[] = $areas[$adjSlug];
-            }
-        }
+        $areas = ContentLoader::loadJson(__DIR__ . '/../../app/Data/areas.json');
+        $areaName = isset($areas[$slug]) ? $areas[$slug]['name'] : ucwords(str_replace('-', ' ', $slug));
 
         // Hyperlocal LocalBusiness Schema with areaServed property
         $schemaMarkup = '
@@ -180,32 +174,39 @@ class PageController extends Controller {
         {
           "@context": "https://schema.org",
           "@type": "Restaurant",
-          "name": "Student\'s Mess - ' . htmlspecialchars($area['name']) . '",
+          "name": "Student\'s Mess - ' . htmlspecialchars($areaName) . '",
           "image": "' . ($_SERVER['REQUEST_SCHEME'] ?? 'http') . '://' . $_SERVER['HTTP_HOST'] . '/logo.png",
           "telephone": "+916201016720",
           "priceRange": "$$",
           "servesCuisine": "Indian, Home Style",
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "' . htmlspecialchars($area['name']) . '",
+            "streetAddress": "Nizam Nagar, Hindpiri",
+            "addressLocality": "' . htmlspecialchars($areaName) . '",
             "addressRegion": "Ranchi, Jharkhand",
+            "postalCode": "834001",
             "addressCountry": "IN"
           },
           "areaServed": {
             "@type": "AdministrativeArea",
-            "name": "' . htmlspecialchars($area['name']) . '"
+            "name": "' . htmlspecialchars($areaName) . '"
           }
         }
         </script>';
 
-        $this->render('pages/area', [
-            'title' => "Home Style Meals & Tiffin in " . $area['name'] . ", Ranchi | Student's Mess",
-            'metaDesc' => $area['intro'] . " Fresh home style veg & non-veg meal plans, monthly tiffin, bulk food catering. Call or WhatsApp now.",
-            'area' => $area,
-            'adjacentAreas' => $adjacentAreas,
+        $this->render($viewFile, [
+            'title' => "Best Mess & Tiffin Service in " . $areaName . ", Ranchi | Student's Mess",
+            'metaDesc' => "Looking for the best mess and tiffin service in " . $areaName . ", Ranchi? Student's Mess provides fresh, hygienic home-style lunch and dinner delivery. Call +91 62010 16720.",
             'schemaMarkup' => $schemaMarkup,
             'pageClass' => 'location-detail-page'
         ]);
+    }
+
+    // Dynamic Hyperlocal Location Landing Page Handler (301 Redirect to SEO URL)
+    public function area(array $params) {
+        $slug = $params['slug'];
+        header('HTTP/1.1 301 Moved Permanently');
+        $this->redirect('mess-and-tiffin-service-in-' . $slug . '-ranchi');
     }
 
     // Blog Index

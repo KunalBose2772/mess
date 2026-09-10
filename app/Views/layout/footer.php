@@ -52,13 +52,13 @@ $baseUrl = $baseUrl ?? '';
             <div class="footer-col links-col">
                 <h4 class="footer-heading">Areas We Serve</h4>
                 <ul class="footer-links">
-                    <li><a href="<?php echo $baseUrl; ?>areas/lalpur"><i class="fa-solid fa-location-dot locality-pin"></i> Lalpur</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/kanke"><i class="fa-solid fa-location-dot locality-pin"></i> Kanke</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/morabadi"><i class="fa-solid fa-location-dot locality-pin"></i> Morabadi</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/hindpiri"><i class="fa-solid fa-location-dot locality-pin"></i> Hindpiri</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/doranda"><i class="fa-solid fa-location-dot locality-pin"></i> Doranda</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/kokar"><i class="fa-solid fa-location-dot locality-pin"></i> Kokar</a></li>
-                    <li><a href="<?php echo $baseUrl; ?>areas/bariatu"><i class="fa-solid fa-location-dot locality-pin"></i> Bariatu</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-lalpur-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Lalpur</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kanke-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Kanke</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-morabadi-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Morabadi</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-hindpiri-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Hindpiri</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-doranda-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Doranda</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kokar-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Kokar</a></li>
+                    <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-bariatu-ranchi"><i class="fa-solid fa-location-dot locality-pin"></i> Bariatu</a></li>
                     <li class="view-all-footer"><a href="<?php echo $baseUrl; ?>#areas-section">View All Areas <i class="fa-solid fa-arrow-right"></i></a></li>
                 </ul>
             </div>

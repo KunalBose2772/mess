@@ -55,6 +55,7 @@ $router->add('page/{slug}', [App\Controllers\PageController::class, 'contentPage
 // Dynamic Service & Area Spokes
 $router->add('services/{slug}', [App\Controllers\PageController::class, 'service']);
 $router->add('areas/{slug}', [App\Controllers\PageController::class, 'area']);
+$router->add('mess-and-tiffin-service-in-{slug}-ranchi', [App\Controllers\PageController::class, 'locationPage']);
 
 // Blog Hub
 $router->add('blog', [App\Controllers\PageController::class, 'blog']);

@@ -805,7 +805,7 @@ $menu = $menu ?? [];
         <!-- Locations Grid -->
         <div class="locations-grid-new">
             <?php foreach ($areas as $slug => $area): ?>
-                <a href="<?php echo $baseUrl; ?>areas/<?php echo $slug; ?>" class="location-card-new">
+                <a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-<?php echo $slug; ?>-ranchi" class="location-card-new">
                     <div class="lc-content">
                         <i class="fa-solid fa-location-dot lc-pin"></i>
                         <span class="lc-name"><?php echo htmlspecialchars($area['name']); ?></span>

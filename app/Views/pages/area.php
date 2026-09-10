@@ -96,7 +96,7 @@ $baseUrl = $baseUrl ?? '';
         
         <div class="adjacent-chips-row">
             <?php foreach ($adjacentAreas as $adj): ?>
-                <a href="<?php echo $baseUrl; ?>areas/<?php echo $adj['slug']; ?>" class="adjacent-chip">
+                <a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-<?php echo $adj['slug']; ?>-ranchi" class="adjacent-chip">
                     <span><i class="fa fa-map-marker-alt"></i> <?php echo htmlspecialchars($adj['name']); ?></span>
                 </a>
             <?php endforeach; ?>

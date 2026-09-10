@@ -47,12 +47,12 @@ $baseUrl = $baseUrl ?? '';
                 <li class="nav-dropdown-item">
                     <a href="#" class="nav-link dropdown-toggle">Areas We Serve <i class="fa fa-chevron-down dropdown-icon"></i></a>
                     <ul class="nav-dropdown">
-                        <li><a href="<?php echo $baseUrl; ?>areas/lalpur">Lalpur</a></li>
-                        <li><a href="<?php echo $baseUrl; ?>areas/kanke">Kanke</a></li>
-                        <li><a href="<?php echo $baseUrl; ?>areas/morabadi">Morabadi</a></li>
-                        <li><a href="<?php echo $baseUrl; ?>areas/hindpiri">Hindpiri</a></li>
-                        <li><a href="<?php echo $baseUrl; ?>areas/doranda">Doranda</a></li>
-                        <li><a href="<?php echo $baseUrl; ?>areas/kokar">Kokar</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-lalpur-ranchi">Lalpur</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kanke-ranchi">Kanke</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-morabadi-ranchi">Morabadi</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-hindpiri-ranchi">Hindpiri</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-doranda-ranchi">Doranda</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kokar-ranchi">Kokar</a></li>
                         <li class="dropdown-divider"></li>
                         <li><a href="<?php echo $baseUrl; ?>#areas-section" class="view-all-link">View All Areas</a></li>
                     </ul>
