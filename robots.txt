@@ -5,4 +5,4 @@ Disallow: /thank-you
 Disallow: /submit-quote
 Disallow: /submit-contact
 
-Sitemap: https://studentsmessranchi.com/sitemap.xml
+Sitemap: https://studentsmessranchi.in/sitemap.xml

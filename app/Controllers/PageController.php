@@ -190,19 +190,19 @@ class PageController extends Controller {
                     '@type' => 'ListItem',
                     'position' => 1,
                     'name' => 'Home',
-                    'item' => 'https://studentsmessranchi.com/'
+                    'item' => 'https://studentsmessranchi.in/'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 2,
                     'name' => 'Services',
-                    'item' => 'https://studentsmessranchi.com/services'
+                    'item' => 'https://studentsmessranchi.in/services'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 3,
                     'name' => $service['title'],
-                    'item' => 'https://studentsmessranchi.com/services/' . $slug
+                    'item' => 'https://studentsmessranchi.in/services/' . $slug
                 ]
             ]
         ];
@@ -262,19 +262,19 @@ class PageController extends Controller {
                     '@type' => 'ListItem',
                     'position' => 1,
                     'name' => 'Home',
-                    'item' => 'https://studentsmessranchi.com/'
+                    'item' => 'https://studentsmessranchi.in/'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 2,
                     'name' => 'Areas We Serve',
-                    'item' => 'https://studentsmessranchi.com/areas'
+                    'item' => 'https://studentsmessranchi.in/areas'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 3,
                     'name' => "Mess & Tiffin Service in " . $areaName . ", Ranchi",
-                    'item' => 'https://studentsmessranchi.com/mess-and-tiffin-service-in-' . $slug . '-ranchi'
+                    'item' => 'https://studentsmessranchi.in/mess-and-tiffin-service-in-' . $slug . '-ranchi'
                 ]
             ]
         ];
@@ -288,7 +288,7 @@ class PageController extends Controller {
             'provider' => [
                 '@type' => 'LocalBusiness',
                 'name' => "Student's Mess",
-                'image' => 'https://studentsmessranchi.com/logo.png',
+                'image' => 'https://studentsmessranchi.in/logo.png',
                 'telephone' => '+916201016720',
                 'priceRange' => '₹₹',
                 'address' => [
@@ -460,19 +460,19 @@ class PageController extends Controller {
                     '@type' => 'ListItem',
                     'position' => 1,
                     'name' => 'Home',
-                    'item' => 'https://studentsmessranchi.com/'
+                    'item' => 'https://studentsmessranchi.in/'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 2,
                     'name' => 'Blog',
-                    'item' => 'https://studentsmessranchi.com/blog'
+                    'item' => 'https://studentsmessranchi.in/blog'
                 ],
                 [
                     '@type' => 'ListItem',
                     'position' => 3,
                     'name' => $post['title'],
-                    'item' => 'https://studentsmessranchi.com/blog/' . $slug
+                    'item' => 'https://studentsmessranchi.in/blog/' . $slug
                 ]
             ]
         ];
@@ -483,7 +483,7 @@ class PageController extends Controller {
             '@type' => 'BlogPosting',
             'headline' => $post['title'],
             'description' => strip_tags(substr($post['content'], 0, 160)),
-            'image' => 'https://studentsmessranchi.com/logo.png',
+            'image' => 'https://studentsmessranchi.in/logo.png',
             'author' => [
                 '@type' => 'Organization',
                 'name' => $post['author']
@@ -493,13 +493,13 @@ class PageController extends Controller {
                 'name' => "Student's Mess",
                 'logo' => [
                     '@type' => 'ImageObject',
-                    'url' => 'https://studentsmessranchi.com/logo.png'
+                    'url' => 'https://studentsmessranchi.in/logo.png'
                 ]
             ],
             'datePublished' => $post['isoDate'] ?? '2026-07-01',
             'mainEntityOfPage' => [
                 '@type' => 'WebPage',
-                '@id' => 'https://studentsmessranchi.com/blog/' . $slug
+                '@id' => 'https://studentsmessranchi.in/blog/' . $slug
             ]
         ];
 

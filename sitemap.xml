@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- 1. Homepage -->
   <url>
-    <loc>https://studentsmessranchi.com/</loc>
+    <loc>https://studentsmessranchi.in/</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -10,147 +10,147 @@
 
   <!-- 2. Core Service & Commercial Pages -->
   <url>
-    <loc>https://studentsmessranchi.com/monthly-meal-plans</loc>
+    <loc>https://studentsmessranchi.in/monthly-meal-plans</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/bulk-orders</loc>
+    <loc>https://studentsmessranchi.in/bulk-orders</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/takeaway</loc>
+    <loc>https://studentsmessranchi.in/takeaway</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/todays-menu</loc>
+    <loc>https://studentsmessranchi.in/todays-menu</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services</loc>
+    <loc>https://studentsmessranchi.in/services</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/areas</loc>
+    <loc>https://studentsmessranchi.in/areas</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/about-us</loc>
+    <loc>https://studentsmessranchi.in/about-us</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/reviews</loc>
+    <loc>https://studentsmessranchi.in/reviews</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/gallery</loc>
+    <loc>https://studentsmessranchi.in/gallery</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/contact</loc>
+    <loc>https://studentsmessranchi.in/contact</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/blog</loc>
+    <loc>https://studentsmessranchi.in/blog</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
-  <!-- 3. Specialized 13 Service Spokes -->
+  <!-- 3. 13 Commercial Catering & Service Spokes -->
   <url>
-    <loc>https://studentsmessranchi.com/services/office-lunch-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/office-lunch-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/corporate-lunch-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/corporate-lunch-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/pg-food-supply-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/pg-food-supply-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/hostel-food-supply-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/hostel-food-supply-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/student-tiffin-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/student-tiffin-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/veg-meals-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/veg-meals-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/non-veg-meals-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/non-veg-meals-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/daily-lunch-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/daily-lunch-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/daily-dinner-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/daily-dinner-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/construction-site-meals-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/construction-site-meals-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/hospital-meal-supply-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/hospital-meal-supply-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/worker-meal-supply-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/worker-meal-supply-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/services/event-catering-ranchi</loc>
+    <loc>https://studentsmessranchi.in/services/event-catering-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -158,117 +158,117 @@
 
   <!-- 4. 15 Dedicated Hyperlocal Location Pages -->
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-lalpur-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-lalpur-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-hindpiri-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-hindpiri-ranchi</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-doranda-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-doranda-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-kanke-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-kanke-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-morabadi-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-morabadi-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-kokar-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-kokar-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-upper-bazar-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-upper-bazar-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-main-road-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-main-road-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-ratu-road-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-ratu-road-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-harmu-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-harmu-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-bariatu-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-bariatu-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-kantatoli-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-kantatoli-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-booty-more-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-booty-more-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-argora-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-argora-ranchi</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://studentsmessranchi.com/mess-and-tiffin-service-in-lowadih-ranchi</loc>
+    <loc>https://studentsmessranchi.in/mess-and-tiffin-service-in-lowadih-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- 5. Blog Guides -->
+  <!-- 5. Informational Blog Articles -->
   <url>
-    <loc>https://studentsmessranchi.com/blog/5-signs-you-need-a-monthly-tiffin-plan-in-ranchi</loc>
+    <loc>https://studentsmessranchi.in/blog/5-signs-you-need-a-monthly-tiffin-plan-in-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/blog/home-style-food-vs-restaurant-food-ranchi</loc>
+    <loc>https://studentsmessranchi.in/blog/home-style-food-vs-restaurant-food-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/blog/how-bulk-meal-catering-works-for-offices-in-ranchi</loc>
+    <loc>https://studentsmessranchi.in/blog/how-bulk-meal-catering-works-for-offices-in-ranchi</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/blog/what-makes-a-meal-healthy-home-cooking-perspective</loc>
+    <loc>https://studentsmessranchi.in/blog/what-makes-a-meal-healthy-home-cooking-perspective</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -276,13 +276,13 @@
 
   <!-- 6. Legal Pages -->
   <url>
-    <loc>https://studentsmessranchi.com/privacy-policy</loc>
+    <loc>https://studentsmessranchi.in/privacy-policy</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://studentsmessranchi.com/terms-of-service</loc>
+    <loc>https://studentsmessranchi.in/terms-of-service</loc>
     <lastmod>2026-09-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>

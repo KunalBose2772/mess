@@ -22,7 +22,7 @@ class Controller {
             || (!empty($_SERVER['REQUEST_SCHEME']) && strtolower($_SERVER['REQUEST_SCHEME']) === 'https');
 
         $scheme = $isHttps ? 'https' : 'http';
-        $host = $_SERVER['HTTP_HOST'] ?? 'studentsmessranchi.com';
+        $host = $_SERVER['HTTP_HOST'] ?? 'studentsmessranchi.in';
         $uri = $_SERVER['REQUEST_URI'] ?? '/';
         $path = explode('?', $uri)[0];
 
@@ -41,7 +41,7 @@ class Controller {
             || (!empty($_SERVER['SERVER_PORT']) && (int)$_SERVER['SERVER_PORT'] === 443)
             || (!empty($_SERVER['REQUEST_SCHEME']) && strtolower($_SERVER['REQUEST_SCHEME']) === 'https');
         $scheme = $isHttps ? 'https' : 'http';
-        $host = $_SERVER['HTTP_HOST'] ?? 'studentsmessranchi.com';
+        $host = $_SERVER['HTTP_HOST'] ?? 'studentsmessranchi.in';
         $basePrefix = rtrim($data['baseUrl'], '/');
         $data['fullLogoUrl'] = $data['fullLogoUrl'] ?? ($scheme . '://' . $host . $basePrefix . '/assets/images/logo.png');
 

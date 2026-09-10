@@ -14,8 +14,8 @@
  */
 $baseUrl = $baseUrl ?? '';
 $content = $content ?? '';
-$canonicalUrl = $canonicalUrl ?? 'https://studentsmessranchi.com/';
-$fullLogoUrl = $fullLogoUrl ?? 'https://studentsmessranchi.com/assets/images/logo.png';
+$canonicalUrl = $canonicalUrl ?? 'https://studentsmessranchi.in/';
+$fullLogoUrl = $fullLogoUrl ?? 'https://studentsmessranchi.in/assets/images/logo.png';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -71,7 +71,7 @@ $fullLogoUrl = $fullLogoUrl ?? 'https://studentsmessranchi.com/assets/images/log
       "@type": ["Restaurant", "LocalBusiness"],
       "name": "Student's Mess",
       "image": "<?php echo htmlspecialchars($fullLogoUrl); ?>",
-      "url": "https://studentsmessranchi.com/",
+      "url": "https://studentsmessranchi.in/",
       "telephone": "+916201016720",
       "priceRange": "₹₹",
       "servesCuisine": "Indian, Home Style",
