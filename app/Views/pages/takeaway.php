@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">On The Go</span>
-        <h1 class="inner-hero-title">Takeaway Meals</h1>
-        <p class="inner-hero-subtitle">Freshly cooked home-style thalis packed in heat-retaining containers, ready for pickup.</p>
+        <span class="inner-hero-eyebrow">Daily Takeaway &bull; Ranchi Lunch Box Service</span>
+        <h1 class="inner-hero-title">Takeaway Meals &amp; Fresh Lunch Box Ranchi</h1>
+        <p class="inner-hero-subtitle">Looking for hot, hygienic <strong>lunch box meals near me</strong> or reliable <strong>lunch box service</strong>? Our takeaway counter at Student's Mess serves freshly prepared thalis and packed daily meals straight from our kitchen in Ranchi.</p>
     </div>
 </section>
 
@@ -20,7 +20,7 @@ $baseUrl = $baseUrl ?? '';
         <div class="section-header text-center">
             <span class="section-eyebrow">Process</span>
             <h2>How Takeaway Works</h2>
-            <p class="section-subtitle">Skip the waiting line. Call ahead and pick up hot meals in minutes.</p>
+            <p class="section-subtitle">Skip cooking hassles. Call ahead for your daily <strong>lunch service</strong> or <strong>tiffin services near me</strong> pickup in minutes.</p>
         </div>
         
         <div class="steps-grid">
@@ -32,7 +32,7 @@ $baseUrl = $baseUrl ?? '';
             <div class="step-card">
                 <span class="step-number"><i class="fa fa-fire-alt"></i></span>
                 <h3>02. We Cook Fresh</h3>
-                <p>Our kitchen team packs your meal fresh. We seal it in high-grade spill-proof boxes to retain heat.</p>
+                <p>Our kitchen team packs your <strong>lunch box ranchi</strong> fresh. We seal it in high-grade spill-proof boxes to retain heat and aroma.</p>
             </div>
             <div class="step-card">
                 <span class="step-number"><i class="fa fa-running"></i></span>
@@ -48,8 +48,8 @@ $baseUrl = $baseUrl ?? '';
     <div class="section-container">
         <div class="section-header text-center">
             <span class="section-eyebrow">Menu Teaser</span>
-            <h2>Popular Takeaway Combos</h2>
-            <p class="section-subtitle">Fast, satisfying, and balanced thalis favored by our bachelors and working regulars.</p>
+            <h2>Popular Takeaway Lunch Box Ranchi Combos</h2>
+            <p class="section-subtitle">Fast, satisfying, and balanced mess khana thalis favored by students, bachelors, and working professionals seeking the best tiffin service in Ranchi.</p>
         </div>
         
         <div class="thali-combo-grid">
@@ -87,8 +87,8 @@ $baseUrl = $baseUrl ?? '';
         <div class="takeaway-info-grid">
             <div class="info-details-block">
                 <span class="section-eyebrow text-accent">Visit Us</span>
-                <h2 class="text-white">Pickup Location & Hours</h2>
-                <p class="text-white-muted">Drop in directly to collect your orders. Easy parking access for cars and two-wheelers.</p>
+                <h2 class="text-white">Pickup Location &amp; Hours &bull; Mess in Ranchi</h2>
+                <p class="text-white-muted">Drop in directly to collect your fresh <strong>lunchbox Ranchi</strong> meals. Easy parking access for cars and two-wheelers.</p>
                 
                 <ul class="takeaway-location-list">
                     <li>

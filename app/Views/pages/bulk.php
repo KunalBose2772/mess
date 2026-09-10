@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Catering & Partnerships</span>
-        <h1 class="inner-hero-title">Bulk Food Catering</h1>
-        <p class="inner-hero-subtitle">Feeding corporate teams, educational hostels, and events across Ranchi since 1999.</p>
+        <span class="inner-hero-eyebrow">Catering &amp; Institutional Partnerships &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Bulk Food Catering &amp; Corporate Lunch Box Service</h1>
+        <p class="inner-hero-subtitle">Looking for high-capacity <strong>lunch box service</strong>, reliable <strong>tiffin service in Ranchi</strong>, or corporate <strong>mess in Ranchi</strong> catering? Student's Mess supplies hot, hygienic meals to corporate teams, PG hostels, hospitals, and events across Ranchi.</p>
     </div>
 </section>
 
@@ -20,7 +20,7 @@ $baseUrl = $baseUrl ?? '';
         <div class="section-header text-center">
             <span class="section-eyebrow">Our Partners</span>
             <h2>Who We Supply Daily</h2>
-            <p class="section-subtitle">High-capacity kitchen infrastructure capable of catering to diverse institutions.</p>
+            <p class="section-subtitle">High-capacity kitchen infrastructure delivering reliable <strong>lunch service</strong>, customizable <strong>mess menu</strong> options, and seamless corporate <strong>lunch box service</strong> across Ranchi.</p>
         </div>
         
         <div class="bulk-grid-10">
@@ -174,8 +174,8 @@ $baseUrl = $baseUrl ?? '';
         <div class="quote-form-grid">
             <div class="quote-form-intro">
                 <span class="section-eyebrow text-accent">Get Started</span>
-                <h2 class="text-white">Request a Custom Bulk Quote</h2>
-                <p class="text-white-muted">Submit your requirements and our operations director will coordinate with you to supply custom rate proposals.</p>
+                <h2 class="text-white">Request a Custom Bulk Quote &bull; Lunch Box Ranchi</h2>
+                <p class="text-white-muted">Submit your requirements for institutional meals, <strong>lunchbox Ranchi</strong> supply, or bulk <strong>tiffin service in Ranchi</strong>. Our operations director will coordinate with you to provide customized rate proposals.</p>
                 <div class="quick-contact-white">
                     <p><i class="fa fa-phone text-accent"></i> Call for Urgent Needs: <a href="tel:+916201016720" class="text-white"><strong>+91 62010 16720</strong></a></p>
                     <p><i class="fab fa-whatsapp text-accent"></i> WhatsApp: <a href="https://wa.me/916201016720" class="text-white" target="_blank"><strong>+91 62010 16720</strong></a></p>

@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Connect With Us</span>
-        <h1 class="inner-hero-title">Contact Our Kitchen</h1>
-        <p class="inner-hero-subtitle">Get in touch for monthly plans, bulk catering, takeaway orders, or general queries.</p>
+        <span class="inner-hero-eyebrow">Connect With Us &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Contact Student's Mess Ranchi &bull; Tiffin Service Near Me</h1>
+        <p class="inner-hero-subtitle">Looking for top <strong>tiffin services near me</strong> or an affordable <strong>mess in Ranchi</strong>? Get in touch for monthly plans, bulk corporate catering, takeaway <strong>lunch box ranchi</strong>, or custom meal requests.</p>
     </div>
 </section>
 
@@ -23,7 +23,7 @@ $baseUrl = $baseUrl ?? '';
             <div class="contact-details-panel">
                 <span class="section-eyebrow">Direct Touch</span>
                 <h2>Reach Us Directly</h2>
-                <p>Feel free to call, WhatsApp, or email us. We respond quickly to all customer queries.</p>
+                <p>Feel free to call, WhatsApp, or drop by our kitchen for fresh home-style <strong>lunch box service</strong> and daily <strong>mess menu</strong> inquiries.</p>
                 
                 <div class="contact-info-cards">
                     <div class="info-card-item">

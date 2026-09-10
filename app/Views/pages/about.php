@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Our Roots</span>
-        <h1 class="inner-hero-title">About Our Kitchen</h1>
-        <p class="inner-hero-subtitle">Serving authentic home-style comfort food to Ranchi since 1999.</p>
+        <span class="inner-hero-eyebrow">Our Roots &bull; Ranchi Mess Service Since 1999</span>
+        <h1 class="inner-hero-title">About Student's Mess Ranchi &bull; Trusted Tiffin Service</h1>
+        <p class="inner-hero-subtitle">Serving authentic home-style <strong>mess khana</strong>, daily rotating <strong>mess menu</strong>, and dependable <strong>lunch box service</strong> across Ranchi since 1999.</p>
     </div>
 </section>
 
@@ -19,10 +19,10 @@ $baseUrl = $baseUrl ?? '';
         <div class="about-grid">
             <div class="about-legacy-content">
                 <span class="section-eyebrow">Established 1999</span>
-                <h2>A Story of Taste, Trust & Family</h2>
-                <p>In 1999, Student's Mess was born out of a simple observation: students moving to Ranchi for educational coachings missed the comforting taste of mother's cooking. What started as a small dining table in Hindpiri serving five students quickly became a beloved hub for working professionals, bachelors, and organizations.</p>
+                <h2>A Story of Taste, Trust &amp; Family Mess in Ranchi</h2>
+                <p>In 1999, Student's Mess was born out of a simple observation: students moving to Ranchi for educational coachings missed the comforting taste of home-cooked food. What started as a small dining table in Hindpiri serving five students quickly became the <strong>best tiffin service in Ranchi</strong> and a beloved daily <strong>mess in Ranchi</strong> for working professionals, bachelors, and corporate teams.</p>
                 <p>We believe that food is more than just sustenance; it is a memory. That is why we have never compromised on our core recipe principles: freshly sourced vegetables, hand-ground spices, zero synthetic colors, and preparation done with the same care we use for our own family.</p>
-                <p>Over the last 26 years, Ranchi has transformed from a quiet town to a booming capital city, but our kitchen's heart remains exactly where it started—dedicated to slow-cooked, wholesome, and affordable Indian plates.</p>
+                <p>Over the last 26 years, Ranchi has grown into a bustling capital, but our kitchen's heart remains right here—providing dependable <strong>tiffin services near me</strong>, nourishing <strong>lunch box meals near me</strong>, and authentic <strong>lunch box ranchi</strong> thalis every single day.</p>
             </div>
             <div class="about-legacy-image">
                 <div class="legacy-photo-placeholder">
@@ -169,8 +169,8 @@ $baseUrl = $baseUrl ?? '';
                 </svg>
             </div>
             
-            <h2 class="cta-title">Experience Home Cooking <span class="text-accent">in Ranchi</span></h2>
-            <p class="cta-subtitle">Subscribe to our meal plan or request a trial today.</p>
+            <h2 class="cta-title">Experience the Best Tiffin Service <span class="text-accent">in Ranchi</span></h2>
+            <p class="cta-subtitle">Subscribe to our monthly <strong>tiffin service in Ranchi</strong> or order fresh <strong>lunch service</strong> from Ranchi's top-rated kitchen.</p>
             
             <div class="cta-buttons">
                 <a href="<?php echo $baseUrl; ?>monthly-meal-plans" class="cta-btn btn-gold-filled">

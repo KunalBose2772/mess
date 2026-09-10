@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Subscriptions</span>
-        <h1 class="inner-hero-title">Monthly Meal Plans</h1>
-        <p class="inner-hero-subtitle">Affordable, fresh, and warm home-style meals delivered daily to your doorstep.</p>
+        <span class="inner-hero-eyebrow">Subscriptions &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Monthly Tiffin Service in Ranchi &amp; Mess Plans</h1>
+        <p class="inner-hero-subtitle">Looking for dependable <strong>tiffin services near me</strong> or an authentic <strong>mess in Ranchi</strong>? Our monthly meal plans offer nutritious <strong>lunch box service</strong>, daily rotating <strong>mess menu</strong>, and warm home-style comfort starting at just ₹40 per meal.</p>
     </div>
 </section>
 
@@ -56,8 +56,8 @@ $baseUrl = $baseUrl ?? '';
     <div class="section-container">
         <div class="section-header text-center">
             <span class="section-eyebrow">Pricing Plans</span>
-            <h2>Choose Your Monthly Meal Plan</h2>
-            <p class="section-subtitle">Flexible packages tailored to your preferences. Select lunch, dinner, or both.</p>
+            <h2>Choose Your Monthly Tiffin Service in Ranchi</h2>
+            <p class="section-subtitle">Flexible packages tailored to students and professionals. Select lunch box ranchi, dinner, or complete 2-meal daily mess khana.</p>
         </div>
         
         <div class="plans-detailed-grid">
@@ -164,8 +164,8 @@ $baseUrl = $baseUrl ?? '';
     <div class="section-container">
         <div class="section-header text-center">
             <span class="section-eyebrow">Rotation Cycles</span>
-            <h2>Sample Weekly Tiffin Rotation</h2>
-            <p class="section-subtitle">We rotate our menu items so you get balanced nutrients and never get tired of the same dishes.</p>
+            <h2>Sample Weekly Tiffin Rotation &bull; Mess Menu</h2>
+            <p class="section-subtitle">Our rotating mess menu delivers wholesome variety every week so your daily lunch box ranchi meals are always exciting and nutrient-packed.</p>
         </div>
         
         <div class="table-responsive">
@@ -305,6 +305,16 @@ $baseUrl = $baseUrl ?? '';
                     <p>No, we operate on a strict <strong>100% advance payment policy</strong> for all monthly subscription plans. Sourcing fresh ingredients and executing logistics daily requires upfront funding. We accept UPI (GPay, PhonePe, Paytm), Net Banking, or cash at our counter.</p>
                 </div>
             </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How do I search for reliable tiffin services near me and lunch box meals near me in Ranchi?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>If you are searching for <strong>tiffin services near me</strong> or nourishing <strong>lunch box meals near me</strong> in Ranchi, Student's Mess is the #1 choice. We have been serving students, bachelors, and corporate professionals across Lalpur, Hindpiri, Doranda, Kanke Road, and all major areas since 1999 with our hygienic <strong>lunch box service</strong> and weekly rotating <strong>mess menu</strong>.</p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -349,8 +359,8 @@ $baseUrl = $baseUrl ?? '';
                 </svg>
             </div>
             
-            <h2 class="cta-title">Ditch <span class="text-accent">Cooking Stress</span> Today</h2>
-            <p class="cta-subtitle">Subscribe now and get clean, hot home-style meals delivered daily.</p>
+            <h2 class="cta-title">Best Tiffin Service in Ranchi &bull; <span class="text-accent">Subscribe Today</span></h2>
+            <p class="cta-subtitle">Ditch cooking stress. Enjoy hot, homemade meals with Ranchi's most reliable <strong>lunch box service</strong> and authentic <strong>mess in Ranchi</strong>.</p>
             
             <div class="cta-buttons">
                 <a href="https://wa.me/916201016720?text=Hi,%20I'd%20like%20to%20subscribe%20to%20a%20monthly%20tiffin%20plan." class="cta-btn btn-gold-filled" target="_blank">

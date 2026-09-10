@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Our Kitchen</span>
-        <h1 class="inner-hero-title">Gallery & Kitchen Tour</h1>
-        <p class="inner-hero-subtitle">A visual look into our clean preparation procedures and authentic thali plating.</p>
+        <span class="inner-hero-eyebrow">Our Kitchen &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Gallery &amp; Kitchen Tour &bull; Lunch Box Ranchi</h1>
+        <p class="inner-hero-subtitle">A visual look into our clean cooking procedures, hygienic <strong>lunch box service</strong>, and authentic <strong>mess in Ranchi</strong> thali platings.</p>
     </div>
 </section>
 

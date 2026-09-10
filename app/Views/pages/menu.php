@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Fresh Today</span>
-        <h1 class="inner-hero-title">What's Cooking Today</h1>
-        <p class="inner-hero-subtitle">Our menu rotates daily to ensure seasonal freshness and balanced daily nutrition.</p>
+        <span class="inner-hero-eyebrow">Fresh Today &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Today's Daily Mess Menu &amp; Fresh Lunch Box Service</h1>
+        <p class="inner-hero-subtitle">Looking for authentic <strong>mess menu</strong> options or wholesome <strong>lunch box meals near me</strong>? At Student's Mess, our daily meals rotate with seasonal produce, traditional spices, and balanced home nutrition across Ranchi.</p>
     </div>
 </section>
 
@@ -23,8 +23,8 @@ $baseUrl = $baseUrl ?? '';
         <!-- Vegetarian Section -->
         <div class="menu-group-container">
             <div class="menu-group-header">
-                <h2><i class="fa fa-leaf text-success"></i> Pure Vegetarian Selection</h2>
-                <p>Prepared in separate cookware using pure local sunflower oil and fresh farm produce.</p>
+                <h2><i class="fa fa-leaf text-success"></i> Pure Vegetarian Selection &bull; Tiffin Service in Ranchi</h2>
+                <p>Prepared in separate cookware using pure sunflower oil and fresh farm produce — ideal for your daily vegetarian lunch box Ranchi and monthly tiffin subscription.</p>
             </div>
             
             <div class="menu-items-grid">
@@ -58,8 +58,8 @@ $baseUrl = $baseUrl ?? '';
         <!-- Non-Vegetarian Section -->
         <div class="menu-group-container spacing-top">
             <div class="menu-group-header">
-                <h2><i class="fa fa-drumstick-bite text-accent"></i> Non-Vegetarian Selection</h2>
-                <p>Fresh meat sourced daily, slow cooked with traditional slow-fire recipes.</p>
+                <h2><i class="fa fa-drumstick-bite text-accent"></i> Non-Vegetarian Selection &bull; Mess in Ranchi</h2>
+                <p>Fresh chicken, egg, and fish curries slow-cooked daily with traditional home recipes for our non-veg lunch service and daily lunchbox Ranchi patrons.</p>
             </div>
             
             <div class="menu-items-grid">
@@ -92,7 +92,7 @@ $baseUrl = $baseUrl ?? '';
 
         <!-- Seasonal Disclaimer -->
         <div class="menu-disclaimer bg-light">
-            <p><i class="fa fa-info-circle text-primary"></i> <strong>Note on Rotations:</strong> Vegetable items and specialty curries change daily based on seasonal availability and market freshness. Subscribing to monthly tiffin services gives you access to full weekly calendars.</p>
+            <p><i class="fa fa-info-circle text-primary"></i> <strong>Note on Rotations:</strong> Vegetable items and specialty curries change daily based on seasonal availability and market freshness. Searching for reliable <strong>tiffin services near me</strong>? Subscribing to our monthly <strong>tiffin service in Ranchi</strong> gives you access to full weekly rotating calendars with zero meal repetition fatigue.</p>
         </div>
 
     </div>
@@ -138,8 +138,8 @@ $baseUrl = $baseUrl ?? '';
                 </svg>
             </div>
             
-            <h2 class="cta-title">Love What's <span class="text-accent">On The Menu?</span></h2>
-            <p class="cta-subtitle">Place a takeaway order now or get details on setting up recurring daily subscriptions.</p>
+            <h2 class="cta-title">Love What's On The <span class="text-accent">Mess Menu?</span></h2>
+            <p class="cta-subtitle">Order today's hot takeaway meal or subscribe to our premier daily <strong>lunch box service</strong> and monthly <strong>tiffin service in Ranchi</strong>.</p>
             
             <div class="cta-buttons">
                 <a href="tel:+916201016720" class="cta-btn btn-gold-filled">

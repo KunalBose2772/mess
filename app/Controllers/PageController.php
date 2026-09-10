@@ -9,8 +9,9 @@ class PageController extends Controller {
     // About Us Page
     public function about() {
         $this->render('pages/about', [
-            'title' => "About Us | Student's Mess – Home Style Meals in Ranchi Since 1999",
-            'metaDesc' => "Learn the story of Student's Mess — a family-run home style meal business serving Ranchi for over 26 years.",
+            'title' => "About Student's Mess Ranchi | Best Tiffin Service & Mess in Ranchi Since 1999",
+            'metaDesc' => "Learn about Student's Mess — Ranchi's trusted family-run kitchen serving the best tiffin service in Ranchi, authentic mess menu, and daily lunch box service since 1999.",
+            'metaKeywords' => "mess in ranchi, tiffin service in ranchi, best tiffin service ranchi, tiffin services near me, lunch box service, mess menu, lunch box meals near me, lunch box ranchi, lunchbox ranchi, ranchi mess service, mess khana",
             'pageClass' => 'about-page'
         ]);
     }
@@ -18,8 +19,9 @@ class PageController extends Controller {
     // Monthly Meal Plans Page
     public function plans() {
         $this->render('pages/plans', [
-            'title' => "Monthly Tiffin & Meal Plans in Ranchi | Student's Mess",
-            'metaDesc' => "Affordable monthly veg & non-veg meal plans in Ranchi. Home style lunch and dinner delivered fresh, every day. Perfect for students & professionals.",
+            'title' => "Monthly Tiffin Service in Ranchi & Mess in Ranchi | Student's Mess",
+            'metaDesc' => "Affordable monthly mess in Ranchi with daily lunch box service. Fresh home-style veg and non-veg tiffin service in Ranchi, mess menu rotations, and budget meal subscriptions.",
+            'metaKeywords' => "tiffin service in ranchi, mess in ranchi, tiffin services near me, lunch box service, mess menu, lunch box meals near me, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, ranchi mess service, mess khana",
             'pageClass' => 'plans-page'
         ]);
     }
@@ -27,8 +29,9 @@ class PageController extends Controller {
     // Bulk Orders Page
     public function bulk() {
         $this->render('pages/bulk', [
-            'title' => "Bulk Food Orders & Catering in Ranchi | Offices, PGs, Hostels, Events",
-            'metaDesc' => "Reliable bulk meal supply in Ranchi for offices, PGs, hostels, hospitals, construction sites & events. Fresh, hygienic, on-time — since 1999.",
+            'title' => "Bulk Food Orders, Tiffin Service & Mess in Ranchi | Student's Mess",
+            'metaDesc' => "Reliable bulk tiffin service in Ranchi and mess in Ranchi for offices, PGs, hostels & events. Daily lunch box service, customized mess menu, and on-time catering delivery.",
+            'metaKeywords' => "lunch box service, tiffin service in ranchi, mess in ranchi, lunch service, lunch box ranchi, lunchbox ranchi, lunch box meals near me, tiffin services near me, mess menu, best tiffin service ranchi, ranchi mess service, mess khana",
             'pageClass' => 'bulk-page'
         ]);
     }
@@ -36,8 +39,9 @@ class PageController extends Controller {
     // Takeaway Page
     public function takeaway() {
         $this->render('pages/takeaway', [
-            'title' => "Takeaway Home Style Meals in Ranchi | Student's Mess",
-            'metaDesc' => "Order fresh home style veg & non-veg takeaway meals in Ranchi. Quick, hygienic, and ready when you are.",
+            'title' => "Takeaway Meals & Lunch Box Ranchi | Student's Mess Ranchi",
+            'metaDesc' => "Order fresh takeaway lunch box ranchi meals at Student's Mess. Quick lunch box service, authentic mess in Ranchi, daily mess menu, and top tiffin service in Ranchi.",
+            'metaKeywords' => "lunch box ranchi, lunchbox ranchi, lunch box meals near me, lunch box service, lunch service, tiffin services near me, mess menu, mess in ranchi, tiffin service in ranchi, best tiffin service ranchi, mess khana",
             'pageClass' => 'takeaway-page'
         ]);
     }
@@ -47,8 +51,9 @@ class PageController extends Controller {
         $menu = ContentLoader::loadJson(__DIR__ . '/../../app/Data/menu.json');
 
         $this->render('pages/menu', [
-            'title' => "Today's Menu | Student's Mess Ranchi",
-            'metaDesc' => "Check today's fresh home style veg & non-veg menu at Student's Mess, Ranchi. Sourced locally, cooked fresh daily.",
+            'title' => "Today's Daily Mess Menu & Tiffin Service in Ranchi | Student's Mess",
+            'metaDesc' => "Explore today's fresh mess menu at Student's Mess Ranchi. Authentic home-style veg and non-veg meals, daily lunch box service, and affordable tiffin services near me.",
+            'metaKeywords' => "mess menu, tiffin services near me, mess in ranchi, tiffin service in ranchi, lunch box meals near me, lunch box service, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, mess khana, ranchi mess service",
             'menu' => $menu,
             'pageClass' => 'menu-page'
         ]);
@@ -57,8 +62,9 @@ class PageController extends Controller {
     // Gallery Page
     public function gallery() {
         $this->render('pages/gallery', [
-            'title' => "Gallery | Student's Mess – Home Style Meals in Ranchi",
-            'metaDesc' => "A glimpse into our kitchen. View photos of our clean preparation, fresh ingredients, packed thalis, and bulk corporate catering events.",
+            'title' => "Kitchen Gallery | Student's Mess Ranchi & Lunch Box Photos",
+            'metaDesc' => "Take a visual tour of Student's Mess Ranchi. View photos of our clean kitchen, packed lunch box ranchi thalis, fresh mess menu preparations, and catering events.",
+            'metaKeywords' => "lunch box ranchi, lunchbox ranchi, mess in ranchi, tiffin service in ranchi, lunch box service, mess menu, tiffin services near me, lunch box meals near me, best tiffin service ranchi, ranchi mess service",
             'pageClass' => 'gallery-page'
         ]);
     }
@@ -66,8 +72,9 @@ class PageController extends Controller {
     // Reviews Page
     public function reviews() {
         $this->render('pages/reviews', [
-            'title' => "Customer Reviews | Student's Mess Ranchi",
-            'metaDesc' => "See what students, working professionals, and businesses say about our home-style food quality, pricing, and catering services.",
+            'title' => "Customer Reviews | Best Tiffin Service & Mess in Ranchi | Student's Mess",
+            'metaDesc' => "Read genuine customer reviews for Student's Mess Ranchi. Rated 4.8/5 on Google for best tiffin service in Ranchi, hygienic lunch box service, and delicious mess menu.",
+            'metaKeywords' => "best tiffin service ranchi, tiffin services near me, mess in ranchi, tiffin service in ranchi, lunch box service, mess menu, lunch box meals near me, lunch box ranchi, lunchbox ranchi, ranchi mess service, mess khana",
             'pageClass' => 'reviews-page'
         ]);
     }
@@ -75,8 +82,9 @@ class PageController extends Controller {
     // Contact Page
     public function contact() {
         $this->render('pages/contact', [
-            'title' => "Contact Us | Student's Mess Ranchi",
-            'metaDesc' => "Get in touch with Student's Mess. Find our phone number, WhatsApp chat link, physical address, business hours, and contact form.",
+            'title' => "Contact Student's Mess Ranchi | Tiffin Service & Lunch Box Near Me",
+            'metaDesc' => "Contact Student's Mess in Ranchi. Inquire about monthly tiffin service in Ranchi, mess menu, takeaway lunch box ranchi, or call +91 62010 16720.",
+            'metaKeywords' => "tiffin services near me, mess in ranchi, tiffin service in ranchi, lunch box service, mess menu, lunch box meals near me, lunch box ranchi, lunchbox ranchi, lunch service, best tiffin service ranchi, ranchi mess service",
             'pageClass' => 'contact-page'
         ]);
     }
@@ -146,8 +154,9 @@ class PageController extends Controller {
         </script>';
 
         $this->render('pages/service', [
-            'title' => $service['title'] . " | Student's Mess",
-            'metaDesc' => $service['description'] . " Trusted food service in Ranchi since 1999.",
+            'title' => $service['title'] . " | Student's Mess Ranchi",
+            'metaDesc' => $service['description'] . " Trusted tiffin service in Ranchi and mess in Ranchi since 1999.",
+            'metaKeywords' => "tiffin service in ranchi, mess in ranchi, tiffin services near me, lunch box service, mess menu, lunch box meals near me, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, ranchi mess service",
             'service' => $service,
             'schemaMarkup' => $schemaMarkup,
             'pageClass' => 'service-detail-page'

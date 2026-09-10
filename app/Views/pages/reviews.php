@@ -8,9 +8,9 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Reviews</span>
-        <h1 class="inner-hero-title">Customer Testimonials</h1>
-        <p class="inner-hero-subtitle">See what Ranchi's students, working professionals, and businesses say about our kitchen.</p>
+        <span class="inner-hero-eyebrow">Reviews &bull; Ranchi Mess Service</span>
+        <h1 class="inner-hero-title">Customer Testimonials &bull; Best Tiffin Service in Ranchi</h1>
+        <p class="inner-hero-subtitle">See what Ranchi's students, working professionals, and bachelors say about our authentic <strong>mess in Ranchi</strong>, daily rotating <strong>mess menu</strong>, and dependable <strong>lunch box service</strong>.</p>
     </div>
 </section>
 
@@ -27,8 +27,8 @@ $baseUrl = $baseUrl ?? '';
             </div>
             
             <div class="stats-right">
-                <h3>Loved by Hundreds Daily</h3>
-                <p>Since 1999, we have served over 5 lakh meals across Ranchi. We are proud of our 26-year legacy of taste and hygiene.</p>
+                <h3>Loved by Hundreds Daily Across Ranchi</h3>
+                <p>Since 1999, we have served over 5 lakh meals across Ranchi. Voted the <strong>best tiffin service in Ranchi</strong> for reliable <strong>tiffin services near me</strong> and fresh home-style <strong>lunch box meals near me</strong>.</p>
                 <a href="https://search.google.com/local/writereview" target="_blank" class="btn btn-primary btn-md btn-google-review">
                     <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg" style="display: inline-block; vertical-align: middle; margin-right: 8px;">
                         <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" fill="#4285F4"/>

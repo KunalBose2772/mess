@@ -10,7 +10,7 @@ $baseUrl = $baseUrl ?? '';
 
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Professional Services</span>
+        <span class="inner-hero-eyebrow">Professional Food Services &bull; Ranchi Mess Service</span>
         <h1 class="inner-hero-title"><?php echo htmlspecialchars($service['title']); ?></h1>
         <p class="inner-hero-subtitle"><?php echo htmlspecialchars($service['angle']); ?></p>
     </div>
@@ -38,7 +38,7 @@ $baseUrl = $baseUrl ?? '';
             <div class="details-right-sidebar">
                 <div class="sidebar-box bg-light">
                     <h3>Need a custom proposal?</h3>
-                    <p>We supply personalized menu options and structured contract billing terms matching your organization size.</p>
+                    <p>Experience the <strong>best tiffin service in Ranchi</strong> and institutional <strong>lunch box service</strong> with custom meal solutions and flexible billing.</p>
                     <a href="<?php echo $baseUrl; ?>bulk-orders#quote-form" class="btn btn-primary btn-block">Request Custom Quote</a>
                     <a href="tel:+916201016720" class="btn btn-outline-primary btn-block"><i class="fa fa-phone"></i> Call Operations</a>
                 </div>
