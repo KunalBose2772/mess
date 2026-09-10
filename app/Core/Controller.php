@@ -32,7 +32,7 @@ class Controller {
     /**
      * Render a view and wrap it in the global layout template.
      */
-    protected function render($viewPath, $data = []) {
+    protected function render(string $viewPath, array $data = []): void {
         $data['baseUrl'] = $this->baseUrl();
         $data['canonicalUrl'] = $data['canonicalUrl'] ?? $this->canonicalUrl();
 
@@ -68,7 +68,7 @@ class Controller {
     /**
      * Helper to redirect to a path relative to the app base url.
      */
-    protected function redirect($path) {
+    protected function redirect(string $path): void {
         header('Location: ' . $this->baseUrl() . ltrim($path, '/'));
         exit;
     }
