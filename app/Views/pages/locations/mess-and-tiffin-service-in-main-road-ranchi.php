@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Main Road, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Commercial Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Main Road, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Fast, warm home-style lunch and dinner delivery for retail showroom staff, corporate branches, and residents along Main Road.</p>
+        <p class="inner-hero-subtitle">Searching for dependable <strong>tiffin services near me</strong> or the top <strong>mess in Main Road Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to retail showrooms, corporate banks, and offices.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">City Commercial Spine</span>
-                <h2>Delicious Home-Cooked Lunches for Showrooms &amp; Corporate Branches</h2>
-                <p class="lead-text">Main Road connects the primary retail, financial, and entertainment corridors of Ranchi, spanning from Albert Ekka Chowk through GEL Church Complex to Overbridge.</p>
+                <h2>Delicious Mess in Ranchi &amp; Lunch Box Service on Main Road</h2>
+                <p class="lead-text">Main Road connects the primary retail, financial, and entertainment corridors of Ranchi, spanning from Albert Ekka Chowk through GEL Church Complex to Overbridge. For showroom managers and bank teams seeking a reliable afternoon <strong>lunch service</strong>, Student's Mess is the #1 trusted partner.</p>
                 
-                <p>Retail showroom executives, jewelry store staff, private bank employees, and corporate branches on Main Road work under strict schedules with brief 30-minute lunch breaks. Spending lunch hours searching for expensive fast food is both costly and tiring. <strong>Student's Mess</strong> coordinates rapid daily lunch deliveries straight to stores and offices along Main Road.</p>
+                <p>Retail showroom executives, jewelry store staff, private bank employees, and corporate branches on Main Road work under strict schedules with brief 30-minute lunch breaks. Spending lunch hours searching for expensive fast food is costly and tiring. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> delivering authentic, warm <strong>mess khana</strong> straight to stores and offices along Main Road.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Main Road:</h4>
                     <p><strong>Primary Hubs:</strong> Albert Ekka Chowk, GEL Church Complex, Roshpa Tower, Nucleus Mall vicinity, Overbridge approach, and Church Road.</p>
-                    <p><strong>Beneficiaries:</strong> Retail showroom staff, bank executives, commercial sales teams, office employees, and city bachelors.</p>
+                    <p><strong>Beneficiaries:</strong> Retail showroom staff, bank executives, commercial sales teams, office employees, and bachelors seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Quick Takeaway Option Just Steps Away</h3>
-                <p>Because our central kitchen in Nizam Nagar, Hindpiri is located directly adjacent to Main Road, showroom and office staff can easily walk or drive by to pick up fresh hot meal boxes in minutes without waiting in long queues.</p>
+                <h3>Daily Mess Menu &amp; Quick Takeaway Just Steps Away</h3>
+                <p>Because our central kitchen in Nizam Nagar, Hindpiri is located directly adjacent to Main Road, showroom and office staff can easily walk or drive by to pick up fresh hot meal boxes in minutes without waiting in long queues. Our daily rotating <strong>mess menu</strong> ensures balanced, exciting meals every day.</p>
                 
-                <p>All meals are cooked fresh every morning using pure sunflower oil, fresh vegetables, and home-style recipes that leave you feeling energetic and light throughout your workday.</p>
+                <p>All meals are cooked fresh every morning using pure sunflower oil, fresh vegetables, and home-style recipes that leave you feeling energetic and light throughout your workday. If you are comparing <strong>tiffin services near me</strong> or searching for the best <strong>tiffin service in Ranchi</strong>, our Main Road lunch packages deliver maximum value.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes! Simply drop us a WhatsApp message 12 hours prior, and your plan will be paused with full credit applied to your next billing period.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can showroom staff on Main Road view the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is published every morning on our website and shared via WhatsApp (+91 62010 16720). Retail staff can check today's dal, seasonal sabzis, and non-veg curries before our scheduled <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

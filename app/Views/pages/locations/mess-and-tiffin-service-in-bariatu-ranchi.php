@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Bariatu, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Bariatu, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Ultra-hygienic, digestible home-style meals delivered daily to RIMS doctors, medical scholars, and Bariatu residents.</p>
+        <p class="inner-hero-subtitle">Searching for ultra-hygienic <strong>tiffin services near me</strong> or the best medical <strong>mess in Bariatu Ranchi</strong>? Enjoy wholesome <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to RIMS doctors and staff.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Medical &amp; Healthcare Hub</span>
-                <h2>Hygienic, Hospital-Grade Home Cooking Near RIMS Bariatu</h2>
-                <p class="lead-text">Bariatu centers around RIMS (Rajendra Institute of Medical Sciences), Jharkhand's premier government hospital and medical college, along with numerous private nursing colleges and diagnostic laboratories.</p>
+                <h2>Hospital-Grade Mess in Ranchi &amp; Lunch Box Service in Bariatu</h2>
+                <p class="lead-text">Bariatu centers around RIMS (Rajendra Institute of Medical Sciences), Jharkhand's premier government hospital and medical college, along with numerous private nursing colleges and diagnostic laboratories. For doctors and scholars looking for a dependable <strong>lunch service</strong>, Student's Mess is the #1 trusted name.</p>
                 
-                <p>Medical professionals know better than anyone how poor food hygiene leads to illness. Doctors, interns, and nursing students pulling grueling 24-hour hospital shifts need food that is strictly sterile, light on the stomach, and free of reheated grease. <strong>Student's Mess</strong> has catered to the healthcare community in Bariatu for over two decades, delivering clean, nourishing meals packaged in heat-sealed food containers.</p>
+                <p>Medical professionals know better than anyone how poor food hygiene leads to illness. Doctors, interns, and nursing students pulling grueling 24-hour hospital shifts need food that is strictly sterile, light on the stomach, and free of reheated grease. <strong>Student's Mess</strong> has catered to the healthcare community in Bariatu for over two decades, providing wholesome <strong>mess khana</strong> and a specialized <strong>lunch box service</strong> delivered in heat-sealed food containers.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Bariatu:</h4>
                     <p><strong>Primary Hubs:</strong> RIMS Campus, Doctors' Hostels, Staff Quarters, Bariatu Road, Hill View Nursing Home area, and Science City vicinity.</p>
-                    <p><strong>Beneficiaries:</strong> MBBS / MD students, resident doctors, nursing staff, laboratory technicians, patient attendants, and local families.</p>
+                    <p><strong>Beneficiaries:</strong> MBBS / MD students, resident doctors, nursing staff, lab technicians, and patient attendants seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Strict Cleanliness &amp; Low-Spice Recipe Formulations</h3>
-                <p>Because healthcare workers in Bariatu demand the highest standards of culinary cleanliness, our kitchen maintains rigorous hygiene protocols: RO-purified water for all cooking, fresh daily vegetable procurement, and zero reused cooking oil. Our food is never overly spicy, ensuring easy digestion even during high-stress hospital rotations.</p>
+                <h3>Daily Mess Menu &amp; Strict Hospital-Grade Cleanliness</h3>
+                <p>Because healthcare workers in Bariatu demand the highest standards of culinary cleanliness, our kitchen maintains rigorous hygiene protocols: RO-purified water for all cooking, fresh daily vegetable procurement, and zero reused cooking oil. Our food is never overly spicy, ensuring easy digestion even during high-stress hospital rotations. Our daily rotating <strong>mess menu</strong> ensures fresh, nutritious variety throughout the month.</p>
                 
-                <p>We also offer institutional catering for medical conferences, department guest lunches, and attendant meal packages in Bariatu.</p>
+                <p>We also offer institutional catering for medical conferences, department guest lunches, and attendant meal packages in Bariatu. If you are comparing <strong>tiffin services near me</strong> or seeking the highest quality <strong>tiffin service in Ranchi</strong>, our Bariatu meal subscriptions provide total peace of mind.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes, we provide flexible multi-day and weekly packages for families staying near RIMS. Contact our team directly on WhatsApp for short-term hospital attendant plans.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can RIMS doctors and medical students view the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is published every morning on our website and shared via WhatsApp (+91 62010 16720). Healthcare workers can check today's dal, seasonal vegetables, and non-veg curries ahead of our afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

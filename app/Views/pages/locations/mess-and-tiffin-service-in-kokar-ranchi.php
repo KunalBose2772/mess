@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Kokar, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Kokar, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Wholesome, filling home-style meals and bulk worker canteen supply for Kokar Industrial Area and surrounding residential blocks.</p>
+        <p class="inner-hero-subtitle">Searching for hearty <strong>tiffin services near me</strong> or the most reliable <strong>mess in Kokar Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> and rapid canteen supply for Kokar Industrial Area.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Industrial &amp; Residential Hub</span>
-                <h2>Bulk Canteen &amp; Daily Tiffin Delivery in Kokar</h2>
-                <p class="lead-text">Kokar is an active mixed-use sector of Ranchi, home to the Kokar Industrial Area, engineering fabrication units, commercial warehouses, and large residential colonies.</p>
+                <h2>Substantial Mess in Ranchi &amp; Lunch Box Service in Kokar</h2>
+                <p class="lead-text">Kokar is an active mixed-use sector of Ranchi, home to the Kokar Industrial Area, engineering fabrication units, commercial warehouses, and large residential colonies. For plant teams and residents seeking a dependable <strong>lunch service</strong>, Student's Mess is the #1 choice.</p>
                 
-                <p>Industrial staff, plant supervisors, and workshop technicians work hard physical shifts and need substantial, hearty meals that provide long-lasting stamina. Factory workers often struggle with substandard roadside dhaba food that leads to chronic fatigue and digestive upset. <strong>Student's Mess</strong> provides balanced, generous portions of fresh roti, rice, dal, and seasonal sabzi directly to factory canteens and residential homes in Kokar.</p>
+                <p>Industrial staff, plant supervisors, and workshop technicians work hard physical shifts and need substantial, hearty meals that provide long-lasting stamina. Factory workers often struggle with substandard roadside dhaba food that leads to chronic fatigue and digestive upset. <strong>Student's Mess</strong> provides balanced, generous portions of authentic <strong>mess khana</strong> and a specialized <strong>lunch box service</strong> delivered directly to factory canteens and residential homes in Kokar.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Kokar:</h4>
                     <p><strong>Primary Hubs:</strong> Kokar Industrial Area, Kokar Chowk, Sadar Hospital Road, Shanti Nagar, and Tiril Road.</p>
-                    <p><strong>Beneficiaries:</strong> Factory workers, engineering workshop technicians, warehouse managers, local families, and working bachelors.</p>
+                    <p><strong>Beneficiaries:</strong> Factory workers, engineering workshop technicians, warehouse managers, local families, and bachelors seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>High-Capacity Industrial Canteen Meal Supply</h3>
-                <p>We specialize in institutional catering for medium and large industrial units in Kokar. Whether your plant requires 20 lunch thalis for floor engineers or 100+ shift meal boxes, our commercial kitchen prepares consistent, nutritious meals daily and delivers them in heavy-duty thermal insulated canisters.</p>
+                <h3>Daily Mess Menu &amp; High-Capacity Industrial Canteen Meal Supply</h3>
+                <p>We specialize in institutional catering for medium and large industrial units in Kokar. Whether your plant requires 20 lunch thalis for floor engineers or 100+ shift meal boxes, our commercial kitchen prepares consistent, nutritious meals daily and delivers them in heavy-duty thermal insulated canisters. Our daily rotating <strong>mess menu</strong> ensures workers look forward to lunch every day.</p>
                 
-                <p>For residential bachelors and PG tenants in Kokar, our individual subscriptions offer delicious comfort food with the convenience of pausing meals via WhatsApp whenever your shifts require.</p>
+                <p>For residential bachelors and PG tenants in Kokar searching for the best <strong>tiffin service in Ranchi</strong>, our individual subscriptions offer delicious comfort food with the convenience of pausing meals via WhatsApp whenever your shifts require.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes, residential doorstep delivery is active for groups of 5 or more subscribers in the same building or neighborhood. Single subscribers can also collect hot boxes from our kitchen counter in Hindpiri.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can factory supervisors in Kokar check the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily rotating <strong>mess menu</strong> is available on our website and shared via WhatsApp (+91 62010 16720). Plant managers can preview daily vegetables, lentils, and protein curries before the scheduled factory <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

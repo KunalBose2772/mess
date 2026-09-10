@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Upper Bazar, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Commercial Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Upper Bazar, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Punctual, hygienic lunch box delivery for wholesale merchants, retail shopkeepers, and commercial staff in Upper Bazar.</p>
+        <p class="inner-hero-subtitle">Looking for punctual <strong>tiffin services near me</strong> or the top commercial <strong>mess in Upper Bazar Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to shop counters and merchant desks.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Wholesale &amp; Retail Center</span>
-                <h2>Punctual Shopkeeper Lunch Box &amp; Tiffin Delivery in Upper Bazar</h2>
-                <p class="lead-text">Upper Bazar is the commercial heartbeat of Ranchi's trade economy, bustling with textile markets, wholesale grocery depots, hardware hubs, and retail establishments around Mahavir Chowk and Daily Market.</p>
+                <h2>Punctual Shopkeeper Mess in Ranchi &amp; Lunch Box Service in Upper Bazar</h2>
+                <p class="lead-text">Upper Bazar is the commercial heartbeat of Ranchi's trade economy, bustling with textile markets, wholesale grocery depots, hardware hubs, and retail establishments around Mahavir Chowk and Daily Market seeking a dependable <strong>lunch service</strong>.</p>
                 
-                <p>Business owners, retail salesmen, and shop employees work long, relentless 10-to-12-hour shifts. Finding time to leave the shop counter for lunch is nearly impossible, and eating oily samosas or street chaat leads to midday lethargy and digestive distress. <strong>Student's Mess</strong> provides reliable daily lunch box delivery straight to your shop counter before your afternoon customer rush begins.</p>
+                <p>Business owners, retail salesmen, and shop employees work long, relentless 10-to-12-hour shifts. Finding time to leave the shop counter for lunch is nearly impossible, and eating oily street snacks leads to midday lethargy and digestive distress. <strong>Student's Mess</strong> provides reliable daily <strong>lunch box service</strong> and nutritious <strong>mess khana</strong> delivered straight to your shop counter before your afternoon customer rush begins.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Upper Bazar:</h4>
                     <p><strong>Primary Hubs:</strong> Mahavir Chowk, Daily Market, Kartar Tower, Pustak Path, Main Road connection, and Goshala Road.</p>
-                    <p><strong>Beneficiaries:</strong> Shop owners, retail sales staff, wholesale trade accountants, logistics clerks, and commercial market workers.</p>
+                    <p><strong>Beneficiaries:</strong> Shop owners, retail sales staff, wholesale accountants, logistics clerks, and commercial staff seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Guaranteed Delivery Between 1:00 PM and 1:45 PM</h3>
-                <p>In retail business, timing is everything. Our dedicated delivery riders start dispatch early to guarantee that all shop lunch boxes in Upper Bazar arrive between 1:00 PM and 1:45 PM. Meals are packed in clean, spill-proof disposable thalis that can be eaten conveniently behind the counter without dirtying shop merchandise.</p>
+                <h3>Daily Mess Menu &amp; Guaranteed Delivery Between 1:00 PM and 1:45 PM</h3>
+                <p>In retail business, timing is everything. Our dedicated delivery riders start dispatch early to guarantee that all shop lunch boxes in Upper Bazar arrive between 1:00 PM and 1:45 PM. Meals are packed in clean, spill-proof disposable thalis that can be eaten conveniently behind the counter without dirtying shop merchandise. Our daily rotating <strong>mess menu</strong> ensures refreshing taste every day.</p>
                 
-                <p>We cook pure vegetarian meals in 100% separate cookware with sunflower oil, ensuring peace of mind for traditional merchant families who maintain strict dietary standards.</p>
+                <p>We cook pure vegetarian meals in 100% separate cookware with sunflower oil, ensuring peace of mind for traditional merchant families who maintain strict dietary standards. If you are comparing <strong>tiffin services near me</strong> or seeking the most dependable <strong>tiffin service in Ranchi</strong>, our shopkeeper lunch plans are unmatched.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes, we have customized group billing plans for business owners who provide daily meals to their sales team and accounting staff.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can shop owners in Upper Bazar view today's mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is posted every morning on our website and shared via WhatsApp (+91 62010 16720). Merchants can check today's vegetable curries, dal, and fresh rotis before our afternoon <strong>lunch service</strong> begins.</p>
                 </div>
             </div>
         </div>

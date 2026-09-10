@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Lalpur, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Lalpur, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Fresh, nutritious home-style lunch and dinner delivered daily to student PGs, hostels, and coaching hubs across Lalpur.</p>
+        <p class="inner-hero-subtitle">Searching for <strong>tiffin services near me</strong> or the best <strong>mess in Lalpur Ranchi</strong>? Enjoy wholesome <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered hot to student PGs, hostels, and coaching hubs across Lalpur.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Home-Cooked Nutrition</span>
-                <h2>Reliable Student Mess &amp; Daily Tiffin Delivery in Lalpur</h2>
-                <p class="lead-text">Lalpur is the premier education and coaching hub of Ranchi, home to thousands of medical, engineering, and competitive exam aspirants studying near Hari Om Tower, Circular Road, and Lalpur Chowk.</p>
+                <h2>Reliable Student Mess in Ranchi &amp; Lunch Box Service in Lalpur</h2>
+                <p class="lead-text">Lalpur is the premier education and coaching hub of Ranchi, home to thousands of medical, engineering, and competitive exam aspirants studying near Hari Om Tower, Circular Road, and Lalpur Chowk. If you are searching for authentic <strong>mess in Ranchi</strong> or a prompt <strong>lunch service</strong>, Student's Mess is the #1 choice.</p>
                 
-                <p>When preparing for rigorous competitive exams, proper nutrition is non-negotiable. Eating oily restaurant food or street snacks daily causes physical lethargy, digestive problems, and lack of mental focus. <strong>Student's Mess</strong> has been the trusted dietary partner for students and young bachelors in Lalpur since 1999, serving warm, balanced, low-oil thalis that feel like mother's cooking.</p>
+                <p>When preparing for rigorous competitive exams, proper nutrition is non-negotiable. Eating oily restaurant food or street snacks daily causes physical lethargy, digestive problems, and lack of mental focus. <strong>Student's Mess</strong> has been the trusted dietary partner for students and young bachelors in Lalpur since 1999, serving delicious, low-oil <strong>mess khana</strong> and a specialized <strong>lunch box service</strong> with warm thalis that feel like mother's cooking.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Lalpur:</h4>
                     <p><strong>Primary Delivery Hubs:</strong> Hari Om Tower, Circular Road, Lalpur Chowk, Peace Road, Tharpakhna, Burdwan Compound, and Dangratoli.</p>
-                    <p><strong>Beneficiaries:</strong> Coaching students (IIT-JEE / NEET / UPSC), PG accommodation residents, working bachelors, and corporate showroom staff.</p>
+                    <p><strong>Beneficiaries:</strong> Coaching students (IIT-JEE / NEET / UPSC), PG accommodation residents, working bachelors, and retail staff seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Why Students in Lalpur Trust Student's Mess</h3>
-                <p>Unlike commercial cloud kitchens that cook in heavy grease and artificial flavors, our kitchen uses 100% pure local sunflower oil, fresh farm vegetables, and authentic home-style Indian spices. Each meal includes a wholesome balance of carbs, lentils, seasonal vegetables, and protein to keep your mind sharp throughout long study hours.</p>
+                <h3>Daily Rotating Mess Menu &amp; Wholesome Lunch Box Meals</h3>
+                <p>Unlike commercial cloud kitchens that cook in heavy grease and artificial flavors, our kitchen uses 100% pure local sunflower oil, fresh farm vegetables, and authentic home-style Indian spices. Each meal includes a wholesome balance of carbs, lentils, seasonal vegetables, and protein to keep your mind sharp throughout long study hours. Our daily rotating <strong>mess menu</strong> ensures you never get bored of everyday food.</p>
                 
-                <p>Our monthly meal subscription comes with complete flexibility. Students can pause meals with a simple 12-hour WhatsApp notification whenever coaching tests or vacations arise, ensuring you never lose money on meals you do not consume.</p>
+                <p>Our monthly meal subscription comes with complete flexibility. Students searching for reliable <strong>tiffin services near me</strong> can pause meals with a simple 12-hour WhatsApp notification whenever coaching tests or vacations arise, ensuring you never lose money on meals you do not consume.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Our Standard Vegetarian plan (2 meals daily: Lunch + Dinner) is ₹2,400 per month (just ₹40/meal). Our Standard Non-Vegetarian plan (including chicken twice a week and eggs weekly) is ₹3,200 per month (just ₹53/meal). All plans require 100% advance payment.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can I check today's mess menu for Lalpur tiffin delivery?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is posted every morning with fresh seasonal sabzis, dal, hot rotis, and rice. You can view the menu on our website or connect with our kitchen on WhatsApp (+91 62010 16720) to check lunch and dinner dishes before your scheduled <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

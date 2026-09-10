@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Kanke, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Kanke, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Nutritious, hygienic home-style lunch and dinner delivery for university students, medical staff, and residents in Kanke.</p>
+        <p class="inner-hero-subtitle">Searching for nutritious <strong>tiffin services near me</strong> or the top <strong>mess in Kanke Ranchi</strong>? Enjoy healthy <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to university hostels, doctors, and residents in Kanke.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Academic &amp; Institutional Hub</span>
-                <h2>Home-Cooked Tiffins for University Campuses &amp; Hostels in Kanke</h2>
-                <p class="lead-text">Kanke is known for premier educational and medical institutions such as Birsa Agricultural University (BAU), Central Institute of Psychiatry (CIP), and Ranchi Institute of Neuro-Psychiatry &amp; Allied Sciences (RINPAS).</p>
+                <h2>Wholesome Mess in Ranchi &amp; Lunch Box Service in Kanke</h2>
+                <p class="lead-text">Kanke is known for premier educational and medical institutions such as Birsa Agricultural University (BAU), Central Institute of Psychiatry (CIP), and RINPAS. For university scholars, medical postgraduates, and busy faculties seeking a dependable <strong>lunch service</strong>, Student's Mess is the foremost choice.</p>
                 
-                <p>Hostel mess food in college campuses is notorious for repetitive menus, heavy oil, and questionable hygiene. For students, researchers, and junior doctors working demanding shifts in Kanke, getting light, balanced, home-cooked food is essential for staying healthy and alert. <strong>Student's Mess</strong> provides reliable daily tiffin delivery directly to hostels, PGs, and staff residential quarters along Kanke Road.</p>
+                <p>Hostel mess food in college campuses is notorious for repetitive menus, heavy oil, and questionable hygiene. For students, researchers, and junior doctors working demanding shifts in Kanke, getting light, balanced, home-cooked food is essential for staying healthy and alert. <strong>Student's Mess</strong> provides a dedicated <strong>lunch box service</strong> and authentic <strong>mess khana</strong> delivered directly to hostels, PGs, and staff residential quarters along Kanke Road.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Kanke:</h4>
                     <p><strong>Primary Hubs:</strong> Birsa Agricultural University campus, Kanke Dam road, CIP campus quarters, Rock Garden road, and Arsande.</p>
-                    <p><strong>Beneficiaries:</strong> Agriculture &amp; veterinary students, medical postgraduates, research scholars, healthcare professionals, and residential families.</p>
+                    <p><strong>Beneficiaries:</strong> Agriculture &amp; veterinary students, medical postgraduates, research scholars, healthcare professionals, and residential families needing on-time <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> deliveries.</p>
                 </div>
 
-                <h3>Wholesome Nutrition for Scholars &amp; Medical Professionals</h3>
-                <p>We believe food is medicine. Our daily tiffins feature farm-fresh vegetables, freshly kneaded whole wheat rotis, fiber-rich lentils, and fragrant rice. We keep our spices mild and digestion-friendly so that long night shifts and intensive study sessions are never interrupted by acidity or sluggishness.</p>
+                <h3>Daily Mess Menu &amp; Wholesome Lunch Box Meals</h3>
+                <p>We believe food is medicine. Our daily <strong>mess menu</strong> features farm-fresh vegetables, freshly kneaded whole wheat rotis, fiber-rich lentils, and fragrant rice. We keep our spices mild and digestion-friendly so that long night shifts and intensive study sessions are never interrupted by acidity or sluggishness. Our balanced <strong>lunch box meals near me</strong> give you clean energy throughout the day.</p>
                 
-                <p>We also cater bulk meal contracts for research seminars, departmental workshops, and university sports teams in Kanke, packaged in insulated containers to keep meals piping hot.</p>
+                <p>We also cater bulk meal contracts for research seminars, departmental workshops, and university sports teams in Kanke, packaged in insulated containers to keep meals piping hot. If you're looking for the finest <strong>tiffin service in Ranchi</strong>, our Kanke subscription plans offer maximum reliability.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Our Standard Non-Veg plan (₹3,200/month) features homestyle Chicken Curry on Wednesdays and Sundays, and fresh Egg Curry on Fridays, prepared in separate cookware to maintain dietary sanctity.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can I check today's mess menu for Kanke campus delivery?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily rotating <strong>mess menu</strong> is published every morning online and shared via WhatsApp (+91 62010 16720). University students and doctors can check today's vegetable curries, dal, and non-veg specials ahead of our afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

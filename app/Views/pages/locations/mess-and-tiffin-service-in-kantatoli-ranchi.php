@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Kantatoli, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Transit &amp; Agency Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Kantatoli, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Fresh home-style takeaway meals and daily lunch delivery near Khadgarha Bus Stand and Kantatoli Chowk.</p>
+        <p class="inner-hero-subtitle">Searching for quick <strong>tiffin services near me</strong> or the top <strong>mess in Kantatoli Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> and rapid takeaway near Khadgarha Bus Stand.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Transit &amp; Travel Axis</span>
-                <h2>Fast Takeaway &amp; Daily Tiffins for Travelers &amp; Transport Agencies</h2>
-                <p class="lead-text">Kantatoli is home to Ranchi's largest bus terminal, Khadgarha Bus Stand, functioning as the primary transit junction connecting Ranchi with Jamshedpur, Dhanbad, Patna, and Kolkata.</p>
+                <h2>Dependable Mess in Ranchi &amp; Lunch Box Service in Kantatoli</h2>
+                <p class="lead-text">Kantatoli is home to Ranchi's largest bus terminal, Khadgarha Bus Stand, functioning as the primary transit junction connecting Ranchi with Jamshedpur, Dhanbad, Patna, and Kolkata. For transport staff and commuters needing a reliable afternoon <strong>lunch service</strong>, Student's Mess is the #1 choice.</p>
                 
-                <p>Bus agency operators, ticketing staff, parcel transport teams, and interstate travelers often get stuck with unhygienic bus stand stalls that serve cold, stale food. <strong>Student's Mess</strong> provides reliable, freshly cooked takeaway meal boxes and recurring daily lunch tiffins to transport offices, ticketing counters, and nearby residential lanes in Kantatoli.</p>
+                <p>Bus agency operators, ticketing staff, parcel transport teams, and interstate travelers often get stuck with unhygienic bus stand stalls that serve cold, stale food. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> delivering authentic, warm <strong>mess khana</strong> directly to transport offices, ticketing counters, and nearby residential lanes in Kantatoli.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Kantatoli:</h4>
                     <p><strong>Primary Hubs:</strong> Khadgarha Bus Terminal, Kantatoli Chowk, Netaji Nagar, Purulia Road approach, and Samlong border.</p>
-                    <p><strong>Beneficiaries:</strong> Interstate travelers, bus operating staff, logistics booking agents, local bachelors, and transit workers.</p>
+                    <p><strong>Beneficiaries:</strong> Interstate travelers, bus operating staff, logistics booking agents, local bachelors, and transit workers seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Pre-Order Bus Travel Food Packs</h3>
-                <p>Heading out on a long bus journey? Call or WhatsApp us 1 hour ahead, and we will pack a fresh, spill-proof vegetarian or non-vegetarian travel thali complete with soft rotis, dry subzi, pickles, and napkins so you can collect it hot on your way to Khadgarha Bus Stand.</p>
+                <h3>Daily Mess Menu &amp; Pre-Order Travel Lunch Box Packs</h3>
+                <p>Heading out on a long bus journey? Call or WhatsApp us 1 hour ahead, and we will pack a fresh, spill-proof vegetarian or non-vegetarian travel thali complete with soft rotis, dry subzi, pickles, and napkins so you can collect it hot on your way to Khadgarha Bus Stand. Our daily rotating <strong>mess menu</strong> provides delicious, balanced home-style flavors.</p>
                 
-                <p>For transport companies and agency counters stationed permanently in Kantatoli, we provide regular daily lunch tiffin delivery with group corporate pricing.</p>
+                <p>For transport companies and agency counters stationed permanently in Kantatoli searching for the best <strong>tiffin service in Ranchi</strong>, we provide regular daily lunch tiffins with group corporate pricing and flexible scheduling.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes, doorstep delivery is active for clusters of 5 or more students/residents in the same building in Kantatoli and Netaji Nagar.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can travelers and agency staff in Kantatoli view the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is available on our website and shared via WhatsApp (+91 62010 16720). You can check today's dal, seasonal vegetables, and rotis before collecting your travel pack or scheduled <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

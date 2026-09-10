@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Morabadi, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Morabadi, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Nutritious, high-protein home-style lunch and dinner delivery for Ranchi University students, athletes, and residents in Morabadi.</p>
+        <p class="inner-hero-subtitle">Searching for health-focused <strong>tiffin services near me</strong> or the top student <strong>mess in Morabadi Ranchi</strong>? Enjoy protein-rich <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to Ranchi University hostels and sports clubs.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Campus &amp; Fitness Zone</span>
-                <h2>Clean, Balanced Home Cooking for Students &amp; Bachelors in Morabadi</h2>
-                <p class="lead-text">Morabadi is famous for the sprawling Morabadi Ground, Ranchi University campus, and Tagore Hill, attracting a vibrant community of university scholars, sports athletes, and young bachelors.</p>
+                <h2>Clean, Balanced Mess in Ranchi &amp; Lunch Box Service in Morabadi</h2>
+                <p class="lead-text">Morabadi is famous for the sprawling Morabadi Ground, Ranchi University campus, and Tagore Hill, attracting a vibrant community of scholars, sports athletes, and young bachelors seeking a healthy daily <strong>lunch service</strong>.</p>
                 
-                <p>For youth living away from home in Morabadi, maintaining clean eating habits on a student budget is difficult. Outside dhaba food is loaded with excessive dalda, heavy cream, and artificial coloring that wrecks fitness goals. <strong>Student's Mess</strong> delivers authentic, wholesome ghar-ka-khana that balances proteins, fiber, and clean carbohydrates to fuel your studies and workouts.</p>
+                <p>For youth living away from home in Morabadi, maintaining clean eating habits on a student budget is difficult. Outside dhaba food is loaded with excessive dalda, heavy cream, and artificial coloring that wrecks fitness goals. <strong>Student's Mess</strong> delivers authentic, wholesome <strong>mess khana</strong> and a reliable <strong>lunch box service</strong> that balances proteins, fiber, and clean carbohydrates to fuel your studies and workouts.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Morabadi:</h4>
                     <p><strong>Primary Hubs:</strong> Morabadi Ground perimeter, Ranchi University campus hostels, Tagore Hill Road, Dr. Shyama Prasad Mukherjee University vicinity, and Cheshire Home Road.</p>
-                    <p><strong>Beneficiaries:</strong> University postgraduates, college hostelers, athletic club members, PG residents, and fitness-conscious professionals.</p>
+                    <p><strong>Beneficiaries:</strong> University postgraduates, college hostelers, athletic club members, PG residents, and fitness-conscious youth needing on-time <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>High-Protein, Digestible Menus Tailored for Active Youth</h3>
-                <p>We take nutrition seriously. Our vegetarian thalis include protein-dense dals, fresh seasonal greens, and light salads. For non-vegetarians, our twice-weekly Dehati Chicken Curry and weekly Egg Curry provide clean animal protein cooked with hand-ground whole spices and minimal sunflower oil.</p>
+                <h3>Daily Mess Menu &amp; Digestible High-Protein Lunch Box Meals</h3>
+                <p>We take nutrition seriously. Our vegetarian thalis include protein-dense dals, fresh seasonal greens, and light salads. For non-vegetarians, our twice-weekly Dehati Chicken Curry and weekly Egg Curry provide clean animal protein cooked with hand-ground whole spices and minimal sunflower oil. Our daily rotating <strong>mess menu</strong> ensures balanced variety every single day.</p>
                 
-                <p>Students can pause meals with 12 hours' notice on WhatsApp when traveling or attending university functions, ensuring 100% value on their monthly investment.</p>
+                <p>Students searching for the most reliable <strong>tiffin service in Ranchi</strong> can pause meals with 12 hours' notice on WhatsApp when traveling or attending university functions, ensuring 100% value on their monthly investment without wasting money on unused food.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes. Give us 12 hours' notice on WhatsApp before leaving, and your plan will pause immediately. Your subscription resumption date will shift forward automatically.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can I check today's mess menu for Morabadi hostel delivery?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is published every morning online and shared via WhatsApp (+91 62010 16720). Ranchi University students and morning walkers can check today's vegetable curries, high-protein dals, and non-veg specials before our scheduled <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

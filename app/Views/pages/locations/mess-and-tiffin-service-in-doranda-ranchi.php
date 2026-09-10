@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Doranda, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Corporate &amp; Office Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Doranda, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Prompt, hygienic home-style lunch box and corporate catering service for Secretariat, High Court staff, and Doranda residents.</p>
+        <p class="inner-hero-subtitle">Looking for dependable <strong>tiffin services near me</strong> or an executive <strong>mess in Doranda Ranchi</strong>? Get hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to Secretariat, High Court staff, and PGs.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Government &amp; Legal Center</span>
-                <h2>Daily Office Lunch &amp; Tiffin Delivery in Doranda</h2>
-                <p class="lead-text">Doranda is the administrative nerve center of Jharkhand, housing the Jharkhand Secretariat, Nepal House, government directorates, and legal institutions.</p>
+                <h2>Premium Mess in Ranchi &amp; Lunch Box Service in Doranda</h2>
+                <p class="lead-text">Doranda is the administrative nerve center of Jharkhand, housing the Jharkhand Secretariat, Nepal House, government directorates, and legal institutions. For busy professionals seeking an authentic home-style <strong>lunch service</strong>, Student's Mess is the #1 trusted choice.</p>
                 
-                <p>Busy government officers, lawyers, secretariat clerks, and corporate staff rarely have time to cook hot meals before heading to work in the morning. Canteen food often lacks nutritional variety and leaves people feeling heavy in the afternoon. <strong>Student's Mess</strong> delivers wholesome, freshly packed lunch boxes directly to offices, chambers, and residential flats across North and South Office Para in Doranda.</p>
+                <p>Busy government officers, lawyers, secretariat clerks, and corporate staff rarely have time to cook hot meals before heading to work in the morning. Canteen food often lacks nutritional variety and leaves people feeling heavy in the afternoon. <strong>Student's Mess</strong> delivers wholesome, freshly packed <strong>lunch box service</strong> meals directly to offices, chambers, and residential flats across North and South Office Para in Doranda with traditional <strong>mess khana</strong> taste.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Doranda:</h4>
                     <p><strong>Primary Delivery Hubs:</strong> Nepal House, Secretariat complex, North Office Para, South Office Para, A.G. Colony, and Hinoo border.</p>
-                    <p><strong>Beneficiaries:</strong> Government department employees, advocates, corporate bank employees, PG residents, and local families.</p>
+                    <p><strong>Beneficiaries:</strong> Government employees, advocates, bank executives, PG residents, and families seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> deliveries.</p>
                 </div>
 
-                <h3>Structured Corporate Catering &amp; Office Lunch Contracts</h3>
-                <p>For government offices, legal chambers, and commercial teams in Doranda, we offer corporate meal contracts with flexible billing. Whether you need 10 lunch boxes daily for your legal team or 50 meals for a departmental conference, our hot insulated food carriers ensure food arrives piping hot by 1:00 PM every day.</p>
+                <h3>Daily Mess Menu &amp; Structured Corporate Lunch Service</h3>
+                <p>For government offices, legal chambers, and commercial teams in Doranda, we offer corporate meal contracts with flexible billing. Whether you need 10 lunch boxes daily for your legal team or 50 meals for a departmental conference, our hot insulated food carriers ensure food arrives piping hot by 1:00 PM every day. Our daily rotating <strong>mess menu</strong> ensures fresh, delightful variety throughout the month.</p>
                 
-                <p>Every lunch includes soft hand-made wheat rotis, fragrant steamed rice, authentic dal tadka, and a dry seasonal vegetable subzi cooked with minimal oil and no artificial preservatives.</p>
+                <p>Every lunch includes soft hand-made wheat rotis, fragrant steamed rice, authentic dal tadka, and a dry seasonal vegetable subzi cooked with minimal oil and no artificial preservatives. If you are comparing <strong>tiffin services near me</strong> or seeking the highest quality <strong>tiffin service in Ranchi</strong>, our Doranda meal plans deliver unmatched taste and convenience.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Doorstep delivery is active for groups of five (5) or more subscribers in the same building or office. Individual subscribers can also opt for self-pickup from our nearby Hindpiri kitchen counter.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can offices in Doranda view the daily mess menu and lunch service options?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is updated every morning online and shared with office coordinators on WhatsApp (+91 62010 16720). You can check today's dal, seasonal subzis, and non-veg specialties before your scheduled corporate <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

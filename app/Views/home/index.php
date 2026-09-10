@@ -20,8 +20,8 @@ $menu = $menu ?? [];
                 <span class="hero-eyebrow-badge">SERVING RANCHI <span class="text-accent">SINCE 1999</span></span>
             </div>
             
-            <h1 class="hero-title">Home Style Meals<br><span class="text-accent">Fresh Every Day. Trusted Since 1999.</span></h1>
-            <p class="hero-subtitle">For over 26 years, we have been serving students, working professionals, families and organizations with <strong>fresh</strong>, <strong>hygienic</strong> and <strong>affordable</strong> meals every single day.</p>
+            <h1 class="hero-title">Best Tiffin Service in Ranchi<br><span class="text-accent">&amp; Trusted Mess in Ranchi Since 1999</span></h1>
+            <p class="hero-subtitle">Searching for reliable <strong>tiffin services near me</strong> or nourishing <strong>lunch box meals near me</strong>? For over 26 years, Student's Mess has been providing the finest <strong>lunch box service</strong>, daily rotating <strong>mess menu</strong>, and home-style <strong>lunch service</strong> across Ranchi.</p>
             
             <div class="hero-ctas">
                 <a href="<?php echo $baseUrl; ?>todays-menu" class="btn btn-hero-primary"><i class="fa-solid fa-bell-concierge"></i> VIEW TODAY'S MENU <i class="fa fa-arrow-right btn-arrow"></i></a>
@@ -406,8 +406,8 @@ $menu = $menu ?? [];
                     SUBSCRIPTIONS
                     <span class="plans-eyebrow-line"></span>
                 </span>
-                <h2 class="plans-title">Never Worry About<br>Meals Again<span class="dot-accent">.</span></h2>
-                <p class="plans-desc">Our monthly meal plans bring home-style cooking directly to you. Freshly prepared, warm, and highly customizable. Perfect for students, bachelors, and working professionals who miss home food.</p>
+                <h2 class="plans-title">Affordable Mess Khana &amp;<br>Daily Lunch Box Ranchi<span class="dot-accent">.</span></h2>
+                <p class="plans-desc">Our monthly meal plans bring authentic home-style cooking directly to you. Enjoy hot, nutritious <strong>lunchbox Ranchi</strong> meals featuring a balanced daily <strong>mess menu</strong> with fresh sabzis, dal, rotis, and rice. Perfect for students, PGs, and corporate teams looking for dependable <strong>tiffin services near me</strong>.</p>
                 
                 <ul class="plans-bullets">
                     <li>
@@ -658,9 +658,9 @@ $menu = $menu ?? [];
                     <span class="takeaway-eyebrow">ON THE GO</span>
                 </div>
                 
-                <h2 class="takeaway-title">Craving Home Food <br>But <span class="text-gold">Short On Time?</span></h2>
+                <h2 class="takeaway-title">Quick Lunch Service &amp; <br><span class="text-gold">Lunch Box Meals Near Me</span></h2>
                 
-                <p class="takeaway-desc">Get wholesome, home-style meals delivered fresh to your doorstep. Whether you're a student, a busy professional, or a family managing your day — we've got you covered.</p>
+                <p class="takeaway-desc">Craving fresh home food without waiting? Our fast takeaway and express <strong>lunch box service</strong> deliver hot, wholesome meals right when hunger strikes. Enjoy authentic home-cooked flavor with our fast <strong>lunchbox Ranchi</strong> options.</p>
                 
                 <ul class="takeaway-features">
                     <li>
@@ -742,14 +742,14 @@ $menu = $menu ?? [];
                 <span class="areas-eyebrow">PROUD LOCAL BRAND</span>
                 <svg class="eyebrow-wing-right" width="24" height="8" viewBox="0 0 24 8" fill="none"><path d="M24,4 L6,4 M6,4 L10,1 M6,4 L10,7" stroke="#d49e2f" stroke-width="1.5"/><circle cx="3" cy="4" r="2" fill="#d49e2f"/></svg>
             </div>
-            <h2 class="areas-title">Serving Every <br>Corner of <span class="text-gold">Ranchi</span></h2>
+            <h2 class="areas-title">Best Tiffin Service in Ranchi <br>&amp; <span class="text-gold">Mess in Ranchi Areas</span></h2>
             <div class="areas-divider">
                 <svg width="60" height="12" viewBox="0 0 60 12" fill="none">
                     <path d="M0,6 L22,6 M38,6 L60,6" stroke="#d49e2f" stroke-width="1.5"/>
                     <path d="M30,1 L26,6 L30,11 L34,6 Z" fill="#0f2b18" stroke="#d49e2f" stroke-width="1"/>
                 </svg>
             </div>
-            <p class="areas-desc">From hotels to homes, offices to events — we deliver fresh, home-style meals across Ranchi with love, care &amp; on-time service.</p>
+            <p class="areas-desc">From coaching hubs to corporate offices and hostels — our prompt <strong>lunch box service</strong> delivers delicious <strong>lunch box Ranchi</strong> packages across all 15 key localities.</p>
         </div>
         
         <!-- Horizontal Info Bar -->
@@ -1695,6 +1695,50 @@ $menu = $menu ?? [];
                     </button>
                     <div class="faq-answer">
                         <p>We operate strictly on a <strong>100% advance payment policy</strong> for all monthly subscription plans to ensure seamless ingredient procurement and kitchen operations. We accept UPI, Net Banking, and cash.</p>
+                    </div>
+                </div>
+                <div class="faq-toggle-col">
+                    <div class="faq-toggle-btn">
+                        <i class="fa-solid fa-chevron-down"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Item 7 -->
+            <div class="faq-item">
+                <div class="faq-icon-col">
+                    <div class="faq-icon-badge">
+                        <i class="fa-solid fa-utensils"></i>
+                    </div>
+                </div>
+                <div class="faq-content-col">
+                    <button class="faq-question">
+                        <span class="faq-q-text">How do I check today's mess menu and daily meal schedule?</span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>You can check our daily rotating <strong>mess menu</strong> on our website or get today's meal schedule directly on WhatsApp at +91 62010 16720. Our rotating weekly menu features seasonal vegetables, nutritious dal, hot rotis, steamed rice, and special non-veg curries.</p>
+                    </div>
+                </div>
+                <div class="faq-toggle-col">
+                    <div class="faq-toggle-btn">
+                        <i class="fa-solid fa-chevron-down"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Item 8 -->
+            <div class="faq-item">
+                <div class="faq-icon-col">
+                    <div class="faq-icon-badge">
+                        <i class="fa-solid fa-medal"></i>
+                    </div>
+                </div>
+                <div class="faq-content-col">
+                    <button class="faq-question">
+                        <span class="faq-q-text">Why choose Student's Mess over other tiffin services near me in Ranchi?</span>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Serving Ranchi since 1999, Student's Mess has earned trust as the leading <strong>mess in Ranchi</strong> and top choice for <strong>tiffin services near me</strong>. We provide an authentic home-style <strong>lunch box service</strong>, wholesome <strong>lunch box meals near me</strong>, reliable <strong>lunch service</strong>, and prompt <strong>lunch box Ranchi</strong> delivery.</p>
                     </div>
                 </div>
                 <div class="faq-toggle-col">

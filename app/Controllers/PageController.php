@@ -196,7 +196,8 @@ class PageController extends Controller {
 
         $this->render($viewFile, [
             'title' => "Best Mess & Tiffin Service in " . $areaName . ", Ranchi | Student's Mess",
-            'metaDesc' => "Looking for the best mess and tiffin service in " . $areaName . ", Ranchi? Student's Mess provides fresh, hygienic home-style lunch and dinner delivery. Call +91 62010 16720.",
+            'metaDesc' => "Looking for the best mess in " . $areaName . " Ranchi or top tiffin services near me? Student's Mess offers daily rotating mess menu, hygienic lunch box service, and nutritious lunch box meals near me. Call +91 62010 16720.",
+            'metaKeywords' => "mess in " . strtolower($areaName) . " ranchi, tiffin services near me, mess menu, mess in ranchi, tiffin service in ranchi, lunch box meals near me, lunch box service, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, ranchi mess service, mess khana",
             'schemaMarkup' => $schemaMarkup,
             'pageClass' => 'location-detail-page'
         ]);

@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Booty More, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Student Tiffin Service in Ranchi Since 1999</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Booty More, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Budget-friendly, hearty home-style meals and bulk hostel tiffin supply for engineering students and PGs in Booty More.</p>
+        <p class="inner-hero-subtitle">Searching for budget-friendly <strong>tiffin services near me</strong> or the top student <strong>mess in Booty More Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> along BIT Mesra road.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">College &amp; Engineering Corridor</span>
-                <h2>Wholesome Daily Student Tiffin Delivery Near BIT Mesra Route</h2>
-                <p class="lead-text">Booty More is the vital junction leading toward BIT Mesra, RTC Institute of Technology, and numerous polytechnic colleges, densely populated with hundreds of private student lodges and PG hostels.</p>
+                <h2>Wholesome Student Mess in Ranchi &amp; Lunch Box Service in Booty More</h2>
+                <p class="lead-text">Booty More is the vital junction leading toward BIT Mesra, RTC Institute of Technology, and numerous polytechnic colleges, densely populated with hundreds of private student lodges and PG hostels seeking a dependable daily <strong>lunch service</strong>.</p>
                 
-                <p>Engineering students deal with challenging project deadlines, semester tests, and intense academic workloads. Cooking daily in a shared hostel room is impractical, and eating poor-quality hostel canteen food leads to fatigue and sickness. <strong>Student's Mess</strong> delivers authentic, wholesome, energy-rich meals straight to student PG buildings and private lodges around Booty More Chowk.</p>
+                <p>Engineering students deal with challenging project deadlines, semester tests, and intense academic workloads. Cooking daily in a shared hostel room is impractical, and eating poor-quality hostel canteen food leads to fatigue and sickness. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> delivering authentic, energy-rich <strong>mess khana</strong> straight to student PG buildings and private lodges around Booty More Chowk.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Booty More:</h4>
                     <p><strong>Primary Delivery Hubs:</strong> Booty More Chowk, BIT Mesra Road, RTC Institute vicinity, Vikas Vidyalaya area, and Bariatu connecting lanes.</p>
-                    <p><strong>Beneficiaries:</strong> Engineering students, polytechnic aspirants, private lodge bachelors, PG residents, and local college faculties.</p>
+                    <p><strong>Beneficiaries:</strong> Engineering students, polytechnic aspirants, private lodge bachelors, PG residents, and faculties seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Affordable Student Pricing (₹40 to ₹53 per Meal)</h3>
-                <p>We believe students should never have to compromise on food quality due to financial constraints. Our Standard Vegetarian plan provides two complete home-cooked meals daily for just ₹2,400 per month (only ₹40 per meal!). For non-vegetarians, our Standard Non-Veg plan is ₹3,200 per month (just ₹53 per meal), featuring rich Chicken Curry and Egg Curry.</p>
+                <h3>Daily Mess Menu &amp; Affordable Student Pricing (₹40 to ₹53 per Meal)</h3>
+                <p>We believe students should never have to compromise on food quality due to financial constraints. Our Standard Vegetarian plan provides two complete home-cooked meals daily for just ₹2,400 per month (only ₹40 per meal!). For non-vegetarians, our Standard Non-Veg plan is ₹3,200 per month (just ₹53 per meal), featuring rich Chicken Curry and Egg Curry. Our daily rotating <strong>mess menu</strong> gives you exciting home flavors throughout the week.</p>
                 
-                <p>We provide free hostel doorstep delivery for groups of five (5) or more students subscribing in the same lodge or PG building, with 12-hour meal pause flexibility via WhatsApp.</p>
+                <p>We provide free hostel doorstep delivery for groups of five (5) or more students subscribing in the same lodge or PG building. If you are comparing <strong>tiffin services near me</strong> or searching for the best student <strong>tiffin service in Ranchi</strong>, our Booty More route guarantees hot, timely food every day.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes! We provide bulk institutional catering for private hostels and PG facilities in Booty More with customized menus and contract billing.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can engineering students in Booty More check today's mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is published every morning on our website and shared via WhatsApp (+91 62010 16720). Students can check today's vegetable curries, dal, and rotis before our scheduled afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

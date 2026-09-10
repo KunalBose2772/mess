@@ -20,6 +20,7 @@ $content = $content ?? '';
     <!-- SEO Meta Tags -->
     <title><?php echo isset($title) ? htmlspecialchars($title) : "Home Style Meals in Ranchi Since 1999 | Student's Mess"; ?></title>
     <meta name="description" content="<?php echo isset($metaDesc) ? htmlspecialchars($metaDesc) : "Family-run since 1999, Student's Mess serves fresh home style veg & non-veg meals, monthly tiffin plans, bulk orders & takeaway across Ranchi."; ?>">
+    <meta name="keywords" content="<?php echo isset($metaKeywords) ? htmlspecialchars($metaKeywords) : 'tiffin services near me, mess menu, mess in ranchi, tiffin service in ranchi, lunch box meals near me, lunch box service, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, ranchi mess service, mess khana'; ?>">
     
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="<?php echo isset($title) ? htmlspecialchars($title) : "Home Style Meals in Ranchi Since 1999 | Student's Mess"; ?>">

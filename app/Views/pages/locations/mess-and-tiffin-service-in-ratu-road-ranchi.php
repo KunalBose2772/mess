@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Ratu Road, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Commercial &amp; Wholesale Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Ratu Road, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Hearty home-style lunch boxes and bulk food catering for Pandra wholesale market, logistics offices, and Ratu Road residents.</p>
+        <p class="inner-hero-subtitle">Looking for dependable <strong>tiffin services near me</strong> or the top <strong>mess in Ratu Road Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> delivered to Pandra Market, transport offices, and residences.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Trade &amp; Logistics Axis</span>
-                <h2>Wholesome Meal Supply for Pandra Market &amp; Ratu Road Neighborhoods</h2>
-                <p class="lead-text">Ratu Road is one of Ranchi's most bustling commercial arteries, housing the colossal Pandra Wholesale Krishi Upaj Mandi, transport agency depots, and sprawling residential settlements.</p>
+                <h2>Wholesome Mess in Ranchi &amp; Lunch Box Service on Ratu Road</h2>
+                <p class="lead-text">Ratu Road is one of Ranchi's most bustling commercial arteries, housing the colossal Pandra Wholesale Krishi Upaj Mandi, transport agency depots, and sprawling residential settlements. For logistics staff and traders seeking an authentic afternoon <strong>lunch service</strong>, Student's Mess is the #1 trusted provider.</p>
                 
-                <p>Wholesale foodgrain dealers, transport operators, warehouse managers, and local shopkeepers spend intense physical hours overseeing stock movement and customer dispatches. Finding clean, home-cooked food in this hectic commercial belt is a major challenge. <strong>Student's Mess</strong> coordinates prompt daily delivery of piping hot, energy-dense thalis directly to offices and shops along Ratu Road.</p>
+                <p>Wholesale foodgrain dealers, transport operators, warehouse managers, and local shopkeepers spend intense physical hours overseeing stock movement and customer dispatches. Finding clean, home-cooked food in this hectic commercial belt is a major challenge. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> delivering piping hot, authentic <strong>mess khana</strong> directly to offices and shops along Ratu Road.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Ratu Road:</h4>
                     <p><strong>Primary Hubs:</strong> Pandra Wholesale Market, Galaxia Mall area, Ratu Road Chowk, Pahari Mandir foothills, ITI Bus Stand, and Sukhdeonagar.</p>
-                    <p><strong>Beneficiaries:</strong> Agricultural commodity traders, logistics agency teams, warehouse supervisors, transport staff, and local families.</p>
+                    <p><strong>Beneficiaries:</strong> Commodity traders, logistics agency teams, warehouse supervisors, transport staff, and families seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Substantial, High-Calorie Home Cooking for Active Workdays</h3>
-                <p>Our cooking uses whole wheat flour, fresh local pulses, and seasonal farm vegetables cooked with clean sunflower oil. Each thali includes four thick handmade chapatis, steamed rice, dal, and fresh subzi packed in heat-retaining containers that stay warm even during busy trading hours.</p>
+                <h3>Daily Mess Menu &amp; Substantial Home-Style Lunch Box Meals</h3>
+                <p>Our cooking uses whole wheat flour, fresh local pulses, and seasonal farm vegetables cooked with clean sunflower oil. Each thali includes four thick handmade chapatis, steamed rice, dal, and fresh subzi packed in heat-retaining containers that stay warm even during busy trading hours. Our daily rotating <strong>mess menu</strong> ensures balanced nutrition throughout the week.</p>
                 
-                <p>We also cater bulk meal contracts for transport agencies and trading firms in Pandra Market, complete with flexible weekly invoicing.</p>
+                <p>We also cater bulk meal contracts for transport agencies and trading firms in Pandra Market, complete with flexible weekly invoicing. If you are comparing <strong>tiffin services near me</strong> or looking for the finest <strong>tiffin service in Ranchi</strong>, our Ratu Road delivery routes provide prompt and reliable food every day.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes. Simply inform our customer helpline on WhatsApp 12 hours before your trip, and your subscription will pause without any financial deduction.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can Pandra market traders view today's mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily rotating <strong>mess menu</strong> is available on our website and shared via WhatsApp (+91 62010 16720). Traders and warehouse managers can preview today's vegetable curries, dal, and rotis before our scheduled afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

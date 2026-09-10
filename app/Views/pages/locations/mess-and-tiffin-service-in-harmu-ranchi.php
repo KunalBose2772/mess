@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Harmu, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Residential Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Harmu, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Wholesome, low-oil home cooking and family tiffin plans for Harmu Housing Colony and Bypass residents.</p>
+        <p class="inner-hero-subtitle">Searching for wholesome <strong>tiffin services near me</strong> or the top family <strong>mess in Harmu Ranchi</strong>? Enjoy digestible <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> for Harmu Housing Colony and Bypass residents.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Residential &amp; Family Sector</span>
-                <h2>Light, Digestible Home Style Tiffin Plans in Harmu</h2>
-                <p class="lead-text">Harmu is one of Ranchi's most established and peaceful residential neighborhoods, home to the sprawling Harmu Housing Colony, Harmu Bypass, and quiet residential lanes around Sahjanand Chowk.</p>
+                <h2>Digestible Mess in Ranchi &amp; Lunch Box Service in Harmu</h2>
+                <p class="lead-text">Harmu is one of Ranchi's most established and peaceful residential neighborhoods, home to Harmu Housing Colony, Harmu Bypass, and quiet residential lanes around Sahjanand Chowk. For working couples and elders looking for a dependable daily <strong>lunch service</strong>, Student's Mess is the #1 choice.</p>
                 
-                <p>For working parents, senior citizens living independently, and bachelors residing in Harmu, daily kitchen chores can become exhausting. Commercial restaurant food is too heavy and oily for everyday consumption. <strong>Student's Mess</strong> delivers authentic, home-cooked family meal boxes prepared with minimal oil and gentle spices that bring back the comforting taste of homemade food.</p>
+                <p>For working parents, senior citizens living independently, and bachelors residing in Harmu, daily kitchen chores can become exhausting. Commercial restaurant food is too heavy and oily for everyday consumption. <strong>Student's Mess</strong> delivers authentic, home-cooked <strong>mess khana</strong> and a specialized <strong>lunch box service</strong> prepared with minimal oil and gentle spices that bring back the comforting taste of homemade food.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Harmu:</h4>
                     <p><strong>Primary Hubs:</strong> Harmu Housing Colony, Sahjanand Chowk, Harmu Bypass, Patel Chowk, and Vidhyapati Nagar.</p>
-                    <p><strong>Beneficiaries:</strong> Senior citizens needing low-oil food, working couples, bank branch employees, and local residential bachelors.</p>
+                    <p><strong>Beneficiaries:</strong> Senior citizens needing low-oil food, working couples, bank branch employees, and residents seeking dependable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Elderly-Friendly &amp; Low-Oil Culinary Standards</h3>
-                <p>We take pride in cooking food that is genuinely light on the stomach. Our vegetable curries are simmered in pure sunflower oil without synthetic thickening agents, excessive red chili, or food coloring. Our chapatis are soft and rolled from pure whole wheat flour, ensuring complete digestive comfort for elder family members.</p>
+                <h3>Daily Mess Menu &amp; Elderly-Friendly Low-Oil Cooking</h3>
+                <p>We take pride in cooking food that is genuinely light on the stomach. Our vegetable curries are simmered in pure sunflower oil without synthetic thickening agents, excessive red chili, or food coloring. Our chapatis are soft and rolled from pure whole wheat flour, ensuring complete digestive comfort for elder family members. Our daily rotating <strong>mess menu</strong> offers nourishing variety every day.</p>
                 
-                <p>Families can customize lunch or dinner-only packages, or opt for full 2-meal daily subscriptions with the flexibility to pause meals during weekend family visits.</p>
+                <p>Families can customize lunch or dinner-only packages, or opt for full 2-meal daily subscriptions. If you are exploring <strong>tiffin services near me</strong> or looking for the most hygienic <strong>tiffin service in Ranchi</strong>, our Harmu family meal plans offer complete nutritional peace of mind.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes, notify us on WhatsApp 12 hours prior, and your plan will be paused and credited to your next billing period.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can families in Harmu check the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily rotating <strong>mess menu</strong> is posted every morning on our website and shared via WhatsApp (+91 62010 16720). Residents can easily check the day's sabzis, dal, and rotis before our scheduled afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

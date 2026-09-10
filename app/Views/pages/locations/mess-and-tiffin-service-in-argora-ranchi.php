@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Argora, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top-Rated Residential Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Argora, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Fresh, home-cooked family meal boxes and daily office tiffin delivery for Argora Housing Colony and Kathal More Road.</p>
+        <p class="inner-hero-subtitle">Searching for dependable <strong>tiffin services near me</strong> or the top family <strong>mess in Argora Ranchi</strong>? Enjoy delicious <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> across Argora Housing Colony and Kathal More Road.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Modern Residential &amp; Office Sector</span>
-                <h2>Reliable Family Dinner &amp; Corporate Lunch Service in Argora</h2>
-                <p class="lead-text">Argora is one of Ranchi's most rapidly expanding residential and corporate corridors, encompassing Argora Housing Colony, Argora Chowk, and the arterial link toward Kathal More.</p>
+                <h2>Delicious Mess in Ranchi &amp; Lunch Box Service in Argora</h2>
+                <p class="lead-text">Argora is one of Ranchi's most rapidly expanding residential and corporate corridors, encompassing Argora Housing Colony, Argora Chowk, and the arterial link toward Kathal More. For busy professionals and residents seeking a dependable <strong>lunch service</strong>, Student's Mess is the #1 choice.</p>
                 
-                <p>Modern families, IT remote workers, corporate managers, and bank branch staff residing in Argora face hectic commutes and extended work hours. Returning home exhausted to face daily grocery shopping and cooking is stressful. <strong>Student's Mess</strong> brings traditional, comforting home-cooked meal subscriptions right to your apartment doorstep in Argora.</p>
+                <p>Modern families, IT remote workers, corporate managers, and bank branch staff residing in Argora face hectic commutes and extended work hours. Returning home exhausted to face daily grocery shopping and cooking is stressful. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> bringing traditional, comforting <strong>mess khana</strong> right to your apartment doorstep in Argora.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Argora:</h4>
-                    <p><strong>Primary Delivery Hubs:</strong> Argora Housing Colony, Argora Chowk, Kathal More Road, Ashok Nagar border, and Kadru connecting road.</p>
-                    <p><strong>Beneficiaries:</strong> Dual-income working couples, corporate professionals, apartment society residents, bank employees, and local bachelors.</p>
+                    <p><strong>Primary Hubs:</strong> Argora Housing Colony, Argora Chowk, Kathal More Road, Ashok Nagar border, and Kadru connecting road.</p>
+                    <p><strong>Beneficiaries:</strong> Dual-income working couples, corporate professionals, apartment society residents, bank employees, and bachelors seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Flexible Family Dinner Delivery Slots</h3>
-                <p>Our dedicated delivery route in Argora runs smoothly between 8:00 PM and 9:15 PM every evening, delivering fresh, piping-hot meals packed in hygienic spill-proof containers. No washing up, no meal-planning stress—just authentic, clean ghar-ka-khana ready on your dining table.</p>
+                <h3>Daily Mess Menu &amp; Flexible Family Meal Delivery Slots</h3>
+                <p>Our dedicated delivery route in Argora runs smoothly between 8:00 PM and 9:15 PM every evening for dinner, and 12:30 PM to 1:30 PM for lunch, delivering fresh, piping-hot meals packed in hygienic spill-proof containers. No washing up, no meal-planning stress—just authentic, clean ghar-ka-khana ready on your dining table. Our daily rotating <strong>mess menu</strong> ensures exciting meal variety every day.</p>
                 
-                <p>We cook pure vegetarian meals with dedicated utensils, and prepare our traditional chicken and egg curry recipes using fresh ingredients and zero artificial colors or heavy restaurant cream.</p>
+                <p>We cook pure vegetarian meals with dedicated utensils, and prepare our traditional chicken and egg curry recipes using fresh ingredients and zero artificial colors. If you are comparing <strong>tiffin services near me</strong> or looking for the finest <strong>tiffin service in Ranchi</strong>, our Argora subscriptions provide total culinary satisfaction.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Yes. Give us 12 hours' notice via WhatsApp, and your skipped meals are credited to extend your active subscription cycle.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can Argora residents and professionals check the daily mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily rotating <strong>mess menu</strong> is published every morning online and shared via WhatsApp (+91 62010 16720). You can check today's vegetable curries, dal, and fresh rotis before our scheduled afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>

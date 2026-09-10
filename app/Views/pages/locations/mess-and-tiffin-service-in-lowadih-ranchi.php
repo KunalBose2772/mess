@@ -10,9 +10,9 @@ $baseUrl = $baseUrl ?? '';
 <!-- 1. Hero Section -->
 <section class="inner-hero-section">
     <div class="section-container text-center">
-        <span class="inner-hero-eyebrow">Serving Lowadih, Ranchi Since 1999</span>
+        <span class="inner-hero-eyebrow">Top Industrial &amp; Warehouse Tiffin Service in Ranchi</span>
         <h1 class="inner-hero-title">Best Mess &amp; Tiffin Service in <span class="text-accent">Lowadih, Ranchi</span></h1>
-        <p class="inner-hero-subtitle">Bulk lunch box catering for warehouses, logistics hubs, and daily home-style meals in Lowadih and Namkum Road.</p>
+        <p class="inner-hero-subtitle">Searching for dependable <strong>tiffin services near me</strong> or the top industrial <strong>mess in Lowadih Ranchi</strong>? Enjoy hot <strong>lunch box meals near me</strong> with a daily rotating <strong>mess menu</strong> and canteen supply along Namkum Road.</p>
     </div>
 </section>
 
@@ -22,22 +22,22 @@ $baseUrl = $baseUrl ?? '';
         <div class="location-grid">
             <div class="location-content">
                 <span class="section-eyebrow">Warehousing &amp; Industrial Sector</span>
-                <h2>Bulk Logistics Canteen &amp; Daily Tiffin Delivery in Lowadih</h2>
-                <p class="lead-text">Lowadih is an essential industrial and logistics corridor linking Namkum and Kantatoli, housing wholesale cold storage units, e-commerce fulfillment hubs, and freight warehouses along Namkum Road.</p>
+                <h2>Dependable Mess in Ranchi &amp; Lunch Box Service in Lowadih</h2>
+                <p class="lead-text">Lowadih is an essential industrial and logistics corridor linking Namkum and Kantatoli, housing wholesale cold storage units, e-commerce fulfillment hubs, and freight warehouses along Namkum Road seeking a dependable daily <strong>lunch service</strong>.</p>
                 
-                <p>Warehouse logistics crews, inventory supervisors, and freight staff work demanding shifts keeping supply chains running. Unhygienic roadside eateries lead to frequent sick leaves and lower workforce morale. <strong>Student's Mess</strong> coordinates structured, high-volume bulk lunch and dinner deliveries directly to industrial properties and warehouse canteens in Lowadih.</p>
+                <p>Warehouse logistics crews, inventory supervisors, and freight staff work demanding shifts keeping supply chains running. Unhygienic roadside eateries lead to frequent sick leaves and lower workforce morale. <strong>Student's Mess</strong> coordinates a specialized <strong>lunch box service</strong> delivering authentic, warm <strong>mess khana</strong> directly to industrial properties and warehouse canteens in Lowadih.</p>
                 
                 <!-- Target Focus Box -->
                 <div class="focus-box bg-light">
                     <h4><i class="fa fa-info-circle text-primary"></i> Area Highlights for Lowadih:</h4>
                     <p><strong>Primary Delivery Hubs:</strong> Lowadih Chowk, Namkum Road corridor, Samlong industrial area, and Purulia Road bypass.</p>
-                    <p><strong>Beneficiaries:</strong> Warehouse logistics teams, cold storage workers, freight operations managers, local families, and industrial bachelors.</p>
+                    <p><strong>Beneficiaries:</strong> Warehouse logistics teams, cold storage workers, freight operations managers, local families, and bachelors seeking reliable <strong>lunch box ranchi</strong> / <strong>lunchbox ranchi</strong> delivery.</p>
                 </div>
 
-                <h3>Dependable Canteen Logistics for Distribution Centers</h3>
-                <p>We deliver in heavy-duty, insulated food containers that keep chapatis soft and gravies piping hot for over two hours. Whether your facility needs 15 lunch boxes for office staff or 50+ meals for warehouse loading crews, our kitchen guarantees consistent quality, robust portions, and on-time arrival every single day.</p>
+                <h3>Daily Mess Menu &amp; Dependable Canteen Logistics for Distribution Centers</h3>
+                <p>We deliver in heavy-duty, insulated food containers that keep chapatis soft and gravies piping hot for over two hours. Whether your facility needs 15 lunch boxes for office staff or 50+ meals for warehouse loading crews, our kitchen guarantees consistent quality, robust portions, and on-time arrival every single day. Our daily rotating <strong>mess menu</strong> ensures fresh variety throughout the month.</p>
                 
-                <p>We also serve local residents and bachelors in Lowadih with individual monthly subscriptions (Veg ₹2,400/mo, Non-Veg ₹3,200/mo) with full pause flexibility via WhatsApp.</p>
+                <p>We also serve local residents and bachelors in Lowadih searching for the finest <strong>tiffin service in Ranchi</strong> with individual monthly subscriptions (Veg ₹2,400/mo, Non-Veg ₹3,200/mo) and full pause flexibility via WhatsApp.</p>
             </div>
             
             <div class="location-checklist-sidebar">
@@ -106,6 +106,16 @@ $baseUrl = $baseUrl ?? '';
                 </button>
                 <div class="faq-answer">
                     <p>Doorstep delivery is available for groups of 5 or more subscribers in the same building or neighborhood. Single subscribers can pick up from our kitchen counter in Hindpiri.</p>
+                </div>
+            </div>
+
+            <div class="faq-item">
+                <button class="faq-question">
+                    <span>How can warehouse managers in Lowadih check today's mess menu?</span>
+                    <i class="fa fa-plus faq-toggle-icon"></i>
+                </button>
+                <div class="faq-answer">
+                    <p>Our daily <strong>mess menu</strong> is published every morning online and shared via WhatsApp (+91 62010 16720). Facility supervisors can check today's vegetable curries, dal, and fresh rotis before our scheduled afternoon <strong>lunch service</strong>.</p>
                 </div>
             </div>
         </div>
