@@ -53,7 +53,9 @@ $router->add('terms-of-service', [App\Controllers\PageController::class, 'terms'
 $router->add('page/{slug}', [App\Controllers\PageController::class, 'contentPage']);
 
 // Dynamic Service & Area Spokes
+$router->add('services', [App\Controllers\PageController::class, 'servicesIndex']);
 $router->add('services/{slug}', [App\Controllers\PageController::class, 'service']);
+$router->add('areas', [App\Controllers\PageController::class, 'areasIndex']);
 $router->add('areas/{slug}', [App\Controllers\PageController::class, 'area']);
 $router->add('mess-and-tiffin-service-in-{slug}-ranchi', [App\Controllers\PageController::class, 'locationPage']);
 

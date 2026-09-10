@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /app/
+Disallow: /thank-you
+Disallow: /submit-quote
+Disallow: /submit-contact
+
+Sitemap: https://studentsmessranchi.com/sitemap.xml

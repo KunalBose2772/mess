@@ -45,7 +45,20 @@ $baseUrl = $baseUrl ?? '';
                 <li><a href="<?php echo $baseUrl; ?>takeaway" class="nav-link">Takeaway</a></li>
                 <li><a href="<?php echo $baseUrl; ?>todays-menu" class="nav-link">Today's Menu</a></li>
                 <li class="nav-dropdown-item">
-                    <a href="#" class="nav-link dropdown-toggle">Areas We Serve <i class="fa fa-chevron-down dropdown-icon"></i></a>
+                    <a href="<?php echo $baseUrl; ?>services" class="nav-link dropdown-toggle">Services <i class="fa fa-chevron-down dropdown-icon"></i></a>
+                    <ul class="nav-dropdown">
+                        <li><a href="<?php echo $baseUrl; ?>services/student-tiffin-ranchi">Student Tiffin</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>services/office-lunch-ranchi">Office Lunch</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>services/corporate-lunch-ranchi">Corporate Catering</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>services/pg-food-supply-ranchi">PG Food Supply</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>services/hostel-food-supply-ranchi">Hostel Food Supply</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>services/event-catering-ranchi">Event Catering</a></li>
+                        <li class="dropdown-divider"></li>
+                        <li><a href="<?php echo $baseUrl; ?>services" class="view-all-link">View All 13 Services</a></li>
+                    </ul>
+                </li>
+                <li class="nav-dropdown-item">
+                    <a href="<?php echo $baseUrl; ?>areas" class="nav-link dropdown-toggle">Areas We Serve <i class="fa fa-chevron-down dropdown-icon"></i></a>
                     <ul class="nav-dropdown">
                         <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-lalpur-ranchi">Lalpur</a></li>
                         <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kanke-ranchi">Kanke</a></li>
@@ -54,7 +67,7 @@ $baseUrl = $baseUrl ?? '';
                         <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-doranda-ranchi">Doranda</a></li>
                         <li><a href="<?php echo $baseUrl; ?>mess-and-tiffin-service-in-kokar-ranchi">Kokar</a></li>
                         <li class="dropdown-divider"></li>
-                        <li><a href="<?php echo $baseUrl; ?>#areas-section" class="view-all-link">View All Areas</a></li>
+                        <li><a href="<?php echo $baseUrl; ?>areas" class="view-all-link">View All 15 Areas</a></li>
                     </ul>
                 </li>
                 <li><a href="<?php echo $baseUrl; ?>blog" class="nav-link">Blog</a></li>

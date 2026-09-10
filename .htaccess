@@ -3,6 +3,12 @@ RewriteEngine On
 # Prevent directory browsing
 Options -Indexes
 
+# Block direct web access to internal data files and storage
+RewriteRule ^app/Data/ - [F,L]
+<FilesMatch "\.(csv|json|md|lock)$">
+    Require all denied
+</FilesMatch>
+
 # Rewrite rules for clean URLs
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

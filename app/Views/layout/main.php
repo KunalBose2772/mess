@@ -7,9 +7,15 @@
  * @var string|null $metaDesc
  * @var string|null $schemaMarkup
  * @var string|null $pageClass
+ * @var string|null $canonicalUrl
+ * @var string|null $fullLogoUrl
+ * @var string|null $robots
+ * @var string|null $metaKeywords
  */
 $baseUrl = $baseUrl ?? '';
 $content = $content ?? '';
+$canonicalUrl = $canonicalUrl ?? 'https://studentsmessranchi.com/';
+$fullLogoUrl = $fullLogoUrl ?? 'https://studentsmessranchi.com/assets/images/logo.png';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,12 +27,27 @@ $content = $content ?? '';
     <title><?php echo isset($title) ? htmlspecialchars($title) : "Home Style Meals in Ranchi Since 1999 | Student's Mess"; ?></title>
     <meta name="description" content="<?php echo isset($metaDesc) ? htmlspecialchars($metaDesc) : "Family-run since 1999, Student's Mess serves fresh home style veg & non-veg meals, monthly tiffin plans, bulk orders & takeaway across Ranchi."; ?>">
     <meta name="keywords" content="<?php echo isset($metaKeywords) ? htmlspecialchars($metaKeywords) : 'tiffin services near me, mess menu, mess in ranchi, tiffin service in ranchi, lunch box meals near me, lunch box service, lunch service, lunch box ranchi, lunchbox ranchi, best tiffin service ranchi, ranchi mess service, mess khana'; ?>">
+    <?php if (isset($robots)): ?>
+    <meta name="robots" content="<?php echo htmlspecialchars($robots); ?>">
+    <?php else: ?>
+    <meta name="robots" content="index, follow">
+    <?php endif; ?>
+    <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
     
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="<?php echo isset($title) ? htmlspecialchars($title) : "Home Style Meals in Ranchi Since 1999 | Student's Mess"; ?>">
     <meta property="og:description" content="<?php echo isset($metaDesc) ? htmlspecialchars($metaDesc) : "Family-run since 1999, Student's Mess serves fresh home style veg & non-veg meals, monthly tiffin plans, bulk orders & takeaway across Ranchi."; ?>">
-    <meta property="og:image" content="<?php echo $baseUrl; ?>assets/images/logo.png">
+    <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
+    <meta property="og:site_name" content="Student's Mess Ranchi">
+    <meta property="og:image" content="<?php echo htmlspecialchars($fullLogoUrl); ?>">
     <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_IN">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo isset($title) ? htmlspecialchars($title) : "Home Style Meals in Ranchi Since 1999 | Student's Mess"; ?>">
+    <meta name="twitter:description" content="<?php echo isset($metaDesc) ? htmlspecialchars($metaDesc) : "Family-run since 1999, Student's Mess serves fresh home style veg & non-veg meals, monthly tiffin plans, bulk orders & takeaway across Ranchi."; ?>">
+    <meta name="twitter:image" content="<?php echo htmlspecialchars($fullLogoUrl); ?>">
     
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="<?php echo $baseUrl; ?>assets/images/favicon.png">
@@ -49,10 +70,10 @@ $content = $content ?? '';
       "@context": "https://schema.org",
       "@type": ["Restaurant", "LocalBusiness"],
       "name": "Student's Mess",
-      "image": "<?php echo $_SERVER['REQUEST_SCHEME'] ?? 'http'; ?>://<?php echo $_SERVER['HTTP_HOST']; ?><?php echo $baseUrl; ?>assets/images/logo.png",
-      "url": "<?php echo $_SERVER['REQUEST_SCHEME'] ?? 'http'; ?>://<?php echo $_SERVER['HTTP_HOST']; ?><?php echo $baseUrl; ?>",
+      "image": "<?php echo htmlspecialchars($fullLogoUrl); ?>",
+      "url": "https://studentsmessranchi.com/",
       "telephone": "+916201016720",
-      "priceRange": "$$",
+      "priceRange": "₹₹",
       "servesCuisine": "Indian, Home Style",
       "address": {
         "@type": "PostalAddress",

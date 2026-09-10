@@ -30,7 +30,9 @@ $baseUrl = $baseUrl ?? '';
         <div class="gallery-masonry-grid">
             <!-- Item 1: Food -->
             <div class="gallery-item" data-category="food">
-                <div class="gallery-photo food-photo-1"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/thali_top.png" alt="Standard Veg Thali with rice, rotis, dal and seasonal sabzi at Student's Mess Ranchi" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>Standard Veg Thali</h4>
                     <p>Steamed rice, chapati, seasonal vegetable curry, yellow dal, salad, pickle.</p>
@@ -39,7 +41,9 @@ $baseUrl = $baseUrl ?? '';
             
             <!-- Item 2: Kitchen -->
             <div class="gallery-item" data-category="kitchen">
-                <div class="gallery-photo kitchen-photo-1"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/gallery_kitchen.png" alt="Centralized RO water purification plant and cooking stations at Student's Mess kitchen Ranchi" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>RO Water Filtration</h4>
                     <p>Our kitchen uses centralized RO plants for washing, rinsing, and cooking.</p>
@@ -48,7 +52,9 @@ $baseUrl = $baseUrl ?? '';
             
             <!-- Item 3: Bulk -->
             <div class="gallery-item" data-category="bulk">
-                <div class="gallery-photo bulk-photo-1"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/gallery_boxes.png" alt="Individually sealed leak-proof lunch containers prepped for corporate office delivery in Ranchi" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>Corporate Thali Packing</h4>
                     <p>Individually sealed leak-proof lunch containers loaded for office deliveries.</p>
@@ -57,7 +63,9 @@ $baseUrl = $baseUrl ?? '';
             
             <!-- Item 4: Food -->
             <div class="gallery-item" data-category="food">
-                <div class="gallery-photo food-photo-2"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/nonveg_plan.png" alt="Dehati slow-cooked spicy chicken curry thali prepared using authentic Ranchi spices" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>Dehati Chicken Curry</h4>
                     <p>Ranchi style slow-cooked spicy chicken curry prepared using local spices.</p>
@@ -66,7 +74,9 @@ $baseUrl = $baseUrl ?? '';
             
             <!-- Item 5: Kitchen -->
             <div class="gallery-item" data-category="kitchen">
-                <div class="gallery-photo kitchen-photo-2"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/gallery_prep.png" alt="High-temperature sanitization and fresh vegetable prep in Student's Mess kitchen" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>Daily Sanitization Run</h4>
                     <p>Utensils are cleaned at high temperatures to ensure sanitation guidelines.</p>
@@ -75,7 +85,9 @@ $baseUrl = $baseUrl ?? '';
             
             <!-- Item 6: Bulk -->
             <div class="gallery-item" data-category="bulk">
-                <div class="gallery-photo bulk-photo-2"></div>
+                <div class="gallery-photo">
+                    <img src="<?php echo $baseUrl; ?>assets/images/gallery_pack.png" alt="Insulated hot containers loaded for daily PG hostel meal distribution in Ranchi" loading="lazy" width="400" height="250" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+                </div>
                 <div class="gallery-caption">
                     <h4>PG Hostel Food Supply</h4>
                     <p>Bulk insulated hot containers prepped for PG residents in Lalpur.</p>

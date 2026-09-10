@@ -58,13 +58,14 @@ $baseUrl = $baseUrl ?? '';
                     <div class="blog-photo-placeholder"></div>
                     <div class="blog-card-content">
                         <span class="post-category-tag">Healthy Meals</span>
-                        <h3>Home Style Food vs Restaurant Food: What's the Real Difference?</h3>
+                        <h3><a href="<?php echo $baseUrl; ?>blog/home-style-food-vs-restaurant-food-ranchi">Home Style Food vs Restaurant Food: What's the Real Difference?</a></h3>
                         <p>An investigation on spices, reheated oils, and how commercial preparation affects digestions and performance.</p>
                         <div class="post-meta">
                             <span>July 1, 2026</span>
                             <span class="meta-dot">·</span>
                             <span>5 min read</span>
                         </div>
+                        <a href="<?php echo $baseUrl; ?>blog/home-style-food-vs-restaurant-food-ranchi" class="read-more-link" style="margin-top: 12px; display: inline-block;">Read Article <i class="fa fa-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -73,13 +74,14 @@ $baseUrl = $baseUrl ?? '';
                     <div class="blog-photo-placeholder"></div>
                     <div class="blog-card-content">
                         <span class="post-category-tag">Catering</span>
-                        <h3>How Bulk Meal Catering Works for Offices in Ranchi</h3>
+                        <h3><a href="<?php echo $baseUrl; ?>blog/how-bulk-meal-catering-works-for-offices-in-ranchi">How Bulk Meal Catering Works for Offices in Ranchi</a></h3>
                         <p>How we scale production to feed corporate teams hygienically, safely, and on time every day.</p>
                         <div class="post-meta">
                             <span>June 28, 2026</span>
                             <span class="meta-dot">·</span>
                             <span>6 min read</span>
                         </div>
+                        <a href="<?php echo $baseUrl; ?>blog/how-bulk-meal-catering-works-for-offices-in-ranchi" class="read-more-link" style="margin-top: 12px; display: inline-block;">Read Article <i class="fa fa-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -88,13 +90,14 @@ $baseUrl = $baseUrl ?? '';
                     <div class="blog-photo-placeholder"></div>
                     <div class="blog-card-content">
                         <span class="post-category-tag">Nutrition</span>
-                        <h3>What Makes a Meal "Healthy" — A Home Cook's Perspective</h3>
+                        <h3><a href="<?php echo $baseUrl; ?>blog/what-makes-a-meal-healthy-home-cooking-perspective">What Makes a Meal "Healthy" — A Home Cook's Perspective</a></h3>
                         <p>Our founding chef shares recipe guides on utilizing local grains, herbs, and traditional spices for gut-health.</p>
                         <div class="post-meta">
                             <span>June 22, 2026</span>
                             <span class="meta-dot">·</span>
                             <span>4 min read</span>
                         </div>
+                        <a href="<?php echo $baseUrl; ?>blog/what-makes-a-meal-healthy-home-cooking-perspective" class="read-more-link" style="margin-top: 12px; display: inline-block;">Read Article <i class="fa fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
