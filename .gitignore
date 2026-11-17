@@ -1,0 +1,41 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+
+# next.js
+/.next/
+/.next-build/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+.env*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# runtime leads storage & database
+/data/leads.csv
+/data/*.db*
+*.db
+*.db-shm
+*.db-wal
+
+
+# untouched source images (backup, safe to delete)
+/image-originals/
+/.next-test/

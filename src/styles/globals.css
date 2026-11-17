@@ -1,0 +1,534 @@
+@import 'tailwindcss';
+
+/* ==========================================================================
+   Student's Mess — Design System
+   Single source of truth for colour, type, spacing and layout rhythm.
+   Built with Tailwind CSS v4 (see postcss.config.mjs).
+   ========================================================================== */
+
+@theme {
+  /* Typography: Fraunces for headings, Figtree for everything else */
+  --font-sans: var(--font-figtree), ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: var(--font-fraunces), Georgia, 'Times New Roman', serif;
+
+  /* Brand — deep forest green */
+  --color-brand-950: #08190e;
+  --color-brand-900: #0f2b18;
+  --color-brand-800: #153a21;
+  --color-brand-700: #1c4e2d;
+  --color-brand-600: #2f6a41;
+  --color-brand-500: #507c5c;
+  --color-brand-200: #c9dccd;
+  --color-brand-100: #e4eee6;
+  --color-brand-50: #f1f6f2;
+
+  /* Accent — warm gold */
+  --color-gold-50: #fbf6e8;
+  --color-gold-100: #f5eacb;
+  --color-gold-300: #ecd08a;
+  --color-gold-400: #dfb855;
+  --color-gold-500: #c99a2e;
+  --color-gold-600: #a67c1a;
+  --color-gold-700: #86630f;
+
+  /* Neutral scale mapped to warm stone/cream/forest to prevent cold blue undertones */
+  --color-slate-950: #07170c;
+  --color-slate-900: #0f2b18;
+  --color-slate-800: #153a21;
+  --color-slate-700: #2d3a31;
+  --color-slate-600: #45514a;
+  --color-slate-500: #6a756e;
+  --color-slate-400: #8c9690;
+  --color-slate-300: #d4cdc3;
+  --color-slate-200: #e8e2d8;
+  --color-slate-100: #faf7f2;
+  --color-slate-50: #fcfbf7;
+
+  /* Neutrals */
+  --color-cream-50: #fcfbf7;
+  --color-cream-100: #f8f5ed;
+  --color-cream-200: #f0ebdd;
+  --color-ink: #14241a;
+  --color-body: #45514a;
+  --color-muted: #6a756e;
+  --color-line: #e7e2d5;
+
+  --color-whatsapp: #128c4b;
+  --color-whatsapp-bright: #25d366;
+  --color-danger: #c2410c;
+
+  /* Breakpoints: 2xl is where the full header CTA appears, 3xl is "big screen" */
+  --breakpoint-2xl: 90rem;
+  --breakpoint-3xl: 120rem;
+
+  --shadow-card: 0 1px 2px rgb(15 43 24 / 0.04), 0 8px 24px -12px rgb(15 43 24 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(15 43 24 / 0.04), 0 20px 40px -16px rgb(15 43 24 / 0.22);
+
+  --animate-marquee: marquee 60s linear infinite;
+  --animate-marquee-reverse: marquee 60s linear infinite reverse;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Layout tokens
+   Page width is 1420px. Every size is rem-based, so raising the root font
+   size on very large displays scales the whole layout proportionally.
+   -------------------------------------------------------------------------- */
+:root {
+  --page-width: 88.75rem; /* 1420px */
+  --gutter: 1rem; /* 16px mobile */
+  --section-y: 1.25rem; /* 20px mobile */
+  --topbar-h: 0rem;
+  --header-h: 4.25rem;
+  --header-total-h: calc(var(--topbar-h) + var(--header-h));
+
+  /* Surface-aware text colours (flipped by .on-dark) */
+  --heading: var(--color-brand-900);
+  --text: var(--color-body);
+  --text-muted: var(--color-muted);
+  --eyebrow: var(--color-gold-700);
+  --hairline: var(--color-line);
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --gutter: 1.5rem;
+    --section-y: 1.5rem; /* 24px tablet */
+    --topbar-h: 2.25rem; /* 36px md:block */
+    --header-total-h: calc(var(--topbar-h) + var(--header-h));
+  }
+}
+
+@media (min-width: 64rem) {
+  :root {
+    --gutter: 2rem;
+    --section-y: 2rem; /* 32px desktop (tightened from 40px for clean executive density) */
+    --topbar-h: 2.25rem;
+    --header-h: 5rem;
+    --header-total-h: calc(var(--topbar-h) + var(--header-h));
+  }
+}
+
+/* Big-screen optimisation: scale the whole system instead of leaving dead space */
+@media (min-width: 120rem) {
+  html {
+    font-size: 106.25%; /* 17px → 1509px page width */
+  }
+}
+
+@media (min-width: 160rem) {
+  html {
+    font-size: 125%; /* 20px → 1775px page width */
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Base
+   -------------------------------------------------------------------------- */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: calc(var(--header-h) + 1rem);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.65;
+    color: var(--text);
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--heading);
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  strong,
+  b {
+    font-weight: 600;
+    color: var(--heading);
+  }
+
+  address {
+    font-style: normal;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-gold-500);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: var(--color-gold-300);
+    color: var(--color-brand-950);
+  }
+}
+
+/* Dark surfaces flip the text tokens; .on-light restores them for cards nested inside */
+.on-dark {
+  --heading: #fff;
+  --text: rgb(255 255 255 / 0.78);
+  --text-muted: rgb(255 255 255 / 0.6);
+  --eyebrow: var(--color-gold-400);
+  --hairline: rgb(255 255 255 / 0.12);
+  color: var(--text);
+}
+
+.on-light {
+  --heading: var(--color-brand-900);
+  --text: var(--color-body);
+  --text-muted: var(--color-muted);
+  --eyebrow: var(--color-gold-700);
+  --hairline: var(--color-line);
+  color: var(--text);
+}
+
+/* --------------------------------------------------------------------------
+   Layout primitives
+   -------------------------------------------------------------------------- */
+@utility container-site {
+  width: 100%;
+  max-width: calc(var(--page-width) + var(--gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+/* Every section on the site: 40px top/bottom desktop, 30px tablet, 20px mobile */
+@utility section-y {
+  padding-block: var(--section-y);
+}
+
+/* Hero section: fits Header + Hero precisely inside 1 viewport (100dvh) */
+@utility hero-viewport {
+  height: calc(100vh - var(--header-total-h));
+  height: calc(100dvh - var(--header-total-h));
+  min-height: calc(100vh - var(--header-total-h));
+  min-height: calc(100dvh - var(--header-total-h));
+  max-height: calc(100vh - var(--header-total-h));
+  max-height: calc(100dvh - var(--header-total-h));
+
+  @media (max-height: 32rem) {
+    height: auto;
+    min-height: calc(100vh - var(--header-total-h));
+    min-height: calc(100dvh - var(--header-total-h));
+    max-height: none;
+  }
+}
+
+@utility no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Type scale — the only heading / text sizes used across the site
+   -------------------------------------------------------------------------- */
+@utility text-display {
+  font-family: var(--font-display);
+  font-size: clamp(2.125rem, 1.35rem + 3.4vw, 3.75rem); /* 34 → 60 */
+  line-height: 1.06;
+  letter-spacing: -0.025em;
+  font-weight: 600;
+}
+
+@utility text-h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.875rem, 1.4rem + 2.1vw, 3rem); /* 30 → 48 */
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+@utility text-h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.625rem, 1.3rem + 1.45vw, 2.5rem); /* 26 → 40 */
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+@utility text-h3 {
+  font-family: var(--font-display);
+  font-size: clamp(1.25rem, 1.16rem + 0.4vw, 1.5rem); /* 20 → 24 */
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+
+@utility text-h4 {
+  font-family: var(--font-display);
+  font-size: 1.125rem; /* 18 */
+  line-height: 1.35;
+  letter-spacing: -0.005em;
+  font-weight: 600;
+}
+
+@utility text-lead {
+  font-size: clamp(1rem, 0.96rem + 0.2vw, 1.125rem); /* 16 → 18 */
+  line-height: 1.65;
+}
+
+@utility text-small {
+  font-size: 0.875rem; /* 14 */
+  line-height: 1.55;
+}
+
+@utility text-caption {
+  font-size: 0.8125rem; /* 13 */
+  line-height: 1.5;
+}
+
+@utility eyebrow {
+  font-family: var(--font-sans);
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--eyebrow);
+}
+
+@utility text-heading {
+  color: var(--heading);
+}
+
+@utility text-copy {
+  color: var(--text);
+}
+
+@utility text-soft {
+  color: var(--text-muted);
+}
+
+@utility border-hairline {
+  border-color: var(--hairline);
+}
+
+/* --------------------------------------------------------------------------
+   Rich text (blog posts, CMS pages, policies, location copy)
+   -------------------------------------------------------------------------- */
+.rich-text > * + * {
+  margin-top: 1rem;
+}
+
+.rich-text h2 {
+  font-size: clamp(1.375rem, 1.25rem + 0.6vw, 1.75rem);
+  line-height: 1.25;
+  margin-top: 2rem;
+}
+
+.rich-text h3 {
+  font-size: clamp(1.25rem, 1.16rem + 0.4vw, 1.5rem);
+  line-height: 1.25;
+  margin-top: 1.75rem;
+}
+
+.rich-text h4 {
+  font-size: 1.125rem;
+  line-height: 1.35;
+  margin-top: 1.5rem;
+}
+
+.rich-text > :first-child {
+  margin-top: 0;
+}
+
+.rich-text ul,
+.rich-text ol {
+  padding-left: 1.25rem;
+}
+
+.rich-text ul {
+  list-style: disc;
+}
+
+.rich-text ol {
+  list-style: decimal;
+}
+
+.rich-text li + li {
+  margin-top: 0.375rem;
+}
+
+.rich-text li::marker {
+  color: var(--color-gold-600);
+}
+
+.rich-text a {
+  color: var(--color-brand-700);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--color-gold-400);
+  text-underline-offset: 3px;
+}
+
+.rich-text a:hover {
+  color: var(--color-gold-700);
+}
+
+/* --------------------------------------------------------------------------
+   Form controls
+   -------------------------------------------------------------------------- */
+.field-control {
+  display: block;
+  width: 100%;
+  min-height: 3rem;
+  padding: 0.6875rem 0.875rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--color-ink);
+  background-color: #fff;
+  border: 1px solid var(--color-line);
+  border-radius: 0.75rem;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.field-control::placeholder {
+  color: #9aa39d;
+}
+
+.field-control:hover {
+  border-color: var(--color-brand-200);
+}
+
+.field-control:focus {
+  outline: none;
+  border-color: var(--color-brand-600);
+  box-shadow: 0 0 0 3px rgb(47 106 65 / 0.15);
+}
+
+select.field-control {
+  appearance: none;
+  padding-right: 2.5rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='none' stroke='%2345514a' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m5 7.5 5 5 5-5'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 1.25rem;
+}
+
+textarea.field-control {
+  resize: vertical;
+  min-height: 6.5rem;
+}
+
+/* --------------------------------------------------------------------------
+   Motion
+   -------------------------------------------------------------------------- */
+.marquee:hover .marquee-track,
+.marquee:focus-within .marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Highlighted words inside headings (also used by CMS/location HTML) */
+@utility text-accent {
+  color: var(--eyebrow);
+}
+
+/* --------------------------------------------------------------------------
+   Print Optimizations (for Printable Menu & Official Documents)
+   -------------------------------------------------------------------------- */
+.print-only {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 8mm 8mm 8mm 8mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #111 !important;
+    font-size: 9pt !important;
+    line-height: 1.35 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  header,
+  footer,
+  aside,
+  nav,
+  .whatsapp-float,
+  .mobile-sticky-bar,
+  #mobile-nav,
+  button,
+  .btn-print-hide,
+  .screen-only,
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .print-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    page-break-inside: avoid !important;
+  }
+
+  .print-table th,
+  .print-table td {
+    border: 1px solid #222 !important;
+    padding: 5px 7px !important;
+    font-size: 8.5pt !important;
+    vertical-align: top !important;
+  }
+
+  .print-table th {
+    background-color: #f0f0f0 !important;
+    color: #000 !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+  }
+}

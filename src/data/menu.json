@@ -1,0 +1,70 @@
+{
+  "last_updated": "2026-07-09",
+  "veg": [
+    {
+      "name": "Standard Veg Thali (R.D.S.B)",
+      "price": "90",
+      "description": "Complete homestyle comfort thali featuring Steamed Basmati Rice, 4 fresh whole-wheat Chapatis, comforting Dal Fry, seasonal Vegetable Sabzi, crispy Aloo Bhujia, green salad, and mango pickle.",
+      "items": ["Basmati Rice", "4 Wheat Chapatis", "Dal Fry", "Seasonal Sabzi", "Crispy Bhujia", "Salad", "Pickle"],
+      "badge": "Daily Special"
+    },
+    {
+      "name": "Premium Paneer Thali",
+      "price": "130",
+      "description": "Rich vegetarian feast including Shahi Paneer or Kadai Paneer, aromatic Jeera Rice, 4 butter-brushed Chapatis, Dal Tadka, Crispy Bhujia, Veg Raita, Salad, Papad, and sweet Gulab Jamun.",
+      "items": ["Shahi Paneer", "Jeera Rice", "4 Butter Chapatis", "Dal Tadka", "Crispy Bhujia", "Raita", "Salad", "Gulab Jamun"],
+      "badge": "Chef Choice"
+    },
+    {
+      "name": "Dehati Dal Bhaat Chokha",
+      "price": "80",
+      "description": "The ultimate cultural comfort food of Jharkhand. Traditional Arhar Dal with desi ghee tadka, steamed Arwa Rice, roasted Potato & Baingan Chokha with mustard oil, green chilies, papad, and chutney.",
+      "items": ["Steamed Rice", "Desi Ghee Dal", "Roasted Chokha", "Chutney", "Papad", "Salad"],
+      "badge": "Local Comfort"
+    },
+    {
+      "name": "Royal Veg Dum Biryani",
+      "price": "120",
+      "description": "Fragrant long-grain aged basmati rice layered with spiced paneer cubes, green peas, carrots, and saffron, served with chilled cucumber-mint raita and salan.",
+      "items": ["Veg Dum Biryani", "Cucumber Raita", "Mirchi Salan", "Salad"],
+      "badge": "Friday Special"
+    },
+    {
+      "name": "Breakfast Special Plate",
+      "price": "60",
+      "description": "Fresh morning breakfast: Puri Sabji, Stuffed Paratha with Curd, South Indian Idli Sambar, Khasta Kachori, Chole Bhature, or Jharkhand Famous Dhuska with Ghugni.",
+      "items": ["Daily Breakfast Dish", "Accompaniments", "Chutney/Pickle"],
+      "badge": "Morning Special"
+    }
+  ],
+  "non_veg": [
+    {
+      "name": "Dehati Chicken Curry Thali",
+      "price": "150",
+      "description": "Ranchi style slow-cooked spicy chicken curry (3 pieces) made with authentic local whole spices, served with fresh Basmati Rice or 4 Chapatis, Dal Fry, crispy bhujia, salad, and pickle.",
+      "items": ["Dehati Chicken (3pcs)", "Basmati Rice or 4 Chapatis", "Yellow Dal", "Crispy Bhujia", "Salad", "Pickle"],
+      "badge": "Sunday Special"
+    },
+    {
+      "name": "Hyderabadi Chicken Dum Biryani",
+      "price": "150",
+      "description": "Aromatic dum-cooked basmati biryani with marinated tender chicken pieces, caramelized onions, mint, and saffron, accompanied by spiced cucumber raita and rich salan.",
+      "items": ["Chicken Dum Biryani", "Cucumber Raita", "Mirchi Salan", "Salad"],
+      "badge": "Friday Night Special"
+    },
+    {
+      "name": "Ranchi Rohu Fish Curry Thali",
+      "price": "140",
+      "description": "Fresh Rohu fish (2 pieces) prepared in traditional Jharkhand mustard-garlic-tomato gravy, served with hot steamed rice, crispy bhujia, lemon, sliced onions, and papad.",
+      "items": ["Rohu Fish (2pcs)", "Steamed Rice", "Fish Gravy", "Crispy Bhujia", "Salad", "Papad"],
+      "badge": "Wednesday Special"
+    },
+    {
+      "name": "Homestyle Egg Curry Thali",
+      "price": "110",
+      "description": "Two pan-fried hard-boiled eggs simmered in rich tomato-onion gravy, served alongside steamed Basmati Rice, 4 wheat rotis, dal fry, crispy bhujia, and green salad.",
+      "items": ["Egg Curry (2 Eggs)", "Steamed Rice or 4 Chapatis", "Dal Fry", "Crispy Bhujia", "Salad", "Pickle"],
+      "badge": "Friday Special"
+    }
+  ]
+}
